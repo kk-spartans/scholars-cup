@@ -1,6 +1,5 @@
 > [[Rip Van Winkle]] slept for twenty years, [[Captain America|Steve Rogers]] for seventy, [[Avatar The Last Airbender|Aang]] for a hundred- in each case, with remarkably little impact on their health. (Rip Van Winkle did grow some facial hair.) Imagine that you went through something similar and woke up in the year 2120 (albeit with neither superpowers nor supercharged follicles.) How quickly do you think you’d notice you were in the future? Would beds feel different? Would chairs be strange shapes? Would there be funky new food in the fridge? Would there still be a Global Round in Bangkok? Outside your home, would you encounter a strange new society or one roughly like our own? Or would you encounter no society at all, just a picturesque (and probably terrifying) post-apocalyptic landscape
 
-
 To answer this question, I think we should start by looking at the differences between 1920 and 2020. Also, looking at people's predictions of the future 100 years ago would be nice to see what they did wrong and what we can do right.
 
 Considering [[The Routine Right Now]], [[The Routine in the 1920s]], [[The Differences Between 1920 and Now]], and [[What People Thought The Future Would Be Like]]; I think there would be a few things that could happen in the future (Made by gpt4o because I was lazy):
