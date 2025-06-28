@@ -11,5 +11,6 @@
  - [[11 - The Generative Area: A Mind for Imagination]]
  - [[12 - No Backup, But Restore]]
  - [[13 - Punky Futures]]
- - [[14 - Concluding Questions]] 
+ - [[14 - Concluding Questions]]
+
 To be clear, when something is ai generated - it's **explicitly** mentioned. Otherwise, it's human written.
