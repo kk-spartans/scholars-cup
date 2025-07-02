@@ -1,0 +1,13 @@
+{
+  "accentColor": "#ffa8ec",
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true,
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "General Tweaks"
+  ]
+}

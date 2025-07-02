@@ -1,0 +1,56 @@
+{
+  "workspace:close-window": [],
+  "editor:delete-paragraph": [],
+  "editor:follow-link": [],
+  "workspace:goto-last-tab": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
