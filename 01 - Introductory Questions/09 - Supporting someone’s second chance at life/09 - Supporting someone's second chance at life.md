@@ -2,7 +2,7 @@
 
 I don't feel like I personally know someone like this, but there are some celebs who are like this.
 
-## Examples of People Who Found New Leases on Life
+## Examples Of People Who Found New Leases On Life
 
  - **Robert Downey Jr.:** Literal poster child for self-destruction -> redemption. He went from being blacklisted due to drug abuse and arrests to becoming Iron Man and one of the highest-paid actors in the world. Studios wouldn’t insure him at one point. Now he is the insurance.
 

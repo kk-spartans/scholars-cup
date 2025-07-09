@@ -7,14 +7,7 @@
   "workspace:goto-tab-2": [],
   "workspace:goto-tab-3": [],
   "workspace:goto-tab-4": [],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Tab"
-    }
-  ],
+  "workspace:next-tab": [],
   "workspace:previous-tab": [
     {
       "modifiers": [
@@ -52,5 +45,15 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "obsidian-linter:lint-all-files": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:open-link-in-new-leaf": []
 }

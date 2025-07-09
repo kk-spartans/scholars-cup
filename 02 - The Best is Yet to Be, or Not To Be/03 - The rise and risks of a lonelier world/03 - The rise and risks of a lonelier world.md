@@ -1,6 +1,6 @@
 > Sometimes social distancing is the problem. In 2023, the World Health Organization declared loneliness a pressing [global health threat](https://www.theguardian.com/global-development/2023/nov/16/who-declares-loneliness-a-global-public-health-concern). Explore how this concern varies [around the world](https://www.sciencealert.com/global-review-finds-loneliness-is-a-common-and-harrowing-issue-we-are-overlooking), then discuss with your team: do you agree that there is a “loneliness epidemic”—and, if so, how can it be treated?
 
-## How This Varies around the World
+## How This Varies Around The World
 
 - **Worldwide**
   - Common across all regions, worsened post-COVID
@@ -40,7 +40,7 @@
 
 **Discalimer: The EU is highly misrepresented here because of the abundanance of data**
 
-## Is there a Loneliness Epidemic and how Can it Be Treated?
+## Is There A Loneliness Epidemic And How Can It Be Treated?
 
 In my opinion: **no**. There isn't a loneliness epidemic because it's affected people are less than 50%. That doesn't mean that this needs to be addressed right now, here are some ways:
 

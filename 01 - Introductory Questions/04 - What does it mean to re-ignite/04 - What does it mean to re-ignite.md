@@ -10,7 +10,7 @@ This is different from igniting in the first place, which is when these companie
 
 It's better for something to burn twice when that burn is controlled, Instagram got lucky because meta bought them. Otherwise, they had no way of making money with 30 million users already. But X had a very controlled 2nd burn.
 
-## Burning Up, Down, and With
+## Burning Up, Down, And With
 
  - **Burning Up** - Something burning without control, and demolishing everything in it's way. For example, [[Theranos]]
  - **Burning Down** - Something that burns in a controlled way but still fails. For example [[Myspace]]

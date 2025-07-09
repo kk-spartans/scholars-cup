@@ -1,5 +1,5 @@
 - [[01 - Why do we crave knowing the future]]
-- [[02 - Can poetry really predict anything?]]
+- [[02 - Can poetry really predict anything]]
 - [[03 - Ancient divination: weird then, weird now?]]
 - [[04 - Should fortune telling be a real job?]]
 - [[05 - When physicists become prophets]]

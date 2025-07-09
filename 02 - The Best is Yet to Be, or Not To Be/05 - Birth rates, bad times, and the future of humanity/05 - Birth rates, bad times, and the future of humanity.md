@@ -8,7 +8,7 @@ Poverty is not one of those.
 
 Probably not, we’ve had huge population drops before and still recovered. But I feel like it’s different right now since fertility rates are also down, but it’s still above 2.1. We should be considering that fertility rates are also decreasing — but i don’t think that should really matter.
 
-## Should We want it To?
+## Should We Want It To?
 
 I think we shouldn’t. Killing already existing people on purpose is “immoral”, so preventing new ones from being born is the sole thing that will solve this supply and demand crisis that we have in this world right now.
 

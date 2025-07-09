@@ -2,11 +2,11 @@
 
 I feel like the linked articles already do justice to this. So moving on to the questions:
 
-## Are They the Sorts of Solutions that More Societies Should Adopt?
+## Are They The Sorts Of Solutions That More Societies Should Adopt?
 
 Yes — but only for the elderly, this doesn’t actually fully replace caretakers, but it does take a bunch of the actually physical work off their hands. This also means that people who couldn’t be caretakers before can now, thanks to these bots.
 
-## What Technologies Would You Design to Achieve the Same Aims?
+## What Technologies Would You Design To Achieve The Same Aims?
 
 I feel like there is one big problem that’s being expressed in these articles:
 
