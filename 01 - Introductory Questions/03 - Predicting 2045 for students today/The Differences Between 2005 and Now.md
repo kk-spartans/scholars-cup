@@ -1,4 +1,5 @@
 (Claude 4 Sonnet Generated)
+
 Look at the differences here:
 
 - Rn, we wake up with phones that control our entire house and track our sleep. In 2005 we had chunky red LED alarm clocks that did exactly one thing.
@@ -19,4 +20,4 @@ Look at the differences here:
    
 - We rented DVDs from Blockbuster like it was convenient. Netflix mailed DVDs and instant streaming was science fiction.
    
-- Social plans required advance notice because texting cost money per message and we wrote "r u goin 2 the party 2nite?" to save characters.
+- Social plans required advance notice because texting cost money per message and we wrote "r u going 2 the party 2nite?" to save characters.

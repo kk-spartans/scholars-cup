@@ -19,4 +19,3 @@ This is what gpt4o would tell me how a person in the 1920s would live:
 - Back home, I do chores or maybe read a bit. If I’ve got any free time, I listen to the radio-comedy shows, music, maybe a news report if I want to feel like I understand the world. No screens, just voices in a box.
 
 - I go to bed while the radio plays soft swing music. If I’m lucky, the neighbors aren’t fighting and the rats stay in the walls.
-

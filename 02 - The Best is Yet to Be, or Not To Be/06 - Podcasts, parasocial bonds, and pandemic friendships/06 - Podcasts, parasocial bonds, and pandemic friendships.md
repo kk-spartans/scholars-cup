@@ -14,7 +14,7 @@ Will this be there in 10 years? Let the trend graphs decide that, I used whateve
  - [[Blogging]]: [Trend Graph](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F084dw&hl=en-GB)
  - Podcasting: [Trend Graph](https://trends.google.com/trends/explore?date=all_2008&gprop=youtube&q=%2Fm%2F04058p&hl=en-GB)
 
-As you can see, blogging decreased in popularity after it’s hype ended - and I predict the same will happen to podcasting too. It won’t completely disappear, just like blogs haven’t completely dissappeared.
+As you can see, blogging decreased in popularity after it’s hype ended - and I predict the same will happen to podcasting too. It won’t completely disappear, just like blogs haven’t completely disappeared.
 
 > What goes up, must come down.
   \- Isaac Newton

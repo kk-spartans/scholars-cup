@@ -1,4 +1,4 @@
-> There’s no denying that some things excite our passions. For some of you, maybe, World Scholar’s Cup is that kind of cause; others of you might thrill to the fight against global climate change, a big boss in the Forgotten Land, or the harmful impacts of social media. But what would it take to have your feelings about something (or somewhere or someone) _re-ignited_? Under what circumstances does a person leave a project, then return to it with new zeal?
+> There’s no denying that some things excite our passions. For some of you, maybe, World Scholar’s Cup is that kind of cause; others of you might thrill to the fight against global climate change, a big boss in the Forgotten Land, or the harmful impacts of social media. But what would it take to have your feelings about something (or somewhere or someone) *re-ignited*? Under what circumstances does a person leave a project, then return to it with new zeal?
 
 This is a very opinionated question — and in *my* opinion, most people come back to a project when one of these things happen:
 

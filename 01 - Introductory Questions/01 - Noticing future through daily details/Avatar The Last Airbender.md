@@ -2,9 +2,10 @@
 aliases:
   - Aang
 ---
+
 Movie starts with some fighting between a brother and a sister, I forget the names. Their mom died and only their grandma is left - and they live in a world where:
 
->There are 4 benders of elements that people can be, Air, Water, Fire, and Earth - each one can do special things with their element. The 4 benders used to be in harmony, but now are in war.
+> There are 4 benders of elements that people can be, Air, Water, Fire, and Earth - each one can do special things with their element. The 4 benders used to be in harmony, but now are in war.
 
 The girl and the boy are both Waterbenders btw.
 

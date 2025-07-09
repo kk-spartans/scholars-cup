@@ -8,7 +8,8 @@ So which was better?
 <details>
 <summary>Guess. Don't open this until guessing.</summary>
 
-Underpromising and overdelivering is obviously better — Look, if Australia failed (and they did), the public would (and does) hate them. But if the wii or e-goverment failed, they could just say "waste of money" and have no PR damage. If they succeded, it's positive PR and more money for them.
+Underpromising and overdelivering is obviously better — Look, if Australia failed (and they did), the public would (and does) hate them. But if the wii or e-goverment failed, they could just say "waste of money" and have no PR damage. If they succeeded, it's positive PR and more money for them.
 
 I'm ignoring the fact that all press is good press.
+
 </details>

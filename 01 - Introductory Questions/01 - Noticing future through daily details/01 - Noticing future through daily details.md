@@ -6,13 +6,13 @@ Considering [[The Routine Right Now]], [[The Routine in the 1920s]], [[The Diffe
 
 - **My routine is totally obsolete**. Not in a “haha floppy disks” way-more like “why were humans still touching toothbrushes??” Everything mundane is probably automated, embedded, or ambient. Beds will adjust themselves based on brainwaves or something spooky. Showers might just scan and clean you like you’re luggage at the airport.
 
-- **Screens are gone.** Not replaced, _transcended_. Holograms, AR overlays, and neural links are probably how people watch cat videos now. You don’t scroll, you _experience_ the algorithm in real-time brainspace.
+- **Screens are gone.** Not replaced, *transcended*. Holograms, AR overlays, and neural links are probably how people watch cat videos now. You don’t scroll, you *experience* the algorithm in real-time brainspace.
 
 - **Education is a USB stick away.** Or it’s beamed into your consciousness. Learning Computer Science might be as basic as learning the alphabet. What’s cutting-edge now might be kindergarten stuff then-AI ethics, interstellar economics, memetic warfare.
 
 - **Transport? Practically teleportation.** If we haven’t cracked actual teleportation (because physics is rude), it’ll be hyperloops, self-driving pods, or drones carrying people like confused mail. Fossil fuels will be a curse word.
 
-- **Society will feel alien**. Not because of flying robots, but because the _values_ and _norms_ will have shifted hard. Think fewer “nations” and more “networked communities.” Everyone speaks twenty languages-thanks, brain chip. You might say something completely normal and get banned from the future-internet for it.
+- **Society will feel alien**. Not because of flying robots, but because the *values* and *norms* will have shifted hard. Think fewer “nations” and more “networked communities.” Everyone speaks twenty languages-thanks, brain chip. You might say something completely normal and get banned from the future-internet for it.
 
 - **Food? Either gourmet lab-grown molecular gastronomy or sad Soylent v22.1.** Possibly both. It’s either hyper-efficient or hyper-indulgent, depending on where you are on the social hierarchy ladder. (Which probably still exists, just now with extra dystopia.)
 

@@ -2,11 +2,11 @@
 
 I feel like the linked articles already do justice to this. So moving on to the questions:
 
-## Are they the sorts of solutions that more societies should adopt?
+## Are They the Sorts of Solutions that More Societies Should Adopt?
 
 Yes — but only for the elderly, this doesn’t actually fully replace caretakers, but it does take a bunch of the actually physical work off their hands. This also means that people who couldn’t be caretakers before can now, thanks to these bots.
 
-## What technologies would you design to achieve the same aims?
+## What Technologies Would You Design to Achieve the Same Aims?
 
 I feel like there is one big problem that’s being expressed in these articles:
 
@@ -15,13 +15,12 @@ I feel like there is one big problem that’s being expressed in these articles:
  - The caretakers have a hard time fixing when the elderly get too attached to these things.
  - There is still a scope of things that only caretakers can do, and robots can’t.
 
-So it’s probably very clear what problem we need to fix, because the rest of the problems stem from this one problem. 
+So it’s probably very clear what problem we need to fix, because the rest of the problems stem from this one problem.
 
-> There is still a scope of things that only caretakers can do, and robots can’t. 
+> There is still a scope of things that only caretakers can do, and robots can’t.
 
 So my idea is we need to make better “World AI Models” that understand the world better. Have a good sense of vision and audio, not only text. We already ludicrously accurate OCR engines (Microsoft trOCR, maybe sometimes EasyOCR) and SST engines (OpenAI whisper large) and TTS engines (ElevenLabs’ stuff has transcended the uncanny valley).
 
 And the magic that Boston Dynamics is doing proves that we have the hardware done.
 
 All we need is better vision models, even the best of the best (Gemini 2.5 Pro) are kinda bad at vision. If we have better vision models, we can create good, sympathetic robots.
-

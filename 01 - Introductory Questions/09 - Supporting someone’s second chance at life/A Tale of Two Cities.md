@@ -1,6 +1,6 @@
 (summary by gpt4o, I modified it a bit)
 
-**_A Tale of Two Cities_** by Charles Dickens is a historical novel set during the French Revolution, bouncing between London and Paris (hence the “two cities”). Here's the gist:
+***A Tale of Two Cities*** by Charles Dickens is a historical novel set during the French Revolution, bouncing between London and Paris (hence the “two cities”). Here's the gist:
 
 A man named **Charles Darnay**, a French aristocrat who rejects his cruel family's legacy, and **Sydney Carton**, a disillusioned English lawyer, both fall in love with **Lucie Manette**, the daughter of **Dr. Alexandre Manette**, who was unjustly imprisoned in the Bastille for 18 years.
 
