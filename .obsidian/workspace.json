@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "342d9d7ad31c3018",
+            "id": "b6cbeb718bfd8758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - The Best is Yet to Be, or Not To Be/02 - The Best is Yet to Be, or Not To Be.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/01 - Why do we crave knowing the future/01 - Why do we crave knowing the future.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - The Best is Yet to Be, or Not To Be"
-            }
-          },
-          {
-            "id": "348e95f36b0329b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - The Best is Yet to Be, or Not To Be/08 - News overload and the case for mystery/08 - News overload and the case for mystery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 - News overload and the case for mystery"
+              "title": "01 - Why do we crave knowing the future"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "###",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,9 +156,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "348e95f36b0329b4",
+  "active": "b6cbeb718bfd8758",
   "lastOpenFiles": [
+    "03 - In Futurity, Someone Prophetic Sees/03 - In Futurity, Someone Prophetic Sees.md",
+    "02 - The Best is Yet to Be, or Not To Be/02 - Why megaprojects fail (and what that says about us)/02 - Why megaprojects fail (and what that says about us).md",
+    "03 - In Futurity, Someone Prophetic Sees/01 - Why do we crave knowing the future/01 - Why do we crave knowing the future.md",
+    "03 - In Futurity, Someone Prophetic Sees/01 - Why do we crave knowing the future",
     "02 - The Best is Yet to Be, or Not To Be/02 - The Best is Yet to Be, or Not To Be.md",
+    "01 - Introductory Questions/07 - Convincing a pessimist the future matters/Robert Browning.md",
+    "01 - Introductory Questions/03 - Predicting 2045 for students today/The Routine In 2005.md",
+    "01 - Introductory Questions/01 - Introductory Questions.md",
+    "01 - Introductory Questions/01 - Noticing future through daily details/01 - Noticing future through daily details.md",
+    "README.md",
+    "03 - In Futurity, Someone Prophetic Sees",
     "02 - The Best is Yet to Be, or Not To Be/08 - News overload and the case for mystery/08 - News overload and the case for mystery.md",
     "02 - The Best is Yet to Be, or Not To Be/08 - News overload and the case for mystery",
     "02 - The Best is Yet to Be, or Not To Be/07 - Social media, algorithms, and accidental harm/07 - Social media, algorithms, and accidental harm.md",
@@ -188,7 +183,6 @@
     "02 - The Best is Yet to Be, or Not To Be/05 - Birth rates, bad times, and the future of humanity",
     "02 - The Best is Yet to Be, or Not To Be/04 - Can technology fix loneliness/04 - Can technology fix loneliness.md",
     "02 - The Best is Yet to Be, or Not To Be/04 - Can technology fix loneliness",
-    "README.md",
     "02 - The Best is Yet to Be, or Not To Be/03 - The rise and risks of a lonelier world/03 - The rise and risks of a lonelier world.md",
     "Untitled.md"
   ]

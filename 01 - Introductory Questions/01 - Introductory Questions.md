@@ -1,5 +1,3 @@
-Questions inside this theme (The short titles were made by gpt-4o):
-
 - [[01 - Noticing future through daily details]]
 - [[02 - Comparing everyday life across centuries]]
 - [[03 - Predicting 2045 for students today]]

@@ -1,5 +1,5 @@
 
-(ChatGPT Generated)
+(gpt4o Generated)
 
 - I wake up in my bed, jolted by my *digital* alarm clock — the kind with red LED numbers. My mattress is actual cotton or that new "memory foam" stuff my parents won’t shut up about.
 

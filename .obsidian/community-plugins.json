@@ -5,5 +5,6 @@
   "obsidian-smart-typography",
   "obsidian-completr",
   "obsidian-text-format",
-  "dataview"
+  "dataview",
+  "obsidian-linter"
 ]

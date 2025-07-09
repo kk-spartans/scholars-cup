@@ -13,4 +13,4 @@
  - [[13 - Punky Futures]]
  - [[14 - Concluding Questions]]
 
-To be clear, when something is ai generated - it's **explicitly** mentioned. Otherwise, it's human written.
+To be clear, when something is ai generated - it's **explicitly** mentioned (other than the short titles in the home of each theme). Otherwise, it's human written.
