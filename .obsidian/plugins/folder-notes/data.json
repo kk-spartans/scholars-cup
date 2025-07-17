@@ -19,7 +19,7 @@
   "openInNewTab": false,
   "focusExistingTab": false,
   "oldFolderNoteName": "{{folder_name}}",
-  "folderNoteName": "README",
+  "folderNoteName": "{{folder_name}}",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
   "newFolderNoteName": "{{folder_name}}",

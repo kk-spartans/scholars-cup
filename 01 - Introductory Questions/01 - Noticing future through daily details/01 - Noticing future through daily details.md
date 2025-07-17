@@ -4,7 +4,7 @@ To answer this question, I think we should start by looking at the differences b
 
 Considering [[The Routine Right Now]], [[The Routine in the 1920s]], [[The Differences Between 1920 and Now]], and [[What People Thought The Future Would Be Like]]; I think there would be a few things that could happen in the future (Made by gpt4o because I was lazy):
 
-- **My routine is totally obsolete**. Not in a “haha floppy disks” way-more like “why were humans still touching toothbrushes??” Everything mundane is probably automated, embedded, or ambient. Beds will adjust themselves based on brainwaves or something spooky. Showers might just scan and clean you like you’re luggage at the airport.
+- **My routine is totally obsolete**. Not in a “floppy disks”, like “why were humans still touching toothbrushes?” Everything mundane is probably automated, embedded, or ambient. Beds will adjust themselves based on brainwaves or something spooky. Showers might just scan and clean you like you’re luggage at the airport.
 
 - **Screens are gone.** Not replaced, *transcended*. Holograms, AR overlays, and neural links are probably how people watch cat videos now. You don’t scroll, you *experience* the algorithm in real-time brainspace.
 

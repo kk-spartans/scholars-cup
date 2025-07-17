@@ -25,4 +25,4 @@ If there won’t be a time paradox if I read it, and I can change what’ll happ
 I could probably see every single embarrassing mistake I ever will make and *not* make it. I could see why colleges reject me and **try again**.
 
 > Man is the only creature that seeks to understand. He has an incurable itch to know. He asks, and cannot stop asking, Why? How? Where?
->  - Charles Krauthammer
+>  - Charles Krauthammer ^qoute

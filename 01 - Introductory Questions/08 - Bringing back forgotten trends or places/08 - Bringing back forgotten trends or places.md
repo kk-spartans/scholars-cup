@@ -7,6 +7,6 @@ I feel like, right now (even though I don’t see it much in my community), thes
  - **Y2K Fashion:** I don’t know how to explain
  - **Tarot, Astrology, and Other Ancient Vibes:** We’ll cover this later
  - **Film / Analogue Cameras:** Because it’s higher quality and captures feelings instead of pixels
-  - **Mechanical Keyboards:** I can’t express in words the amount of people building custom mechanical keyboards right now. While we have better switches and keycaps, the tech is still the same as the 80s (Although it looks and feels *SO* much better).
+ - **Mechanical Keyboards:** I can’t express in words the amount of people building custom mechanical keyboards right now. While we have better switches and keycaps, the tech is still the same as the 80s (Although it looks and feels *SO* much better).
 
 That’s basically it imho.

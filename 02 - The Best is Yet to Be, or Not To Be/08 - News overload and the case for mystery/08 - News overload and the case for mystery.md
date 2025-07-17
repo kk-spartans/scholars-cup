@@ -12,6 +12,8 @@ And when I get home, I look it up, and I feel *less* like I don’t know somethi
 
 I feel like this isn’t the point of the question though, this is people ingesting new information without actually having questions about it.
 
+## Other People
+
 If this is actually affecting people’s mental health (which I doubt), we should probably control the way that it changes our moods, and not control how much of it we take in (unless we want to).
 
 For example, if we see bad news - we should be thinking “Why are only a few of these stories on the news?” and not “Awwww… that’s sad”.
