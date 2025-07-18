@@ -14,6 +14,6 @@ I think we shouldn’t. Killing already existing people on purpose is “immoral
 
 We have already overpopulated this world, unless someone has a plan to give everyone money (step 1) and send half the world to another planet or find a way to get more land on earth (step 2), the only way to have a stable economy is to reduce the population.
 
-I feel like we’ve crossed a line on a graph — the larger the population, the less money we have to support each person separately. If the population goes too high, we’ll have less money —  making people die to balance the population again.
+I feel like we’ve crossed a line on a graph — the larger the population, the less money we have to support each person separately. If the population goes too high, we’ll have less money — making people die to balance the population again.
 
 This is nature’s way of making sure we don’t mess up and have a tiny economy with a large population. Also, the economy isn’t just money — it’s land. And we don’t have much easy to obtain land left.

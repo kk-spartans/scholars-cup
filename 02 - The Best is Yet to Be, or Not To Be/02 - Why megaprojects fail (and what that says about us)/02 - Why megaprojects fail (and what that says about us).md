@@ -5,6 +5,7 @@ table
 from "02 - The Best is Yet to Be, or Not To Be/02 - Why megaprojects fail (and what that says about us)"
 where file.name != "02 - Why megaprojects fail (and what that says about us)"
 ```
+
 ## **Is This Shift In Approach justified?**
 
 Sometimes, yeah. Politions love cutton ribbons but don't wanna pay the bills. Switching to small incremental projects can make politions (and people) feel like there is progress happening (and to an extent, there is). These projects are easier to manage, budget, and most importantly - finish. But it also reeks of a system that's afraid to dream big because it keeps tripping over its own shoelaces.

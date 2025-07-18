@@ -1,6 +1,7 @@
 ---
 still-used: no
 ---
+
 Burning bones (often scapulae) and reading the cracks.
 
 Why people used it:

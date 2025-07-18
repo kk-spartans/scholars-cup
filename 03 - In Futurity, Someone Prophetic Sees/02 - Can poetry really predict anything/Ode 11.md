@@ -12,7 +12,8 @@ Not you, not me: don’t ask, don’t hunt for answers
 In tea leaves or palms. Be patient with whatever comes.  
 ```
 
-This is a reference to old ways of fortune telling. 
+This is a reference to old ways of fortune telling.
+
  - Tea leaves is “tasseography”, an old form of fortune telling by reading patterns in tea residue.
  - Palms is just “palmistry”, reading someone’s fate by the lines on their hands.
 

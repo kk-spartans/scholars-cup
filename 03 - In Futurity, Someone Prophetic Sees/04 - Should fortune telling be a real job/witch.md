@@ -1,2 +1,1 @@
-A superset of fortune telling, which includes casting spells<!-- lol *there’s no way* -->, 
-
+A superset of fortune telling, which includes casting spells<!-- lol *there’s no way* -->, banishing curses, etc.
