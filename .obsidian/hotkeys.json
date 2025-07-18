@@ -55,7 +55,15 @@
       "key": "L"
     }
   ],
-  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
   "editor:add-cursor-above": [
     {
       "modifiers": [
@@ -72,6 +80,16 @@
         "Mod"
       ],
       "key": "J"
+    }
+  ],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": [],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
     }
   ]
 }
