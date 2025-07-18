@@ -82,6 +82,8 @@ interceded
 inflation
 investment
 industry
+involves
+interacting
 this
 theme
 titles
@@ -194,6 +196,9 @@ terror
 towards
 tunnel
 technically
+trance
+tuned
+thoughts
 The
 There
 That
@@ -423,6 +428,12 @@ said
 spell
 speak
 supernatural
+shaman
+spirit
+states
+such
+surroundings
+steroids
 were
 with
 world
@@ -495,6 +506,7 @@ wiped
 waking
 wikepedia
 widely
+weirdly
 made
 major
 many
@@ -1039,6 +1051,7 @@ position
 present
 putting
 peck
+practitioner
 In
 Islands
 Is
@@ -1196,6 +1209,7 @@ longer
 last
 leaks
 letters
+lucid
 Explore
 Eastern
 Europe
@@ -1604,6 +1618,7 @@ although
 accidental
 arranged
 astronaut
+altered
 epidemic
 etc
 emotional
@@ -2046,6 +2061,7 @@ unpredictable
 unsettling
 underground
 ugly
+unconscious
 Virtually
 Voiceover
 Visual
