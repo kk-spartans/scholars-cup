@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Why?",
+                "query": "wikepedia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "58c71a69b5881a4a",
+  "active": "ae507a8952da7a2a",
   "lastOpenFiles": [
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/shaman.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/04 - Should fortune telling be a real job.md",
