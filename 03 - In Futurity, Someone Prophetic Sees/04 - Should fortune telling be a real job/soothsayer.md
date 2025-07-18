@@ -1,1 +1,1 @@
-A person supposed to be able to foresee the future. They usually use supernatural 
+A person supposed to be able to foresee the future.
