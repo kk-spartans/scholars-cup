@@ -422,6 +422,7 @@ somone
 said
 spell
 speak
+supernatural
 were
 with
 world
@@ -2290,6 +2291,7 @@ fun
 falcon
 falconer
 flooding
+foresee
 know
 kinda
 kind
