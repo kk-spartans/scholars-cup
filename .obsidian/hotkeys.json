@@ -7,16 +7,15 @@
   "workspace:goto-tab-2": [],
   "workspace:goto-tab-3": [],
   "workspace:goto-tab-4": [],
-  "workspace:next-tab": [],
-  "workspace:previous-tab": [
+  "workspace:next-tab": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Mod"
       ],
       "key": "Tab"
     }
   ],
+  "workspace:previous-tab": [],
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
@@ -58,8 +57,7 @@
   "editor:open-link-in-new-leaf": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "Enter"
     }
@@ -90,6 +88,24 @@
         "Mod"
       ],
       "key": "O"
+    }
+  ],
+  "obsidian-completr:completr-bypass-tab-key": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "obsidian-completr:completr-bypass-enter-key": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
     }
   ]
 }

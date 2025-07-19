@@ -14,7 +14,7 @@ I don't feel like I personally know someone like this, but there are some celebs
 
 ## How We Can Help Them
 
- - Believe them before they do anything trustworthy, this encourages them to gain your (and other people's trust).
+ - Believe them before they do anything trustworthy, this encourages them to gain your (and other people's) trust.
  - Shut up and listen, or just pretend to listen - they probably won't even care. Some people just need a human echo chamber.
  - Stop reminding them of their past, especially accidentally.
  - Don't smother them in support that they don't want. Respect their boundaries.
