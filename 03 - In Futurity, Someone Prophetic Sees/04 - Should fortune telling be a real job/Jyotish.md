@@ -1,0 +1,1 @@
+Also called Hindu Astrology, Indian Astrology, or Vedic Astrology — 
