@@ -8,4 +8,5 @@ Right now, I can almost guarantee that you have some form of social media instal
 
 Why did you install / not uninstall these apps? Because we **need** to know information, the human brain has a large encephalization quotient for a reason.
 
-The problem arrives when we *use* those brain cells too much for things that don’t matter”. This is 
+The problem arrives when we *use* those brain cells too much for things that don’t matter”. To understand this, we need to understand the algorithms behind these things.
+
