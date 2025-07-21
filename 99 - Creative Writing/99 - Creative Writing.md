@@ -1,0 +1,4 @@
+ - [[The truth is only as valuable as the person who speaks it]]
+ - [[What entertains us owns us]]
+ - [[People should have the right not to know]]
+ - [[Blame the machine, not the mechanic]]
