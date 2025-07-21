@@ -8,58 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7ba93a95d2a89be",
+            "id": "07be1ad75c48fbf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "99 - Creative Writing/Blame the machine, not the mechanic.md",
-                "mode": "source",
-                "source": false
+                "file": "Blame the machine, not the mechanic.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "Blame the machine, not the mechanic"
             }
           },
           {
-            "id": "54c2c1d5c59cf427",
+            "id": "2c5b9878e1a3b6d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "99 - Creative Writing/People should have the right not to know.md",
-                "mode": "source",
-                "source": false
+                "file": "People should have the right not to know.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "People should have the right not to know"
             }
           },
           {
-            "id": "b320574926bae7f5",
+            "id": "48318d0a9e162d6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "99 - Creative Writing/The truth is only as valuable as the person who speaks it.md",
-                "mode": "source",
-                "source": false
+                "file": "The truth is only as valuable as the person who speaks it.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "The truth is only as valuable as the person who speaks it"
             }
           },
           {
-            "id": "1e7f326a2f0095d8",
+            "id": "bf771608b4686582",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "99 - Creative Writing/What entertains us owns us.md",
-                "mode": "source",
-                "source": false
+                "file": "What entertains us owns us.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "What entertains us owns us"
             }
           }
@@ -100,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Creative Writing/What entertains us owns us.md",
+                "file": "What entertains us owns us.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -115,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Creative Writing/What entertains us owns us.md",
+                "file": "What entertains us owns us.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Creative Writing/What entertains us owns us.md",
+                "file": "What entertains us owns us.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -199,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +203,16 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "1e7f326a2f0095d8",
+  "active": "bf771608b4686582",
   "lastOpenFiles": [
-    "99 - Creative Writing/The truth is only as valuable as the person who speaks it.md",
-    "99 - Creative Writing/People should have the right not to know.md",
+    "The truth is only as valuable as the person who speaks it.pdf",
+    "People should have the right not to know.pdf",
+    "Blame the machine, not the mechanic.pdf",
     "99 - Creative Writing/Blame the machine, not the mechanic.md",
+    "99 - Creative Writing/People should have the right not to know.md",
+    "99 - Creative Writing/The truth is only as valuable as the person who speaks it.md",
+    "99 - Creative Writing/What entertains us owns us.md",
+    "What entertains us owns us.pdf",
     "README.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/04 - Should fortune telling be a real job.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/horoscopes.md",
@@ -237,17 +234,11 @@
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/fortune teller.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/oracle.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/soothsayer.md",
-    "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/shaman.md",
-    "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/witch.md",
     "99 - Creative Writing",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job",
     "03 - In Futurity, Someone Prophetic Sees/03 - Ancient divination - weird then, weird now",
     "03 - In Futurity, Someone Prophetic Sees/02 - Can poetry really predict anything",
     "03 - In Futurity, Someone Prophetic Sees/01 - Why do we crave knowing the future",
-    "03 - In Futurity, Someone Prophetic Sees",
-    "02 - The Best is Yet to Be, or Not To Be/08 - News overload and the case for mystery",
-    "02 - The Best is Yet to Be, or Not To Be/07 - Social media, algorithms, and accidental harm",
-    "02 - The Best is Yet to Be, or Not To Be/06 - Podcasts, parasocial bonds, and pandemic friendships",
-    "02 - The Best is Yet to Be, or Not To Be/05 - Birth rates, bad times, and the future of humanity"
+    "03 - In Futurity, Someone Prophetic Sees"
   ]
 }
