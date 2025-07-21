@@ -27,4 +27,5 @@
 table
 from "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job"
 where file.name != "04 - Should fortune telling be a real job"
+where file.name != "hexagrams"
 ```

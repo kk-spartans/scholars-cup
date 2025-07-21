@@ -12,6 +12,6 @@ We like to think we own our attention, but we rent it to whatever’s loudest, f
 
 Even emotions are outsourced now. Scared? Horror movie. Lonely? Rom-com. Empty? 47-episode anime arc. Your feelings are managed like a playlist — curated for engagement.
 
-You say you’re not addicted, but you know the plotlines of 14 shows, can quote entire memes, and can’t sit through dinner without checking your phone. You don’t follow trends — they _puppeteer_ you.
+You say you’re not addicted, but you know the plotlines of 14 shows, can quote entire memes, and can’t sit through dinner without checking your phone. You don’t follow trends — they *puppeteer* you.
 
 It’s not evil. It’s not good. It’s just there. Feeding us, shaping us, keeping us fed on a diet of scrolling, laughing... forgetting.

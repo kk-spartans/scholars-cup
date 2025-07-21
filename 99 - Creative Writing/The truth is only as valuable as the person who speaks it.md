@@ -4,7 +4,7 @@ You could be spitting facts harder than anyone in the room — but how famous ar
 
 Imagine a random guy on reddit posts ‘the government is fake’ - you scroll past. Snowden says the same thing? Now it’s a Netflix Documentary.
 
-Truth isn’t measured by _what_ is said. It’s measured by _who_ says it. And honestly, most people don’t want truth — they want a vibe that sounds like truth, from someone they like. If Gandhi told you to touch grass, you’d reflect. If your little brother did, you’d block him.
+Truth isn’t measured by *what* is said. It’s measured by *who* says it. And honestly, most people don’t want truth — they want a vibe that sounds like truth, from someone they like. If Gandhi told you to touch grass, you’d reflect. If your little brother did, you’d block him.
 
 Even algorithms get it. Social media doesn’t just analyze the content — it checks the speaker. Good lighting, high engagement, symmetrical face? Boosted. You could solve world hunger in a blurry video with 5 likes and still get buried under someone lip-syncing bad advice.
 
