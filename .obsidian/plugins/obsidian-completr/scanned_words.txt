@@ -464,6 +464,8 @@ speaker
 symmetrical
 syncing
 spreads
+spending
+sells
 were
 with
 world
@@ -646,6 +648,7 @@ matches
 measured
 marketed
 misinformation
+meth
 by
 be
 but
@@ -767,6 +770,7 @@ block
 blurry
 beat
 banger
+broke
 gpt
 groups
 governments
@@ -980,6 +984,8 @@ diviner
 devices
 disable
 dozens
+deprived
+distressed
 problem
 pressing
 post
@@ -1285,6 +1291,7 @@ linguistics
 legally
 lip
 lie
+laugh
 Explore
 Eastern
 Europe
@@ -1564,6 +1571,9 @@ consistency
 clout
 claiming
 confident
+capitalism
+currency
+closely
 varies
 vibe
 versions
@@ -1729,6 +1739,7 @@ analyzing
 angle
 ah
 advice
+attention
 epidemic
 etc
 emotional
@@ -1827,6 +1838,8 @@ encephalization
 extraordinary
 essay
 entertaining
+entertains
+explanation
 Common
 COVID
 Census
@@ -1973,6 +1986,7 @@ repetitivity
 reality
 reddit
 reflect
+relates
 Loneliness
 Lowest
 Linked
@@ -2159,6 +2173,7 @@ order
 orderly
 occupations
 object
+owns
 unemployment
 us
 unbearable
