@@ -282,6 +282,9 @@ tFo
 tv
 thinks
 trauma
+tellers
+theoretical
+thousands
 The
 There
 That
@@ -345,6 +348,9 @@ TU
 TQ
 Tc
 TGl
+Tell
+TLS
+THE
 short
 social
 so
@@ -599,6 +605,8 @@ sQ
 sNz
 sonnet
 selling
+saying
+soon
 were
 with
 world
@@ -695,6 +703,9 @@ ws
 ww
 wz
 whK
+winning
+whose
+within
 made
 major
 many
@@ -825,6 +836,8 @@ mE
 mbh
 mp
 mh
+mystics
+mining
 by
 be
 but
@@ -977,6 +990,8 @@ bZ
 bT
 bl
 ball
+books
+backed
 gpt
 groups
 governments
@@ -1149,6 +1164,7 @@ Sg
 Sk
 SH
 Sx
+SINCE
 distancing
 declared
 discuss
@@ -1269,6 +1285,7 @@ dy
 dC
 dk
 dp
+drone
 problem
 pressing
 post
@@ -1433,6 +1450,8 @@ pZ
 pcB
 pA
 preys
+physicist
+planes
 In
 Islands
 Is
@@ -1535,6 +1554,8 @@ WU
 WQ
 Wr
 WKR
+Worlds
+WASN
 Health
 How
 Highest
@@ -1577,6 +1598,7 @@ HG
 HV
 Hz
 Hl
+Humanity
 Organization
 Older
 Otherwise
@@ -1716,6 +1738,7 @@ lJ
 lCwM
 lFP
 lY
+lifetime
 Explore
 Eastern
 Europe
@@ -1771,6 +1794,7 @@ EkQ
 EM
 EwU
 EWp
+Extraterrestrial
 how
 health
 healthcare
@@ -2086,6 +2110,8 @@ cookie
 controls
 claims
 crystal
+cryptography
+choking
 varies
 vibe
 versions
@@ -2130,6 +2156,7 @@ vb
 vPr
 vC
 vQ
+voyager
 your
 you
 young
@@ -2312,6 +2339,8 @@ asS
 aEi
 am
 aJt
+award
+alarmist
 epidemic
 etc
 emotional
@@ -2444,6 +2473,7 @@ eq
 eWP
 eS
 exploitation
+encryption
 Common
 COVID
 Census
@@ -2513,6 +2543,9 @@ CX
 Ck
 Cx
 CK
+California
+Colonizing
+Cars
 regions
 risk
 region
@@ -2741,6 +2774,9 @@ DN
 DB
 DQH
 Dm
+Drones
+DOLLAR
+Driverless
 quality
 questions
 quick
@@ -2841,6 +2877,8 @@ AQ
 AZW
 AirN
 AH
+Alien
+ANYTHING
 Mediterranean
 Middle
 More
@@ -2881,6 +2919,8 @@ MQ
 MU
 Ms
 Me
+Michio
+Musks
 on
 of
 opinion
@@ -3166,6 +3206,8 @@ BQ
 Bz
 Bb
 BRv
+BACKED
+BY
 Northern
 North
 No
@@ -3329,6 +3371,7 @@ Pm
 Pn
 PD
 Pe
+Physics
 forming
 fictional
 feels
@@ -3457,6 +3500,8 @@ fv
 fWR
 fraud
 folks
+forward
+firefighting
 know
 kinda
 kind
@@ -3716,6 +3761,7 @@ Ke
 KE
 Ki
 KTu
+Kaku
 zeal
 zoom
 zU
