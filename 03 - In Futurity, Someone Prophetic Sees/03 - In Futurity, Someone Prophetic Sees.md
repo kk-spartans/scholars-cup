@@ -3,7 +3,7 @@
 - [[03 - Ancient divination - weird then, weird now]]
 - [[04 - Should fortune telling be a real job]]
 - [[05 - When physicists become prophets]]
-- [[06 - What are artists saying about fortune tellers?]]
+- [[06 - What are artists saying about fortune tellers]]
 - [[07 - Why fake prophecies still work]]
 - [[08 - Do we really have free will?]]
 - [[09 - Calendars that (actually) predict the future]]

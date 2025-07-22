@@ -285,6 +285,8 @@ trauma
 tellers
 theoretical
 thousands
+tiny
+tomorrow
 The
 There
 That
@@ -1071,6 +1073,8 @@ ggi
 gJ
 gI
 grifting
+gaze
+glaze
 Sometimes
 SE
 Sparse
@@ -1452,6 +1456,8 @@ pA
 preys
 physicist
 planes
+pro
+param
 In
 Islands
 Is
@@ -1795,6 +1801,7 @@ EM
 EwU
 EWp
 Extraterrestrial
+Evolution
 how
 health
 healthcare
@@ -2112,6 +2119,7 @@ claims
 crystal
 cryptography
 choking
+cast
 varies
 vibe
 versions
@@ -2341,6 +2349,9 @@ am
 aJt
 award
 alarmist
+absolutely
+artists
+artworks
 epidemic
 etc
 emotional
@@ -2474,6 +2485,7 @@ eWP
 eS
 exploitation
 encryption
+elon
 Common
 COVID
 Census
@@ -2777,6 +2789,7 @@ Dm
 Drones
 DOLLAR
 Driverless
+Diamond
 quality
 questions
 quick
@@ -2997,6 +3010,7 @@ oC
 oJw
 odzPl
 od
+occasionally
 unemployment
 us
 unbearable
@@ -3502,6 +3516,7 @@ fraud
 folks
 forward
 firefighting
+fanboy
 know
 kinda
 kind
@@ -3671,6 +3686,7 @@ Rm
 RBI
 RJ
 Rv
+Review
 Japan
 James
 Jr
@@ -3732,6 +3748,7 @@ Gs
 GH
 GXZ
 GI
+GPQA
 Killing
 Know
 Keep
