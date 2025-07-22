@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bef05fd16c1c5d06",
+        "id": "054d6e9daaa5b4a8",
         "type": "tabs",
         "children": [
           {
-            "id": "07be1ad75c48fbf6",
+            "id": "f8fc106af1d0ae2a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Blame the machine, not the mechanic.pdf"
+                "file": "03 - In Futurity, Someone Prophetic Sees/03 - In Futurity, Someone Prophetic Sees.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blame the machine, not the mechanic"
-            }
-          },
-          {
-            "id": "2c5b9878e1a3b6d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "People should have the right not to know.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "People should have the right not to know"
-            }
-          },
-          {
-            "id": "48318d0a9e162d6e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "The truth is only as valuable as the person who speaks it.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The truth is only as valuable as the person who speaks it"
-            }
-          },
-          {
-            "id": "bf771608b4686582",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "What entertains us owns us.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "What entertains us owns us"
+              "icon": "lucide-file",
+              "title": "03 - In Futurity, Someone Prophetic Sees"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,18 +169,20 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "bf771608b4686582",
+  "active": "f8fc106af1d0ae2a",
   "lastOpenFiles": [
-    "The truth is only as valuable as the person who speaks it.pdf",
+    "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/04 - Should fortune telling be a real job.md",
+    "03 - In Futurity, Someone Prophetic Sees/03 - In Futurity, Someone Prophetic Sees.md",
+    "99 - Creative Writing/99 - Creative Writing.md",
+    "README.md",
     "People should have the right not to know.pdf",
+    "The truth is only as valuable as the person who speaks it.pdf",
+    "What entertains us owns us.pdf",
     "Blame the machine, not the mechanic.pdf",
     "99 - Creative Writing/Blame the machine, not the mechanic.md",
     "99 - Creative Writing/People should have the right not to know.md",
     "99 - Creative Writing/The truth is only as valuable as the person who speaks it.md",
     "99 - Creative Writing/What entertains us owns us.md",
-    "What entertains us owns us.pdf",
-    "README.md",
-    "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/04 - Should fortune telling be a real job.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/horoscopes.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/fortune cookies.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/crystal ball.md",
@@ -234,7 +201,6 @@
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/cartomancy.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/fortune teller.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/oracle.md",
-    "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/soothsayer.md",
     "99 - Creative Writing",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job",
     "03 - In Futurity, Someone Prophetic Sees/03 - Ancient divination - weird then, weird now",

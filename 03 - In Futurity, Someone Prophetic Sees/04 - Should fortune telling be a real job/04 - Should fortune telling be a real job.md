@@ -12,4 +12,4 @@ where file.name != "hexagrams"
 
 - **If it’s entertainment** (fortune cookies, horoscopes, etc.) — let people vibe. No one thinks a cookie controls fate.
 - **If it’s grifting** — like selling “curse removals” for 10,000 or making health claims with a crystal ball — **that’s fraud**, and yeah, governments should step in.
-- **If it preys on trauma or mental health**, definitely regulate. Some folks are vulnerable, and fake hope is still exploitation.
+- **If it preys on trauma or mental health**, definitely regulate. Some people are vulnerable, and fake hope is still exploitation.
