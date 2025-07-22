@@ -108,10 +108,10 @@
       "key": "Enter"
     }
   ],
+  "markdown:toggle-preview": [],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
       "key": "E"
@@ -120,7 +120,6 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
       "key": "D"

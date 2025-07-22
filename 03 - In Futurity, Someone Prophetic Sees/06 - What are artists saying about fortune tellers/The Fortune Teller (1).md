@@ -2,6 +2,7 @@
 author: Caravaggio
 created: "1595"
 genre: Art
+link:
 ---
 
 The author is warning people not to get distracted with predicting the future and focus on the things you have right now.
