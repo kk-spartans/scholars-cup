@@ -1,0 +1,2 @@
+> Not all fortune tellers are mystics. Michio Kaku is an award-winning theoretical physicist whose side business is predicting the future in books like *Physics of the Future and The Future of Humanity*. Explore [some of his predictions](https://futurism.com/michio-kaku-prominent-futurist-predictions), then discuss with your team: which of his predictions do you find too alarmist? Which ones do you most look forward to?
+
