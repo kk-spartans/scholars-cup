@@ -288,6 +288,9 @@ thousands
 tiny
 tomorrow
 teachers
+teller
+taught
+thieves
 The
 There
 That
@@ -355,6 +358,7 @@ Tell
 TLS
 THE
 Tour
+Torres
 short
 social
 so
@@ -615,6 +619,7 @@ stealing
 starts
 sister
 seemed
+stolen
 were
 with
 world
@@ -715,6 +720,7 @@ winning
 whose
 within
 warning
+woman
 made
 major
 many
@@ -1091,6 +1097,7 @@ glaze
 grandma
 girl
 generation
+gave
 Sometimes
 SE
 Sparse
@@ -1185,6 +1192,7 @@ Sk
 SH
 Sx
 SINCE
+She
 distancing
 declared
 discuss
@@ -1307,6 +1315,7 @@ dk
 dp
 drone
 de
+doubtful
 problem
 pressing
 post
@@ -1476,6 +1485,8 @@ planes
 pro
 param
 palm
+prediction
+payment
 In
 Islands
 Is
@@ -2143,6 +2154,10 @@ crystal
 cryptography
 choking
 cast
+coin
+concerned
+convey
+claim
 varies
 vibe
 versions
@@ -2378,6 +2393,7 @@ artworks
 author
 aliases
 avatar
+artist
 epidemic
 etc
 emotional
@@ -2721,6 +2737,7 @@ rlW
 removals
 ring
 reincarnated
+receiving
 Loneliness
 Lowest
 Linked
@@ -2971,6 +2988,7 @@ Me
 Michio
 Musks
 Movie
+Michael
 on
 of
 opinion
@@ -3136,6 +3154,7 @@ VA
 VT
 Vl
 Vq
+Vrubel
 no
 now
 needs
@@ -3561,6 +3580,7 @@ focus
 forget
 frozen
 finding
+faces
 know
 kinda
 kind
@@ -3732,6 +3752,7 @@ RBI
 RJ
 Rv
 Review
+Romero
 Japan
 James
 Jr
@@ -3762,6 +3783,7 @@ Jc
 JE
 JL
 JT
+Julio
 Gemini
 Goes
 Grab
