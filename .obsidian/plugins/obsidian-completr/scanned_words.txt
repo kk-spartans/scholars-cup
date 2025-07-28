@@ -2405,6 +2405,7 @@ author
 aliases
 avatar
 artist
+amour
 epidemic
 etc
 emotional
@@ -2543,6 +2544,7 @@ elements
 element
 eyes
 embrace
+est
 Common
 COVID
 Census
@@ -2752,6 +2754,8 @@ removals
 ring
 reincarnated
 receiving
+rebelle
+rebellious
 Loneliness
 Lowest
 Linked
@@ -2796,6 +2800,7 @@ LK
 LZ
 Link
 Luis
+Love
 Data
 Digital
 Discalimer
@@ -3004,6 +3009,7 @@ Michio
 Musks
 Movie
 Michael
+Music
 on
 of
 opinion
@@ -3082,6 +3088,7 @@ odzPl
 od
 occasionally
 owl
+oiseau
 unemployment
 us
 unbearable
@@ -3297,6 +3304,7 @@ Bb
 BRv
 BACKED
 BY
+Bizet
 Northern
 North
 No
