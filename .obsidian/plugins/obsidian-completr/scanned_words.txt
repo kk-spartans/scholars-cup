@@ -291,6 +291,7 @@ teachers
 teller
 taught
 thieves
+thief
 The
 There
 That
@@ -1320,6 +1321,8 @@ dp
 drone
 de
 doubtful
+draw
+decoration
 problem
 pressing
 post
@@ -2164,6 +2167,7 @@ coin
 concerned
 convey
 claim
+chosen
 varies
 vibe
 versions
@@ -2611,6 +2615,7 @@ California
 Colonizing
 Cars
 Caravaggio
+Cuevas
 regions
 risk
 region
@@ -2789,6 +2794,7 @@ Lj
 LK
 LZ
 Link
+Luis
 Data
 Digital
 Discalimer
@@ -3792,6 +3798,7 @@ JE
 JL
 JT
 Julio
+Jose
 Gemini
 Goes
 Grab
