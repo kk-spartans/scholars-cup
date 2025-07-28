@@ -855,6 +855,7 @@ mystics
 mining
 mom
 main
+moody
 by
 be
 but
@@ -1013,6 +1014,7 @@ benders
 boy
 btw
 beating
+bowed
 gpt
 groups
 governments
@@ -1193,6 +1195,8 @@ SH
 Sx
 SINCE
 She
+Sofia
+Schjerfbeck
 distancing
 declared
 discuss
@@ -1487,6 +1491,7 @@ param
 palm
 prediction
 payment
+painting
 In
 Islands
 Is
@@ -1636,6 +1641,7 @@ HV
 Hz
 Hl
 Humanity
+Helena
 Organization
 Older
 Otherwise
@@ -2530,6 +2536,8 @@ encryption
 elon
 elements
 element
+eyes
+embrace
 Common
 COVID
 Census
