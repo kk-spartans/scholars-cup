@@ -1,4 +1,4 @@
-> - While those predicting the future cast their gaze forward to tomorrow and the days after, some artists cast _their_ gaze (and occasionally their glaze) toward those making the predictions. Review the following artworks with your team, then discuss with your team: what are they trying to tell us?
+> - While those predicting the future cast their gaze forward to tomorrow and the days after, some artists cast *their* gaze (and occasionally their glaze) toward those making the predictions. Review the following artworks with your team, then discuss with your team: what are they trying to tell us?
 
 ```dataview
 table author, created, genre, link 
