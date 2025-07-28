@@ -129,6 +129,7 @@ iz
 ig
 iWs
 iG
+il
 this
 theme
 titles
@@ -294,6 +295,12 @@ taught
 thieves
 thief
 tame
+threats
+tait
+tu
+toi
+tenir
+tient
 The
 There
 That
@@ -362,6 +369,7 @@ TLS
 THE
 Tour
 Torres
+Tout
 short
 social
 so
@@ -623,6 +631,10 @@ starts
 sister
 seemed
 stolen
+se
+silent
+surprendre
+songs
 were
 with
 world
@@ -724,6 +736,8 @@ whose
 within
 warning
 woman
+wings
+wait
 made
 major
 many
@@ -859,6 +873,8 @@ mining
 mom
 main
 moody
+menace
+mais
 by
 be
 but
@@ -1019,6 +1035,9 @@ btw
 beating
 bowed
 br
+bien
+beware
+battit
 gpt
 groups
 governments
@@ -1104,6 +1123,7 @@ grandma
 girl
 generation
 gave
+garde
 Sometimes
 SE
 Sparse
@@ -1201,6 +1221,7 @@ SINCE
 She
 Sofia
 Schjerfbeck
+Si
 distancing
 declared
 discuss
@@ -1326,6 +1347,7 @@ de
 doubtful
 draw
 decoration
+dit
 problem
 pressing
 post
@@ -1499,6 +1521,17 @@ prediction
 payment
 painting
 peut
+pri
+prayers
+parle
+pr
+prefer
+plait
+pas
+prends
+peux
+plus
+puis
 In
 Islands
 Is
@@ -1547,6 +1580,7 @@ Ix
 IK
 IV
 IQDG
+Il
 World
 Worldwide
 WHO
@@ -1689,6 +1723,7 @@ OE
 OD
 Owuf
 OR
+One
 loneliness
 like
 living
@@ -1792,6 +1827,10 @@ lY
 lifetime
 link
 la
+lui
+loi
+loin
+le
 Explore
 Eastern
 Europe
@@ -1849,6 +1888,7 @@ EwU
 EWp
 Extraterrestrial
 Evolution
+Et
 how
 health
 healthcare
@@ -1950,6 +1990,8 @@ hi
 hL
 horoscopes
 harmony
+hold
+holds
 concern
 can
 countries
@@ -2173,6 +2215,11 @@ concerned
 convey
 claim
 chosen
+convient
+chooses
+connu
+croyais
+crois
 varies
 vibe
 versions
@@ -2218,6 +2265,11 @@ vPr
 vC
 vQ
 voyager
+vain
+vite
+vient
+va
+viter
 your
 you
 young
@@ -2411,6 +2463,14 @@ avatar
 artist
 amour
 apprivoiser
+appelle
+autre
+aimes
+aime
+aile
+attendre
+attends
+autour
 epidemic
 etc
 emotional
@@ -2550,6 +2610,12 @@ element
 eyes
 embrace
 est
+en
+enfant
+envola
+escapes
+escape
+explanatory
 Common
 COVID
 Census
@@ -2624,6 +2690,7 @@ Colonizing
 Cars
 Caravaggio
 Cuevas
+Calling
 regions
 risk
 region
@@ -2761,6 +2828,10 @@ reincarnated
 receiving
 rebelle
 rebellious
+refuser
+refuse
+rien
+revient
 Loneliness
 Lowest
 Linked
@@ -2894,6 +2965,8 @@ qH
 qa
 qUKo
 qB
+que
+qu
 Asia
 Adolescents
 Africa
@@ -3015,6 +3088,7 @@ Musks
 Movie
 Michael
 Music
+Mais
 on
 of
 opinion
@@ -3094,6 +3168,7 @@ od
 occasionally
 owl
 oiseau
+ou
 unemployment
 us
 unbearable
@@ -3312,6 +3387,8 @@ BACKED
 BY
 Bizet
 Bird
+Boh
+Bohemia
 Northern
 North
 No
@@ -3351,6 +3428,7 @@ Nw
 Nzv
 NX
 NC
+Nothing
 Young
 Yes
 You
@@ -3612,6 +3690,10 @@ forget
 frozen
 finding
 faces
+fait
+flapped
+flew
+far
 know
 kinda
 kind
@@ -3739,6 +3821,8 @@ jk
 jmkj
 jEv
 jRF
+jamais
+je
 Rebuild
 Remember
 Red
@@ -3785,6 +3869,7 @@ RJ
 Rv
 Review
 Romero
+Rien
 Japan
 James
 Jr

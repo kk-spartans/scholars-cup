@@ -5,3 +5,5 @@ table author, created, genre, link
 from "03 - In Futurity, Someone Prophetic Sees/06 - What are artists saying about fortune tellers"
 where file.name != "06 - What are artists saying about fortune tellers"
 ```
+
+I feel like the songs are self explanatory. 
