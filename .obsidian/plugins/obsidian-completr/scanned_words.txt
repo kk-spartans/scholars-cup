@@ -22,6 +22,7 @@ Qfv
 QrtA
 QAwg
 QM
+Que
 inside
 is
 if
@@ -292,6 +293,7 @@ teller
 taught
 thieves
 thief
+tame
 The
 There
 That
@@ -1016,6 +1018,7 @@ boy
 btw
 beating
 bowed
+br
 gpt
 groups
 governments
@@ -1495,6 +1498,7 @@ palm
 prediction
 payment
 painting
+peut
 In
 Islands
 Is
@@ -2406,6 +2410,7 @@ aliases
 avatar
 artist
 amour
+apprivoiser
 epidemic
 etc
 emotional
@@ -3240,6 +3245,7 @@ nQ
 nCA
 names
 nation
+nul
 Best
 But
 Boston
@@ -3305,6 +3311,7 @@ BRv
 BACKED
 BY
 Bizet
+Bird
 Northern
 North
 No
@@ -3707,6 +3714,7 @@ Fw
 Fdt
 Fv
 Fe
+French
 just
 justice
 jokes
