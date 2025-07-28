@@ -7,7 +7,7 @@ Movie starts with some fighting between a brother and a sister, I forget the nam
 
 > There are 4 benders of elements that people can be, Air, Water, Fire, and Earth - each one can do special things with their element. The 4 benders used to be in harmony, but now are in war.
 
-The girl and the boy are both Waterbenders btw.
+The girl and the boy are both Waterbenders.
 
 In every single generation, the avatar gets reincarnated. But for the last century, there seemed to be no avatar. Aang, was the avatar 100 years ago and he got frozen, the girl and her brother find him.
 

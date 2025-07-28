@@ -287,6 +287,7 @@ theoretical
 thousands
 tiny
 tomorrow
+teachers
 The
 There
 That
@@ -611,6 +612,9 @@ selling
 saying
 soon
 stealing
+starts
+sister
+seemed
 were
 with
 world
@@ -843,6 +847,8 @@ mp
 mh
 mystics
 mining
+mom
+main
 by
 be
 but
@@ -997,6 +1003,10 @@ bl
 ball
 books
 backed
+benders
+boy
+btw
+beating
 gpt
 groups
 governments
@@ -1078,6 +1088,9 @@ gI
 grifting
 gaze
 glaze
+grandma
+girl
+generation
 Sometimes
 SE
 Sparse
@@ -1567,6 +1580,8 @@ Wr
 WKR
 Worlds
 WASN
+Water
+Waterbenders
 Health
 How
 Highest
@@ -1909,6 +1924,7 @@ hij
 hi
 hL
 horoscopes
+harmony
 concern
 can
 countries
@@ -2360,6 +2376,8 @@ absolutely
 artists
 artworks
 author
+aliases
+avatar
 epidemic
 etc
 emotional
@@ -2494,6 +2512,8 @@ eS
 exploitation
 encryption
 elon
+elements
+element
 Common
 COVID
 Census
@@ -2700,6 +2720,7 @@ rYZ
 rlW
 removals
 ring
+reincarnated
 Loneliness
 Lowest
 Linked
@@ -2904,6 +2925,9 @@ AH
 Alien
 ANYTHING
 Art
+Aang
+Air
+Airbender
 Mediterranean
 Middle
 More
@@ -2946,6 +2970,7 @@ Ms
 Me
 Michio
 Musks
+Movie
 on
 of
 opinion
@@ -3171,6 +3196,8 @@ nlo
 nR
 nQ
 nCA
+names
+nation
 Best
 But
 Boston
@@ -3531,6 +3558,9 @@ forward
 firefighting
 fanboy
 focus
+forget
+frozen
+finding
 know
 kinda
 kind
@@ -3575,6 +3605,7 @@ kK
 knf
 kee
 kF
+kidnapping
 Fixing
 Fire
 First
