@@ -4,6 +4,7 @@ created: "1935"
 genre: Music
 link: https://open.spotify.com/track/0aAHipKwUxMlVLHL5TOPqo
 ---
+
 | Latin                                                 | English (loose translation)                                 |
 | ----------------------------------------------------- | ----------------------------------------------------------- |
 | O Fortuna, velut luna, statu variabilis               | O Fortune, like the moon, you are changeable                |
