@@ -306,6 +306,8 @@ twenties
 throne
 terms
 trending
+teacher
+terrible
 The
 There
 That
@@ -1574,6 +1576,7 @@ players
 parliament
 plague
 possess
+perform
 In
 Islands
 Is
@@ -2533,6 +2536,7 @@ autour
 arranges
 aside
 amongst
+amazing
 epidemic
 etc
 emotional
@@ -2682,6 +2686,8 @@ east
 emperor
 empire
 eastern
+effect
+expectation
 Common
 COVID
 Census
@@ -3638,6 +3644,7 @@ Pe
 Physics
 Pope
 Pol
+Pygmalion
 forming
 fictional
 feels
