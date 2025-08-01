@@ -4,7 +4,7 @@ Considering the research we made In the previous question "Noticing the future t
 
 I feel like the most helpful source of information here was [Theo's Video About Change Energy](https://www.youtube.com/watch?v=EBHiis5F2JY)
 
-
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/EBHiis5F2JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
 
 Considering [[The Routine Right Now]], [[The Routine in the 1920s]], [[The Routine In The 1820s]], [[The Differences Between 1920 and Now]], and [[The Differences Between 1820 and 1920]], we can probably come up with a definitive answer on whether the rate of change has sped up or slowed down.
 
