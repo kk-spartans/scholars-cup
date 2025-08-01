@@ -4,6 +4,8 @@ Considering the research we made In the previous question "Noticing the future t
 
 I feel like the most helpful source of information here was [Theo's Video About Change Energy](https://www.youtube.com/watch?v=EBHiis5F2JY)
 
+
+
 Considering [[The Routine Right Now]], [[The Routine in the 1920s]], [[The Routine In The 1820s]], [[The Differences Between 1920 and Now]], and [[The Differences Between 1820 and 1920]], we can probably come up with a definitive answer on whether the rate of change has sped up or slowed down.
 
 I feel like that I could rate the change between 1820 and 1920 a 6/10 — because a lot of the changes were mostly quality of life, not actually changing people's routines.
