@@ -5,3 +5,4 @@ table
 from "03 - In Futurity, Someone Prophetic Sees/07 - Why fake prophecies still work"
 where file.name != "07 - Why fake prophecies still work"
 ```
+
