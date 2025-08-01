@@ -4,3 +4,5 @@
 
 If that (credible) person had never predicted that the world will end, this would’ve never happened. It **fulfills itself.**
 
+> “Whether you think you can, or think you can’t—you’re right.”
+>  - Henry Ford

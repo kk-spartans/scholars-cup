@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtube.com",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
