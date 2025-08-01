@@ -304,6 +304,8 @@ tient
 tight
 twenties
 throne
+terms
+trending
 The
 There
 That
@@ -2530,6 +2532,7 @@ attends
 autour
 arranges
 aside
+amongst
 epidemic
 etc
 emotional
@@ -2755,6 +2758,7 @@ Caravaggio
 Cuevas
 Calling
 Castile
+Certain
 regions
 risk
 region
@@ -2897,6 +2901,7 @@ refuse
 rien
 revient
 rise
+reliable
 Loneliness
 Lowest
 Linked
