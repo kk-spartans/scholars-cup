@@ -133,6 +133,7 @@ il
 iframe
 itself
 inward
+icide
 this
 theme
 titles
@@ -670,6 +671,8 @@ src
 strict
 sanity
 shortage
+simulation
+simulate
 were
 with
 world
@@ -1087,6 +1090,9 @@ bloody
 brothers
 buy
 bulk
+bound
+biological
+build
 gpt
 groups
 governments
@@ -1177,6 +1183,7 @@ girls
 gates
 gyroscope
 glitchy
+genetic
 Sometimes
 SE
 Sparse
@@ -1412,6 +1419,8 @@ divorce
 die
 doomed
 divides
+debate
+determinism
 problem
 pressing
 post
@@ -1602,6 +1611,9 @@ plague
 possess
 perform
 predicts
+puzzling
+possible
+punished
 In
 Islands
 Is
@@ -1652,6 +1664,7 @@ IV
 IQDG
 Il
 Its
+Imo
 World
 Worldwide
 WHO
@@ -2319,6 +2332,9 @@ cross
 credible
 chaotic
 cue
+choices
+criminals
+commit
 varies
 vibe
 versions
@@ -2581,6 +2597,7 @@ accelerometer
 autoplay
 allowfullscreen
 astrology
+according
 epidemic
 etc
 emotional
@@ -2956,6 +2973,7 @@ rise
 reliable
 relatively
 referrerpolicy
+require
 Loneliness
 Lowest
 Linked
@@ -3091,6 +3109,7 @@ qUKo
 qB
 que
 qu
+quit
 Asia
 Adolescents
 Africa
@@ -3299,6 +3318,7 @@ ou
 overcomplicating
 observe
 origin
+ourselves
 unemployment
 us
 unbearable
@@ -3352,6 +3372,8 @@ ur
 unlikely
 upon
 united
+universe
+untrustworthy
 Virtually
 Voiceover
 Visual
@@ -3844,6 +3866,8 @@ fear
 fathomed
 frameborder
 fulfills
+freely
+forms
 know
 kinda
 kind

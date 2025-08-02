@@ -22,4 +22,4 @@ In someone else’s opinion, yes. But according to me, no — no one has free wi
 
 ## If criminals aren’t really choosing to be criminals, should they still be punished?
 
-Yes, because that’s the law. [[08 - Do we really have free will#^8e03c5|As discussed before]], humans don’t like change.
+Yes, because that’s the law. [[08 - Do we really have free will#^8e03c5|As discussed before]], humans don’t like change — and just because we don’t have free will doesn’t mean we have to change our lifestyle.
