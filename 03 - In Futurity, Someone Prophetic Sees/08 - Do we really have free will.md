@@ -9,3 +9,5 @@ The reason I don’t think we are a simulation is that that would require infini
 ## How much does it matter whether we’re making choices for ourselves?
 
 Imo, not much. 
+
+If you now k
