@@ -132,6 +132,7 @@ iG
 il
 iframe
 itself
+inward
 this
 theme
 titles
@@ -315,6 +316,7 @@ toothpaste
 tall
 transferred
 title
+turned
 The
 There
 That
@@ -1174,6 +1176,7 @@ garde
 girls
 gates
 gyroscope
+glitchy
 Sometimes
 SE
 Sparse
@@ -2314,6 +2317,8 @@ center
 clipboard
 cross
 credible
+chaotic
+cue
 varies
 vibe
 versions
@@ -2575,6 +2580,7 @@ allow
 accelerometer
 autoplay
 allowfullscreen
+astrology
 epidemic
 etc
 emotional
