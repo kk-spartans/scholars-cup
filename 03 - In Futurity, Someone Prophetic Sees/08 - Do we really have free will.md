@@ -6,3 +6,6 @@ I feel like we completely don’t have free will — at all. I don’t think we�
 
 The reason I don’t think we are a simulation is that that would require infinite compute power, because the computer you build would have to simulate itself. The universe doesn’t have infinite power.
 
+## How much does it matter whether we’re making choices for ourselves?
+
+Imo, not much. 
