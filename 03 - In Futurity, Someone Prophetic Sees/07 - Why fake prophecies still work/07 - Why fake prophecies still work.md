@@ -8,4 +8,5 @@ where file.name != "07 - Why fake prophecies still work"
 
 COVID turned the world into a glitchy, chaotic mess. People turned inward - *cue astrology apps*. And also, the new minimal desk setup was filled with tarot decks and syncing pendulums.
 
-It’s also very personal, and it’s about yourself. People only care about things that give them something.
+It’s also very personal, and it’s about yourself. 
+
