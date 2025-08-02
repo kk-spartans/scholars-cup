@@ -1,1 +1,2 @@
 I say “OpenAI’s open weight AI model will launch next week”. That statement is either true now, or it’s opposite is true. In this case, the opposite is true.
+
