@@ -8,8 +8,18 @@ The reason I don’t think we are a simulation is that that would require infini
 
 ## How much does it matter whether we’re making choices for ourselves?
 
+^8e03c5
+
 Imo, not much. 
 
 If you now know that whatever you do doesn’t matter, are you going to commit s\*icide? Are you going to drop out school or quit your job? No.
 
 You’ll ignore it, because that’s normal. Humans don’t like doing things that aren’t normal.
+
+## Is it possible that some people have more free will than others?
+
+In someone else’s opinion, yes. But according to me, no — no one has free will, according to me (very untrustworthy source).
+
+## If criminals aren’t really choosing to be criminals, should they still be punished?
+
+Yes, because that’s the law. [[08 - Do we really have free will#^8e03c5|As discussed before]], humans don’t like change.
