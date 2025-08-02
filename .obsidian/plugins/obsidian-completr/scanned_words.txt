@@ -1926,6 +1926,7 @@ lands
 leagues
 livable
 lights
+lifestyle
 Explore
 Eastern
 Europe
