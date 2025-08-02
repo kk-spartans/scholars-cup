@@ -10,3 +10,4 @@ COVID turned the world into a glitchy, chaotic mess. People turned inward - *cue
 
 It’s also very personal, and it’s about yourself. 
 
+> [People don't care about you; they care about how you make them feel.](https://www.reddit.com/r/socialskills/comments/1d91a2t/debate_people_dont_care_about_you_they_care_about/)
