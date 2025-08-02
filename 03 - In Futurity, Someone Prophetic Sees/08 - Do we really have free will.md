@@ -12,4 +12,4 @@ Imo, not much.
 
 If you now know that whatever you do doesn’t matter, are you going to commit s\*icide? Are you going to drop out school or quit your job? No.
 
-You’ll ignore it, because that’s normal. Humans don’t like doing things that aren’t normal
+You’ll ignore it, because that’s normal. Humans don’t like doing things that aren’t normal.
