@@ -22,4 +22,10 @@ The Babylonians carved the zodiac system around 700 BCE. Greeks later slapped on
 
 ## Why I think it’s ‘fake’
 
-Earth wobbles (precession), so the Sun isn’t *in* the same constellations it was 2000 years ago.
+Earth wobbles (precession), so the Sun isn’t *in* the same constellations it was 2000 years ago. But astrologers still use the old positions.
+
+## Not to be confused with
+
+(gpt 4o generated)
+- **Chinese Zodiac**: Based on birth year, 12 animals. It’s a completely different beast (literally).
+- **Vedic (Indian) Zodiac**: Sidereal, adjusts for precession. More astronomically accurate.
