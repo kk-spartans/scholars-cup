@@ -1,0 +1,1 @@
+Divides earth into 
