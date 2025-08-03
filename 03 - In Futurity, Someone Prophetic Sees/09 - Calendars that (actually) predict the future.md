@@ -4,5 +4,6 @@
 ```dataview
 table
 from "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future"
-where file.name != "08 - Do we really have free will"
+where file.name != "09 - Calendars that (actually) predict the future"
 ```
+
