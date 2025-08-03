@@ -6,3 +6,6 @@ The calendar we use now.
 24h → 1 day
 7 days → 1 week
 28-31 days → 1 month
+12 months → 1 year
+
+But every 4 yearsj
