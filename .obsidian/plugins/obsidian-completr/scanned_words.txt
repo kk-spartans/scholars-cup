@@ -788,6 +788,7 @@ write
 web
 weight
 week
+wal
 made
 major
 many
@@ -930,6 +931,7 @@ morning
 men
 model
 merit
+months
 by
 be
 but
@@ -1430,6 +1432,7 @@ doomed
 divides
 debate
 determinism
+deities
 problem
 pressing
 post
@@ -1624,6 +1627,8 @@ puzzling
 possible
 punished
 predetermined
+po
+planting
 In
 Islands
 Is
@@ -1939,6 +1944,8 @@ lights
 lifestyle
 launch
 lived
+li
+luck
 Explore
 Eastern
 Europe
@@ -1997,6 +2004,7 @@ EWp
 Extraterrestrial
 Evolution
 Et
+Each
 how
 health
 healthcare
@@ -2106,6 +2114,8 @@ happy
 hour
 highways
 height
+hualli
+harvesting
 concern
 can
 countries
@@ -2350,6 +2360,7 @@ criminals
 commit
 calendar
 continued
+ceremonies
 varies
 vibe
 versions
@@ -2614,6 +2625,8 @@ allowfullscreen
 astrology
 according
 astronomical
+agricultural
+activities
 epidemic
 etc
 emotional
@@ -2769,6 +2782,7 @@ electric
 ends
 experiences
 explore
+empty
 Common
 Census
 Coffee
@@ -3743,6 +3757,7 @@ Physics
 Pope
 Pol
 Pygmalion
+Part
 forming
 fictional
 feels
@@ -3895,6 +3910,7 @@ freely
 forms
 foretelling
 farmers
+festivals
 know
 kinda
 kind
@@ -4238,6 +4254,7 @@ Xk
 XMe
 XFA
 XH
+Xiuhp
 xZz
 xref
 xin
