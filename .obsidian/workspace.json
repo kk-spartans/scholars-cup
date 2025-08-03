@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "center",
+                "query": "gpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
