@@ -690,6 +690,7 @@ sync
 shocking
 slot
 speeds
+sec
 were
 with
 world
@@ -947,6 +948,8 @@ model
 merit
 months
 moons
+ms
+min
 by
 be
 but
@@ -1982,6 +1985,7 @@ li
 luck
 lunar
 liturgical
+leap
 Explore
 Eastern
 Europe
@@ -2675,6 +2679,7 @@ approximate
 astronomers
 accuracy
 analog
+account
 epidemic
 etc
 emotional
@@ -4086,6 +4091,7 @@ French
 From
 Franco
 Ford
+Feb
 just
 justice
 jokes

@@ -1,1 +1,1 @@
-[[Gregorian Calendar]] without the rule of no leap year every 100 years.
+[[Gregorian Calendar]] without the rule of no leap year every 100 years. 
