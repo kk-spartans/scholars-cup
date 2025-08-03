@@ -7,7 +7,7 @@ from "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will"
 where file.name != "08 - Do we really have free will"
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UebSfjmQNvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/UebSfjmQNvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I feel like we completely don’t have free will — at all. I don’t think we’re a simulation, just we don’t have free will.
 
