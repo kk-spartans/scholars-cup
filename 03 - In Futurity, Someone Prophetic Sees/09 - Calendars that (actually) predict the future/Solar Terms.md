@@ -1,1 +1,1 @@
-Divides earth into 
+Divides the year (Gregorian Calendar) into 24 equal parts, each 15-16 days long. These are based on the Sun’s position along the **ecliptic**—every 15° of its 360 de journey.
