@@ -673,6 +673,7 @@ sanity
 shortage
 simulation
 simulate
+statement
 were
 with
 world
@@ -781,6 +782,8 @@ wind
 width
 write
 web
+weight
+week
 made
 major
 many
@@ -921,6 +924,7 @@ mais
 married
 morning
 men
+model
 by
 be
 but
@@ -1927,6 +1931,7 @@ leagues
 livable
 lights
 lifestyle
+launch
 Explore
 Eastern
 Europe
@@ -2753,7 +2758,6 @@ expectation
 electric
 ends
 Common
-COVID
 Census
 Coffee
 Cartoon
@@ -2761,7 +2765,6 @@ Choose
 Click
 Correct
 Cup
-Covid
 Charles
 Could
 CEOs
@@ -3320,6 +3323,7 @@ overcomplicating
 observe
 origin
 ourselves
+opposite
 unemployment
 us
 unbearable
