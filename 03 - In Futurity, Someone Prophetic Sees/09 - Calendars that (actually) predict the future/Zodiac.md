@@ -1,0 +1,17 @@
+A 12 part division of the sky.
+
+|Sign|Dates (approx)|Element|Mode|
+|---|---|---|---|
+|Aries|Mar 21 – Apr 19|Fire|Cardinal|
+|Taurus|Apr 20 – May 20|Earth|Fixed|
+|Gemini|May 21 – Jun 20|Air|Mutable|
+|Cancer|Jun 21 – Jul 22|Water|Cardinal|
+|Leo|Jul 23 – Aug 22|Fire|Fixed|
+|Virgo|Aug 23 – Sep 22|Earth|Mutable|
+|Libra|Sep 23 – Oct 22|Air|Cardinal|
+|Scorpio|Oct 23 – Nov 21|Water|Fixed|
+|Sagittarius|Nov 22 – Dec 21|Fire|Mutable|
+|Capricorn|Dec 22 – Jan 19|Earth|Cardinal|
+|Aquarius|Jan 20 – Feb 18|Air|Fixed|
+|Pisces|Feb 19 – Mar 20|Water|Mutable|
+(Dates shift slightly )
