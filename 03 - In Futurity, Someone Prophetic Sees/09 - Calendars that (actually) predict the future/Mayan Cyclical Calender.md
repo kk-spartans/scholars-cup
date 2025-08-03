@@ -8,4 +8,6 @@ Used for rituals, divination, naming kids, etc.
 
 ## Haab’ (Solar Calendar)
 
-(Refer to [[Aztec Agricultural Calendar]])
+(Refer to [[Aztec Agricultural Calendar]] for rules)
+
+Used for agriculture and civil life.
