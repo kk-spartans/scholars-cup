@@ -1,0 +1,3 @@
+(gpt4o generated)
+
+The Computus is basically **Christian math wizardry** used to figure out the date of **Easter**. Since Easter is supposed to fall on the Sunday after the first full moon after the **vernal equinox**, it’s a mix of solar and lunar timing. The church standardized this using tables and cycles, most notably the **19-year Metonic cycle**, to approximate full moons and the equinox date. It’s not perfect, but good enough for liturgical use.
