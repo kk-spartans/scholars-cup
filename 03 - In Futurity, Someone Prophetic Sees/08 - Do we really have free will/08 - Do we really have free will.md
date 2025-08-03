@@ -1,7 +1,6 @@
 > Did you freely choose to read this bullet, or were you always bound to find yourself puzzling over it at this very moment? Explore the age-old debate between those who believe we have free will and those who believe we live in a deterministic universe, then discuss with your team: how much does it matter whether we are making choices for ourselves? Is it possible that some people have more free will than others? And, if criminals are not really choosing to be criminals, should they still be punished? Be sure to learn the differences between genetic, biological, and other forms of determinism.
 
 
-
 ```dataview
 table
 from "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will"
