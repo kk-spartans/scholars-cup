@@ -14,4 +14,6 @@ A 12 part division of the sky.
 |Capricorn|Dec 22 – Jan 19|Earth|Cardinal|
 |Aquarius|Jan 20 – Feb 18|Air|Fixed|
 |Pisces|Feb 19 – Mar 20|Water|Mutable|
-(Dates shift slightly )
+(Dates shift slightly year to year, the earth doesn’t care about neatly drawn straight lines.)
+
+This is based on the ecliptic, the Sun’s relative path around Earth. The zodiac belt lies here with
