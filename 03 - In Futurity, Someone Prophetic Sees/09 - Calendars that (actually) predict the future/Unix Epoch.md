@@ -1,0 +1,1 @@
+Number of seconds since January 1, 1970. Just that. Some systems use nanoseconds or microseconds internally, but this is the standard — no leap seconds
