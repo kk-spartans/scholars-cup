@@ -1,0 +1,1 @@
+The Saros cycle is a ~18 year, ~11.33 day period after which nearly identical eclipses repeat—solar or lunar. This works because the Moon’s orbit and Earth’s rotation sync up roughly after this time. It’s not perfect (eclipses shift slightly each cycle), but close enough that ancient astronomers could use it to predict future eclipses with shocking accuracy.
