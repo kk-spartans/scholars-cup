@@ -16,4 +16,10 @@ A 12 part division of the sky.
 |Pisces|Feb 19 – Mar 20|Water|Mutable|
 (Dates shift slightly year to year, the earth doesn’t care about neatly drawn straight lines.)
 
-This is based on the ecliptic, the Sun’s relative path around Earth. The zodiac belt lies here with
+This is based on the ecliptic, the Sun’s relative path around Earth. The zodiac belt lies here with 30 degree slices every time.
+
+The Babylonians carved the zodiac system around 700 BCE. Greeks later slapped on their own names and ideas, thanks to Ptolemy.
+
+## Why I think it’s ‘fake’
+
+Earth wobbles (precession), so the Sun isn’t *in* the same constellations it was 2000 years ago.
