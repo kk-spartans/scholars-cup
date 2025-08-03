@@ -320,6 +320,7 @@ title
 turned
 tides
 turning
+total
 The
 There
 That
@@ -390,6 +391,7 @@ Tour
 Torres
 Tout
 Two
+Tzolk
 short
 social
 so
@@ -789,6 +791,7 @@ web
 weight
 week
 wal
+weeks
 made
 major
 many
@@ -1104,6 +1107,7 @@ bulk
 bound
 biological
 build
+bal
 gpt
 groups
 governments
@@ -1296,6 +1300,7 @@ Si
 Spellman
 Sonny
 Stewart
+Sacred
 distancing
 declared
 discuss
@@ -1680,6 +1685,8 @@ IQDG
 Il
 Its
 Imo
+Imix
+Ik
 World
 Worldwide
 WHO
@@ -1788,6 +1795,7 @@ HELLLLOooooooooooo
 Had
 Hister
 Henry
+Haab
 Organization
 Older
 Otherwise
@@ -2858,6 +2866,7 @@ Cuevas
 Calling
 Castile
 Certain
+Calendar
 regions
 risk
 region
@@ -3008,6 +3017,7 @@ rooted
 ritual
 result
 referenced
+rituals
 Loneliness
 Lowest
 Linked
@@ -3223,6 +3233,7 @@ Air
 Airbender
 Al
 ACs
+Ak
 Mediterranean
 Middle
 More
@@ -3518,6 +3529,7 @@ near
 named
 north
 nigh
+naming
 Best
 But
 Boston
@@ -3687,6 +3699,7 @@ Uu
 UWUx
 UD
 UsjN
+Used
 Pacific
 Parasocial
 People
@@ -3957,6 +3970,7 @@ kee
 kF
 kidnapping
 king
+kids
 Fixing
 Fire
 First
@@ -4093,6 +4107,7 @@ Romero
 Rien
 Rome
 Research
+Refer
 Japan
 James
 Jr

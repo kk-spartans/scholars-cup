@@ -4,6 +4,8 @@
  - 13 day numbers (1 to 13, basically weeks)
  - 20 day names (Imix, Ik’, Ak’bal, etc.)
 
-Used for rituals, 
+Used for rituals, divination, naming kids, etc.
 
-## Haab’ (Solar Calender)
+## Haab’ (Solar Calendar)
+
+(Refer to [[Aztec Agricultural Calendar]])
