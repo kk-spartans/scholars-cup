@@ -134,6 +134,7 @@ iframe
 itself
 inward
 icide
+identical
 this
 theme
 titles
@@ -321,6 +322,8 @@ turned
 tides
 turning
 total
+timing
+tables
 The
 There
 That
@@ -680,6 +683,10 @@ simulate
 statement
 superstition
 seasons
+solar
+standardized
+sync
+shocking
 were
 with
 world
@@ -792,6 +799,7 @@ weight
 week
 wal
 weeks
+wizardry
 made
 major
 many
@@ -935,6 +943,7 @@ men
 model
 merit
 months
+moons
 by
 be
 but
@@ -1301,6 +1310,9 @@ Spellman
 Sonny
 Stewart
 Sacred
+Since
+Sunday
+Saros
 distancing
 declared
 discuss
@@ -1438,6 +1450,7 @@ divides
 debate
 determinism
 deities
+date
 problem
 pressing
 post
@@ -1634,6 +1647,7 @@ punished
 predetermined
 po
 planting
+period
 In
 Islands
 Is
@@ -1954,6 +1968,8 @@ launch
 lived
 li
 luck
+lunar
+liturgical
 Explore
 Eastern
 Europe
@@ -2013,6 +2029,7 @@ Extraterrestrial
 Evolution
 Et
 Each
+Easter
 how
 health
 healthcare
@@ -2369,6 +2386,9 @@ commit
 calendar
 continued
 ceremonies
+church
+cycles
+cycle
 varies
 vibe
 versions
@@ -2420,6 +2440,7 @@ vient
 va
 viter
 veil
+vernal
 your
 you
 young
@@ -2635,6 +2656,9 @@ according
 astronomical
 agricultural
 activities
+approximate
+astronomers
+accuracy
 epidemic
 etc
 emotional
@@ -2791,6 +2815,8 @@ ends
 experiences
 explore
 empty
+equinox
+eclipses
 Common
 Census
 Coffee
@@ -2867,6 +2893,8 @@ Calling
 Castile
 Certain
 Calendar
+Computus
+Christian
 regions
 risk
 region
@@ -3018,6 +3046,8 @@ ritual
 result
 referenced
 rituals
+repeat
+rotation
 Loneliness
 Lowest
 Linked
@@ -3281,6 +3311,8 @@ Michael
 Music
 Mais
 Mad
+Metonic
+Moon
 on
 of
 opinion
@@ -3369,6 +3401,7 @@ opposite
 observations
 observing
 ocean
+orbit
 unemployment
 us
 unbearable
@@ -3530,6 +3563,8 @@ named
 north
 nigh
 naming
+notably
+nearly
 Best
 But
 Boston
@@ -3924,6 +3959,7 @@ forms
 foretelling
 farmers
 festivals
+figure
 know
 kinda
 kind
