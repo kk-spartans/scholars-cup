@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "09 - Calendars that (actually) predict the future"
             }
-          },
-          {
-            "id": "015e486dcc54e9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/Julian Calendar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Julian Calendar"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +184,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "015e486dcc54e9ef",
+  "active": "d78aee8e856632df",
   "lastOpenFiles": [
-    "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/09 - Calendars that (actually) predict the future.md",
     "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/Julian Calendar.md",
+    "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/09 - Calendars that (actually) predict the future.md",
     "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/Gregorian Calendar.md",
     "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/Untitled 1.md",
     "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/Antikythera Mechanism.md",
