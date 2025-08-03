@@ -10,4 +10,6 @@ The calendar we use now.
 
 But every 4 years, there’s a leap year where Feb has 1 more day. But every 100 years, there isn’t a leap year (all just to account for the Earth’s rotation).
 
-When we switched to this in 1582
+When we switched to this in 1582, this happened:
+
+![undefined](https://upload.wikimedia.org/wikipedia/commons/6/69/Julian_to_Gregorian_Date_Change.png)
