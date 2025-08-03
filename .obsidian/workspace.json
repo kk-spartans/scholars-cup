@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "08 - Do we really have free will"
             }
-          },
-          {
-            "id": "ad0422a073c07029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/Logical Determinism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logical Determinism"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad0422a073c07029",
+  "active": "9e106c27da54ad14",
   "lastOpenFiles": [
     "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/Logical Determinism.md",
     "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/08 - Do we really have free will.md",
