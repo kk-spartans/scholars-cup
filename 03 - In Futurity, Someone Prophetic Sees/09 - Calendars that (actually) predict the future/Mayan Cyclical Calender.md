@@ -14,3 +14,6 @@ Used for agriculture and civil life.
 
 ## Calendar Round
 
+The Haab’ and Tzolk’in overlap every 52 Haab’ years (18980 days). Everyone got a new calendar at this point, and they did have 18980 day long calendars.
+
+##
