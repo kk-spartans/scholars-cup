@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "c5492cbda362df5b",
+            "id": "e38bbb65d6f7a733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Feedback.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/08 - Do we really have free will.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feedback"
+              "title": "08 - Do we really have free will"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Feedback.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/08 - Do we really have free will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Feedback"
+              "title": "Backlinks for 08 - Do we really have free will"
             }
           },
           {
@@ -184,7 +184,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c5492cbda362df5b",
+  "active": "e38bbb65d6f7a733",
   "lastOpenFiles": [
     "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/11 - Chaos theory, predicting the unpredictable.md",
     "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Feedback.md",

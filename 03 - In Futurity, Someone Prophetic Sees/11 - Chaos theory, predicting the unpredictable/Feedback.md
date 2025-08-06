@@ -4,4 +4,4 @@ When the output of something is shoved back in as the input, along with the expe
 - Sensor measures 27 °C (the output).
 - Controller goes “too hot,” reduces heater power.
 
-Also, AI models love feedback, sometimes they literally beg for it, even on the API
+Also, AI models love feedback, sometimes they literally beg for it, even on the API.

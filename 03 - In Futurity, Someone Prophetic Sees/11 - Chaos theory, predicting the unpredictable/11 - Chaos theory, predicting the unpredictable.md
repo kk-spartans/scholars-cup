@@ -3,5 +3,6 @@
 ```dataview
 table
 from "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable"
+from ""
 where file.name != "11 - Chaos theory, predicting the unpredictable"
 ```
