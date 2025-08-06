@@ -8,4 +8,4 @@ How far ahead in time can they be made accurately? 8-12 days. The articles say i
 
 ## AI prediction models
 
-These models are insanely fast (I can’t say anything about the accuracy). I ran them GraphCast on my own, with the 
+These models are insanely fast (I can’t say anything about the accuracy). I ran GraphCast on my own, with some old ERA5 data - and it finished predicting 10 days in advance, with 6 hour interval
