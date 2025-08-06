@@ -8,4 +8,4 @@ How far ahead in time can they be made accurately? 8-12 days. The articles say i
 
 ## AI prediction models
 
-These are insane
+These models are insanely fast (I can’t say anything about the accuracy)
