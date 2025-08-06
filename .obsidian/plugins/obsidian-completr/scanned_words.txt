@@ -701,6 +701,7 @@ slight
 schedule
 summer
 simple
+sub
 were
 with
 world
@@ -965,6 +966,7 @@ min
 microseconds
 meteorologists
 meteorology
+monopoly
 by
 be
 but
@@ -2438,6 +2440,9 @@ crank
 corrected
 clocks
 complex
+controlling
+cough
+customers
 varies
 vibe
 versions
@@ -2714,6 +2719,7 @@ account
 afternoon
 accurately
 attempts
+apple
 epidemic
 etc
 emotional
