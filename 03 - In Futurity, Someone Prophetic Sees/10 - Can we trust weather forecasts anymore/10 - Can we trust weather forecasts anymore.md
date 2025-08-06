@@ -10,4 +10,6 @@ How far ahead in time can they be made accurately? 8-12 days. The articles say i
 
 These models are insanely fast (I can’t say anything about the accuracy). I ran GraphCast on my own, with some old ERA5 data - and it finished predicting 10 days in advance, with 6 hour intervals and 0.25 degree accuracy (about 25km) in a matter of seconds.
 
-## Difference between 
+## Are these models accurate with the changing climate?
+
+Weather is short term, climate is long term. And there
