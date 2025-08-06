@@ -329,6 +329,7 @@ total
 timing
 tables
 timer
+theory
 The
 There
 That
@@ -699,6 +700,7 @@ standard
 slight
 schedule
 summer
+simple
 were
 with
 world
@@ -1136,6 +1138,7 @@ bound
 biological
 build
 bal
+butterfly
 gpt
 groups
 governments
@@ -1335,6 +1338,7 @@ Since
 Sunday
 Saros
 Swiss
+Small
 distancing
 declared
 discuss
@@ -1680,6 +1684,8 @@ planetary
 planetarium
 phase
 planets
+pops
+parts
 In
 Islands
 Is
@@ -2179,6 +2185,7 @@ height
 hualli
 harvesting
 happens
+hurricane
 concern
 can
 countries
@@ -2430,6 +2437,7 @@ cycle
 crank
 corrected
 clocks
+complex
 varies
 vibe
 versions
@@ -2705,6 +2713,7 @@ analog
 account
 afternoon
 accurately
+attempts
 epidemic
 etc
 emotional
@@ -4015,6 +4024,7 @@ farmers
 festivals
 figure
 forecast
+flaps
 know
 kinda
 kind
