@@ -138,6 +138,7 @@ identical
 interlocking
 internally
 issued
+intervals
 this
 theme
 titles
@@ -697,6 +698,7 @@ sec
 standard
 slight
 schedule
+summer
 were
 with
 world
@@ -810,6 +812,8 @@ week
 wal
 weeks
 wizardry
+wear
+wasteland
 made
 major
 many
@@ -957,6 +961,8 @@ moons
 ms
 min
 microseconds
+meteorologists
+meteorology
 by
 be
 but
@@ -1467,6 +1473,11 @@ debate
 determinism
 deities
 date
+dry
+dress
+drenched
+degree
+deserted
 problem
 pressing
 post
@@ -1783,6 +1794,7 @@ Water
 Waterbenders
 Went
 Whether
+Weather
 Health
 How
 Highest
@@ -2054,6 +2066,7 @@ Evolution
 Et
 Each
 Easter
+ERA
 how
 health
 healthcare
@@ -2690,6 +2703,8 @@ astronomers
 accuracy
 analog
 account
+afternoon
+accurately
 epidemic
 etc
 emotional
@@ -3081,6 +3096,8 @@ referenced
 rituals
 repeat
 rotation
+rainstorm
+ran
 Loneliness
 Lowest
 Linked
@@ -3490,6 +3507,7 @@ upon
 united
 universe
 untrustworthy
+unexpected
 Virtually
 Voiceover
 Visual
@@ -3996,6 +4014,7 @@ foretelling
 farmers
 festivals
 figure
+forecast
 know
 kinda
 kind
@@ -4043,6 +4062,7 @@ kF
 kidnapping
 king
 kids
+km
 Fixing
 Fire
 First
@@ -4252,6 +4272,7 @@ Greater
 Germanie
 Greece
 Games
+GraphCast
 Killing
 Know
 Keep
