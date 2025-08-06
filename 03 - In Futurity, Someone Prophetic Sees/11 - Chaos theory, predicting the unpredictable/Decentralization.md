@@ -1,0 +1,1 @@
+When there’s no central body controlling things like a monopoly (*cough, couc)
