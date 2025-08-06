@@ -707,6 +707,7 @@ summer
 simple
 sub
 shoved
+settings
 were
 with
 world
@@ -1148,6 +1149,7 @@ build
 bal
 butterfly
 beg
+behaves
 gpt
 groups
 governments
@@ -2734,6 +2736,7 @@ afternoon
 accurately
 attempts
 apple
+adjustable
 epidemic
 etc
 emotional
