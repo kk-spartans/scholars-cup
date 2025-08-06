@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "11 - Chaos theory, predicting the unpredictable"
             }
+          },
+          {
+            "id": "c5492cbda362df5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feedback"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/11 - Chaos theory, predicting the unpredictable.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +97,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 - Chaos theory, predicting the unpredictable"
+              "title": "Backlinks for Feedback"
             }
           },
           {
@@ -169,13 +184,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "dfd6650cfad98e3b",
+  "active": "c5492cbda362df5b",
   "lastOpenFiles": [
+    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/11 - Chaos theory, predicting the unpredictable.md",
+    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Feedback.md",
     "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Decentralization.md",
     "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/immich.app.md",
     "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/openwebui.com.md",
     "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Emergence.md",
-    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/11 - Chaos theory, predicting the unpredictable.md",
     "02 - The Best is Yet to Be, or Not To Be/01 - When governments promise too much, then ghost you/01 - When governments promise too much, then ghost you.md",
     "02 - The Best is Yet to Be, or Not To Be/02 - Why megaprojects fail (and what that says about us)/02 - Why megaprojects fail (and what that says about us).md",
     "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Self-Organization.md",
@@ -199,7 +215,6 @@
     "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/Aztec Agricultural Calendar.md",
     "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future",
     "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/08 - Do we really have free will.md",
-    "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/Adequate determinism.md",
     "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will",
     "03 - In Futurity, Someone Prophetic Sees/07 - Why fake prophecies still work",
     "03 - In Futurity, Someone Prophetic Sees/06 - What are artists saying about fortune tellers",

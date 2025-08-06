@@ -1,0 +1,1 @@
+When the output of something is shoved back in as the input.
