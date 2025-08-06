@@ -8,6 +8,6 @@ where file.name != "07 - Why fake prophecies still work"
 
 COVID turned the world into a glitchy, chaotic mess. People turned inward - *cue astrology apps*. And also, the new minimal desk setup was filled with tarot decks and syncing pendulums.
 
-It’s also very personal, and it’s about yourself. 
+It’s also very personal, and it’s about yourself.
 
 > [People don't care about you; they care about how you make them feel.](https://www.reddit.com/r/socialskills/comments/1d91a2t/debate_people_dont_care_about_you_they_care_about/)
