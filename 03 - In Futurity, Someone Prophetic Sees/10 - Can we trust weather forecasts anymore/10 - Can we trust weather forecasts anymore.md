@@ -2,4 +2,6 @@
 
 ## How far ahead in time is a weather forecast useful?
 
-How far ahead in time is it *useful*? For me (a person who barely goes outside, and doesn’t care about what happens outside even if I do), they aren’t useful. For a regular person, a 
+How far ahead in time is it *useful*? For me (a person who barely goes outside, and doesn’t care about what happens outside even if I do), they aren’t useful. For a regular person, a few hours, just to make sure they don’t get drenched.
+
+How far ahead in time can they be made accurately? 
