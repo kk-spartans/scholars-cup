@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/11 - Chaos theory, predicting the unpredictable.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "8c70353ab972763d",
+            "id": "bec031787f1ba7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - In Futurity, Someone Prophetic Sees/Emergence.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Self-Organization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emergence"
+              "title": "Self-Organization"
             }
           }
         ],
@@ -184,10 +184,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "8c70353ab972763d",
+  "active": "bec031787f1ba7ee",
   "lastOpenFiles": [
-    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable.md",
-    "03 - In Futurity, Someone Prophetic Sees/Emergence.md",
+    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/11 - Chaos theory, predicting the unpredictable.md",
+    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Self-Organization.md",
+    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable",
+    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/Emergence.md",
     "03 - In Futurity, Someone Prophetic Sees/03 - In Futurity, Someone Prophetic Sees.md",
     "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future/09 - Calendars that (actually) predict the future.md",
     "03 - In Futurity, Someone Prophetic Sees/10 - Can we trust weather forecasts anymore/10 - Can we trust weather forecasts anymore.md",
@@ -214,13 +216,11 @@
     "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/Predeterminism.md",
     "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/Logical Determinism.md",
     "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will",
-    "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/Nomological Determinism.md",
     "03 - In Futurity, Someone Prophetic Sees/07 - Why fake prophecies still work",
     "03 - In Futurity, Someone Prophetic Sees/06 - What are artists saying about fortune tellers",
     "03 - In Futurity, Someone Prophetic Sees/05 - When physicists become prophets",
     "People should have the right not to know.pdf",
     "The truth is only as valuable as the person who speaks it.pdf",
-    "What entertains us owns us.pdf",
-    "Blame the machine, not the mechanic.pdf"
+    "What entertains us owns us.pdf"
   ]
 }
