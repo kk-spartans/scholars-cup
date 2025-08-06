@@ -12,4 +12,6 @@ These models are insanely fast (I can’t say anything about the accuracy). I ra
 
 ## Are these models accurate with the changing climate?
 
-Weather is short term, climate is long term. And there are different ways to predict climate. For example, [The IPCC reports](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf) 
+Weather is short term, climate is long term. And there are different ways to predict climate. For example, [The IPCC Climate Change Synthesis Reports](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf).
+
+These models are probably accurate in the short term because the Earth isn’t going to become a deserted wasteland in 6 hours.
