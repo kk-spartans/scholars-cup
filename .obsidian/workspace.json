@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpt4o",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

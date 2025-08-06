@@ -1,1 +1,1 @@
-When there’s no central body controlling things like a monopoly (*cough, couc)
+When there’s no central body controlling things like a monopoly (<sub><i>cough</i></sub> google and apple
