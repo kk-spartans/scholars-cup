@@ -2,6 +2,6 @@
 
 ```dataview
 table
-from "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable", "03 - In Futurity, Someone Prophetic Sees/08 - Do we really have free will/08 - Do we really have free will"
+from "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable"
 where file.name != "11 - Chaos theory, predicting the unpredictable"
 ```
