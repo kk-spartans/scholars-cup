@@ -1,0 +1,1 @@
+The adjustable settings or states of a system that control how it behaves; small cha
