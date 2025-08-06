@@ -12,4 +12,4 @@ These models are insanely fast (I can’t say anything about the accuracy). I ra
 
 ## Are these models accurate with the changing climate?
 
-Weather is short term, climate is long term. And there
+Weather is short term, climate is long term. And there are different ways to predict climate. For example
