@@ -1,0 +1,1 @@
+Trying to predict how three orbiting objects interact is so complex it doesn’t have a general solution but with 2 orbiting objects, it’s insanely simple.

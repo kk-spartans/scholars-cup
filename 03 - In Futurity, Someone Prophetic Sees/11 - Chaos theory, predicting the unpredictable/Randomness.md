@@ -1,0 +1,1 @@
+Appears to have no pattern, but it’s just fooling you most of the time. Most r
