@@ -9,4 +9,4 @@
 - [[09 - Calendars that (actually) predict the future]]
 - [[10 - Can we trust weather forecasts anymore]]
 - [[11 - Chaos theory, predicting the unpredictable]]
-- [[12 - Are life’s “cycles” just dressed-up guesses?]]
+- [[12 - Are life’s “cycles” just dressed-up guesses]]
