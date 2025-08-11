@@ -1,0 +1,5 @@
+- Breaking News (“This just in!”)
+- Every outlet and their cousin is talking about it.
+- Experts, Twitter threads, and hot takes all overanalyze it 
+- **Public burnout** – People stop caring.
+- **Replacement** – New story kicks it off again.
