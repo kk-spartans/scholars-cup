@@ -716,6 +716,7 @@ shoved
 settings
 styles
 song
+situation
 were
 with
 world
@@ -1722,6 +1723,7 @@ parts
 properties
 pundit
 purport
+prevented
 In
 Islands
 Is
@@ -2768,6 +2770,7 @@ apple
 adjustable
 adulthood
 accelerates
+adopted
 epidemic
 etc
 emotional
