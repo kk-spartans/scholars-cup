@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 527.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +169,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ae507a8952da7a2a",
+  "active": "b814530c0e9369f2",
   "lastOpenFiles": [
     "03 - In Futurity, Someone Prophetic Sees/03 - In Futurity, Someone Prophetic Sees.md",
     "04 - The Future Wasn’t Meant to Be/04 - The Future Wasn’t Meant to Be.md",
