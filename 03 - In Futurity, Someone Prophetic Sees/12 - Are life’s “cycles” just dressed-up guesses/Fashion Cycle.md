@@ -3,3 +3,4 @@ The cycle of fashion trends;
  - The celebs wearing them attracts the attention of the general public (peak).
  - Manufacturers produce it so much people get bored of it, so it declines in popularity (decline).
  - It’s obsolete and the next trend happens (obsolescence).
+
