@@ -1,0 +1,1 @@
+Failure rates for electronics look like a bathtub. 
