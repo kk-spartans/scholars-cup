@@ -1,1 +1,1 @@
-The literal 
+The literal breathing exercise of the economy. It grows (inhalation), hits it’s peak (hold), a 
