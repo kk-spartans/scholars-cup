@@ -4,4 +4,4 @@
 - Public burnout – People stop caring.
 - Replacement – New story kicks it off again.
 
-Ins
+Example: OpenAI’s gpt5 drop (although the some people, including me, got to talk
