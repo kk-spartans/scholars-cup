@@ -1,0 +1,1 @@
+When platforms *slowly* start prioritizing short term shareholder dopamine over long term user happiness. Mostly happens with publicly traded companies like Google ()
