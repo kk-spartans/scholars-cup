@@ -974,6 +974,7 @@ meteorologists
 meteorology
 monopoly
 measures
+market
 by
 be
 but
@@ -1150,6 +1151,8 @@ bal
 butterfly
 beg
 behaves
+bull
+bear
 gpt
 groups
 governments
@@ -1495,6 +1498,8 @@ drenched
 degree
 deserted
 dreamwork
+decade
+discourse
 problem
 pressing
 post
@@ -1700,6 +1705,8 @@ planets
 pops
 parts
 properties
+pundit
+purport
 In
 Islands
 Is
@@ -4064,6 +4071,7 @@ festivals
 figure
 forecast
 flaps
+fashion
 know
 kinda
 kind
@@ -4201,6 +4209,7 @@ jEv
 jRF
 jamais
 je
+jeans
 Rebuild
 Remember
 Red
@@ -4253,6 +4262,7 @@ Research
 Refer
 Rolex
 Really
+Ripped
 Japan
 James
 Jr
