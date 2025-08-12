@@ -1,6 +1,6 @@
 ## What Happened Before
 
-Seoul, South Korea's current capital, was very, **very** congested. They needed to build a new self governing, administrative capital to fix that. This was back in 2003. They *hoped* people would move to their newly built city, but even couldn't move.
+Seoul, South Korea's current capital, was very, **very** congested. They needed to build a new self governing, administrative capital to fix that. This was back in 2003. They *hoped* people would move to their newly built city, but most couldn't even try to.
 
 ## What Happened During
 
@@ -15,3 +15,4 @@ They were supposed to wrap it up by 2030 with a final population of 500k~. They 
 ## What Happened After
 
 Since 2012, the government of South Korea has relocated numerous ministries and agencies to Sejong, but many still reside in other cities, primarily Seoul, where the National Assembly and many important government bodies remain. ((wikepedia[https://en.wikipedia.org/w/index.php?title=Sejong_City&oldid=1297313748]))
+
