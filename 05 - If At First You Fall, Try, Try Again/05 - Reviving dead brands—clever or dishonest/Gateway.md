@@ -1,1 +1,1 @@
-Computer company founded in 1985
+Computer company founded in 1985. Made computers, monitors, and server gear. Peaked at 2000, with almost 25k employed.
