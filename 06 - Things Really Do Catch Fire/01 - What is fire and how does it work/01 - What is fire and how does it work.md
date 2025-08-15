@@ -17,3 +17,9 @@ How does it burn? Depends on the material, but some common ones are:
 For example, methane:
 
 > CH<sub>4</sub>​ + 2O<sub>2</sub> ​→ CO<sub>2</sub> ​+ 2H<sub>2</sub>​O + energy
+
+## Most metals
+
+For example, magnesium:
+
+2Mg +O 2​→2MgO
