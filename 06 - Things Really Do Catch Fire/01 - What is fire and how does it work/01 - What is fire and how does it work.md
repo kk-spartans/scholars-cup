@@ -12,7 +12,7 @@ How does it burn? Depends on the material, but some common ones are:
 
 ## Most hydrocarbons
 
-> Fuel (C<sub>x</sub>H<sub>y</sub>) + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O + heat/light
+> Fuel (C<sub>x</sub>H<sub>y</sub>) + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
 
 For example, methane:
 
@@ -46,4 +46,4 @@ Blue flame, smells awful.
 
 For example, sodium hydride:
 
-> 2NaH + 2H<sub>2</sub>​O → 2NaOH + 2H<sub>2</sub>​ ↑
+> 2NaH + 2H<sub>2</sub>​O → 2NaOH + 2H<sub>2</sub>​
