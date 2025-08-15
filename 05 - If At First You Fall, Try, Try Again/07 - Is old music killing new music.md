@@ -6,4 +6,4 @@
 
 not for most people.
 
-It seems like old music is killing new music because algorithms and people prefer fami
+It seems like old music is killing new music because algorithms and people prefer familiar, low risk music that they like. New music *isn’t* familiar.
