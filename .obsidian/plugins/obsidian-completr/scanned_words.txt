@@ -516,6 +516,7 @@ Through
 Thirty
 Transportation
 Though
+TVs
 short
 social
 so
@@ -936,6 +937,8 @@ snack
 springs
 smelled
 stepping
+sold
+shell
 were
 with
 world
@@ -1291,6 +1294,7 @@ material
 mere
 memories
 magical
+marketing
 by
 be
 but
@@ -1523,6 +1527,7 @@ brought
 branding
 brands
 bartering
+broadcasting
 gpt
 groups
 governments
@@ -1636,6 +1641,7 @@ gunpowder
 gutted
 glass
 glittery
+grid
 Sometimes
 SE
 Sparse
@@ -1989,6 +1995,7 @@ dvds
 dos
 depends
 dishonest
+divisions
 problem
 pressing
 post
@@ -2402,6 +2409,7 @@ West
 WWII
 White
 Wanamaker
+Westinghouse
 Health
 How
 Highest
@@ -2464,6 +2472,7 @@ House
 Hussein
 Horses
 Hygiene
+Huge
 Organization
 Older
 Otherwise
@@ -2672,6 +2681,7 @@ lakes
 lungs
 lantern
 librarians
+licensed
 Explore
 Eastern
 Europe
@@ -3271,6 +3281,7 @@ colony
 civilization
 cds
 channel
+corporate
 varies
 vibe
 versions
@@ -3618,6 +3629,7 @@ await
 archive
 archivists
 airline
+appliances
 epidemic
 etc
 emotional
@@ -3817,6 +3829,8 @@ epidemics
 extinct
 evolved
 expanded
+electrical
+entity
 Common
 Census
 Coffee
@@ -3926,6 +3940,8 @@ Congress
 Cathedral
 Claude
 Cows
+Corporation
+CBS
 regions
 risk
 region
@@ -4629,6 +4645,7 @@ outcry
 oak
 overnight
 org
+owned
 unemployment
 us
 unbearable
@@ -5679,6 +5696,7 @@ Gate
 Globe
 Galactic
 Going
+George
 Killing
 Know
 Keep
