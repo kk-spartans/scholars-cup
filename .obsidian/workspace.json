@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Things Really Do Catch Fire/01 - What is fire and how does it work.md",
+                "file": "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "01 - What is fire and how does it work"
+            }
+          },
+          {
+            "id": "64b3bdf28d82525b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Oxidization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oxidization"
             }
           }
         ],
@@ -187,13 +201,15 @@
   "active": "e9fcd7a3dc974638",
   "lastOpenFiles": [
     "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
-    "06 - Things Really Do Catch Fire/01 - What is fire and how does it work.md",
+    "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Oxidization.md",
+    "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
+    "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/06 - Why vintage tech sometimes beats modern gear.md",
+    "06 - Things Really Do Catch Fire/01 - What is fire and how does it work",
     "04 - The Future Wasn’t Meant to Be/02 - 90s pop culture’s hype for the new millennium—justified or not/02 - 90s pop culture’s hype for the new millennium—justified or not.md",
     "05 - If At First You Fall, Try, Try Again/05 - If At First You Fall, Try, Try Again.md",
     "06 - Things Really Do Catch Fire",
     "README.md",
     "05 - If At First You Fall, Try, Try Again/07 - Is old music killing new music.md",
-    "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/06 - Why vintage tech sometimes beats modern gear.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Physical Media.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Magnetic Tape Storage.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Pager.md",
@@ -213,14 +229,12 @@
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/Nokia.md",
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/Gateway.md",
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/Radioshack.md",
-    "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/radioshack.com.md",
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest",
     "05 - If At First You Fall, Try, Try Again/04 - Should librarians restart civilization—or someone else",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention",
     "05 - If At First You Fall, Try, Try Again/02 - Why failed empires keep trying comebacks",
     "05 - If At First You Fall, Try, Try Again/01 - Could there be a “third Rome” today—and would that be good",
     "05 - If At First You Fall, Try, Try Again",
-    "04 - The Future Wasn’t Meant to Be/03 - Do New Age good-vibes anthems still hit today",
-    "04 - The Future Wasn’t Meant to Be/02 - 90s pop culture’s hype for the new millennium—justified or not"
+    "04 - The Future Wasn’t Meant to Be/03 - Do New Age good-vibes anthems still hit today"
   ]
 }

@@ -2,6 +2,6 @@
 
 ```dataview
 list
-from "04 - The Future Wasn’t Meant to Be/01 - What is fire and how does it work"
+from "06 - Things Really Do Catch Fire/01 - What is fire and how does it work"
 where file.name != "01 - What is fire and how does it work"
 ```
