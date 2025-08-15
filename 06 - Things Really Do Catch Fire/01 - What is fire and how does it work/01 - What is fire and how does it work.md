@@ -26,3 +26,4 @@ For example, magnesium:
 
 ## Phosphorus
 
+4P + 5O<sub>2</sub>​ → 2P<sub>2</sub>​O<sub>5</sub>​
