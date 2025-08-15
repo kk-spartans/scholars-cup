@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "69",
+                "query": "table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
-    "collapsed": true
+    "width": 454.5
   },
   "right": {
     "id": "c516336bcdbc5076",
@@ -194,10 +193,11 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a16e8ab25f81a7f",
+  "active": "50c8e266e53a801e",
   "lastOpenFiles": [
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/Shuri Castle.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/03 - Is rebuilding a ruin preservation or reinvention.md",
