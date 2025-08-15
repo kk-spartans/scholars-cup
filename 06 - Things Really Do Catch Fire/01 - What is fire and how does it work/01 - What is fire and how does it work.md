@@ -34,6 +34,12 @@ For example, magnesium:
 
 ## Sulfur
 
-> 
+> S + O<sub>2</sub> → SO<sub>2</sub>
 
 Blue flame, smells awful.
+
+## Carbon
+
+>  C + O<sub>2</sub> → CO<sub>2</sub>
+
+## Metal hydr
