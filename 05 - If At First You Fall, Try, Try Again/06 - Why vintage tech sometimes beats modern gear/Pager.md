@@ -1,0 +1,1 @@
+I still won’t defend myself, this is actually cool. You can send text (maybe, *maybe* voice with the newer ones) tho
