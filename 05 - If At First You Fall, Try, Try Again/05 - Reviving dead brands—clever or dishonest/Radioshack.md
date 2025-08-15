@@ -4,4 +4,4 @@ In the ‘70s, it started making hobbyist electronics and pcs. In the 1990s, it 
 
 In 2015, it was delisted from the New York Stock Exchange and filed for Chapter 11. 3 months later, Standard General bought up the assets for $26.2 million.
 
-Now they sell stuff [here](https://radioshack.com)
+Now they sell stuff [here](https://radioshack.com).
