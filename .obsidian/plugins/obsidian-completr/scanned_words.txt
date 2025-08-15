@@ -3670,6 +3670,7 @@ appliances
 amateur
 assets
 albums
+authenticity
 epidemic
 etc
 emotional
@@ -5443,6 +5444,7 @@ frequencies
 finance
 flights
 flaws
+fb
 know
 kinda
 kind
