@@ -12,8 +12,8 @@ How does it burn? Depends on the material, but some common ones are:
 
 ## Most hydrocarbons
 
-> Fuel (C<sub>x</sub>H<sub>y</sub>) + O2 → CO2 + H2O + heat/light
+> Fuel (C<sub>x</sub>H<sub>y</sub>) + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O + heat/light
 
 For example, methane:
 
-> CH4​+2O2​→CO2​+2H2​O+energy
+> CH4​ + 2O2 ​→ CO2 ​+2H2​O + energy
