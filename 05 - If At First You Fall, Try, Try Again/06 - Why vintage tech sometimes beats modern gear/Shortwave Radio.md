@@ -1,1 +1,1 @@
-I don’t defend myself with this — shortwave radio 
+I don’t defend myself with this — shortwave radio is basically immune to the apocalypse. It works anywhere, and doesn’t take hours to align with emergency sattelites (*cough* apple emergency sattelite SOS *cough*)
