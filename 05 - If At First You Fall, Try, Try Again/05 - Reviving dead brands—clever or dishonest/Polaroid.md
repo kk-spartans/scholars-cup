@@ -1,1 +1,1 @@
-Founded in 1937 by Edwin H. Land — revolutionized photography with it’s *almost* 
+Founded in 1937 by Edwin H. Land — revolutionized photography with it’s *almost* instant ()
