@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "06 - Why vintage tech sometimes beats modern gear"
             }
+          },
+          {
+            "id": "4bfb5351deb9f3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Film.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Film"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3fcb275f2a1185d",
+  "active": "4bfb5351deb9f3ef",
   "lastOpenFiles": [
-    "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Vinyl.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/06 - Why vintage tech sometimes beats modern gear.md",
+    "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Film.md",
+    "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Vinyl.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Disposable Cameras.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Handheld Gaming Devices.md",
     "02 - The Best is Yet to Be, or Not To Be/06 - Podcasts, parasocial bonds, and pandemic friendships/06 - Podcasts, parasocial bonds, and pandemic friendships.md",
@@ -214,7 +229,6 @@
     "01 - Introductory Questions/03 - Predicting 2045 for students today/The Differences Between 2005 and Now.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/03 - Is rebuilding a ruin preservation or reinvention.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/Shakespeare's Globe.md",
-    "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/Stonehenge.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention",
     "05 - If At First You Fall, Try, Try Again/02 - Why failed empires keep trying comebacks",
     "05 - If At First You Fall, Try, Try Again/01 - Could there be a “third Rome” today—and would that be good",
