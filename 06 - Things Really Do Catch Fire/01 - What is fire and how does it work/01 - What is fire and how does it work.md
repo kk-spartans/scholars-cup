@@ -42,4 +42,8 @@ Blue flame, smells awful.
 
 >  C + O<sub>2</sub> → CO<sub>2</sub>
 
-## Metal hydr
+## Metal hydrides
+
+For example, sodium hydride:
+
+> 2NaH + 2H<sub>2</sub>​O → 2NaOH + 2H2​↑
