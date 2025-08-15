@@ -8,4 +8,4 @@ not for most people.
 
 It seems like old music is killing new music because algorithms and people prefer familiar, low risk music that they like. New music *isn’t* familiar.
 
-And this will probably be short lived, Brat Summer
+And this will probably be short lived, [Brat Summer](https://en.wikipedia.org/wiki/Brat_Summer) is over.
