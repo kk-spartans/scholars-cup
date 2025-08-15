@@ -5,3 +5,7 @@ list
 from "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear"
 where file.name != "06 - Why vintage tech sometimes beats modern gear"
 ```
+
+Some (like disposable cameras, vinyl, and film) are just because of nostalgia. But others, they aren’t ‘(technically) worse’ — they’re better.
+
+Pagers, shortwa
