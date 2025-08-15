@@ -6,5 +6,4 @@
 - [[06 - History and safety of fireworks]]
 - [[07 - Fireworks in music: celebration or critique]]
 - [[08 - Tending fire in mythology and daily life]]
-    
 - [[09 - Fire in art and literature: literal vs. metaphorical]]
