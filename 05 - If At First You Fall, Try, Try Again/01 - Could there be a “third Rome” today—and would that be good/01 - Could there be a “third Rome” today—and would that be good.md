@@ -1,7 +1,7 @@
 > Rasputin may be the most famous Russian monk, but he wasn’t the first to opine on geopolitical affairs. In the 16th century, his distant (and also lushly-bearded) predecessor Filofei proposed (in letters to a young prince named Vassilij) that Russia could be the third Rome. Consider what he meant then and what the implications of his suggestion might be today, then discuss with your team: could there be another Rome in our own era, and would it be good for the world if there were? Would Greenland be part of it?
 
 ```dataview
-table
+list
 from "05 - If At First You Fall, Try, Try Again/01 - Could there be a “third Rome” today—and would that be good"
 where file.name != "01 - Could there be a “third Rome” today—and would that be good"
 ```

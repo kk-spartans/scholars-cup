@@ -8,7 +8,7 @@
 Look at my analysis on these poems (took a lot of digging):
 
 ```dataview
-table
+list
 from "03 - In Futurity, Someone Prophetic Sees/02 - Can poetry really predict anything"
 where file.name != "02 - Can poetry really predict anything"
 ```
