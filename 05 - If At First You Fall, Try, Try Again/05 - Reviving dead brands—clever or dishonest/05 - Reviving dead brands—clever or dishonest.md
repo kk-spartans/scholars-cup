@@ -11,5 +11,6 @@ A lot of stuff was very useful for this, like:
 
  - crunchbase.com
  - sec.gov
+ - uspto.gov
  - 
 -->
