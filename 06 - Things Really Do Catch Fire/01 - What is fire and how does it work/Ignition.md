@@ -1,1 +1,1 @@
-When a substance catches fire
+Starting a fire or causing soem
