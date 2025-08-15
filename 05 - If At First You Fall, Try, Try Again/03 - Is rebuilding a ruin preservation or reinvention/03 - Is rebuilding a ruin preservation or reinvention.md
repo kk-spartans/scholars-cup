@@ -8,4 +8,4 @@ where file.name != "03 - Is rebuilding a ruin preservation or reinvention"
 
 In my opinion, it depends. If the old building was completely destroyed, and nothing was left except memories — it’s something new.
 
-But if it’s like the White House or Stonehenge, where it was never fully destroyed and you just 
+But if it’s like the White House or Stonehenge, where it was never fully destroyed and you just reconstructed the broken parts, it’s a continuation.
