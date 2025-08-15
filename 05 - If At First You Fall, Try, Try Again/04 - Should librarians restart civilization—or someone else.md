@@ -8,4 +8,5 @@ Librarians mostly do the same, but not at the same level — I feel like this pr
 
 Math to predict the future? I guess if you have the state of every particle in the universe and a quantum computer the size of Jupiter, you could predict the future with just math. 
 
-And weather forecasts use math, technically. Even AI inference is just math. And we can predict the stock market, epidemic
+And weather forecasts use math, technically. Even AI inference is just math. And we can predict the stock market, epidemics, social media trends all from previous patterns.
+
