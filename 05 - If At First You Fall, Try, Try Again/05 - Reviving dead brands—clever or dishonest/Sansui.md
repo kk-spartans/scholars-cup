@@ -1,0 +1,1 @@
+Ma in 1947 in Tokyo, Sansui was renowned for its high-quality audio equipment, especially during the 1970s and '80s. However, it lost ground to competitors like Sony and Pioneer. By the late '90s, the brand was used on video equipment manufactured by other companies. Today, Sansui operates as a mass-market brand, primarily in India, under the ownership of Orion Electric.
