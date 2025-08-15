@@ -11,3 +11,7 @@ Material ignites without an external flame or spark. Oily rags oxidizing and cat
 ## Electric Ignition
 
 Electricity triggers ignition. Electric matches in pyrotechnics.
+
+---
+
+Autoignition → The exact temperature where a material just _goes up_ without a spark. Big deal for safety data sheets.
