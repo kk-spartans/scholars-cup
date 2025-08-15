@@ -9,5 +9,7 @@ where file.name != "05 - Reviving dead brands—clever or dishonest"
 <!-- 
 A lot of stuff was very useful for this, like:
 
+ - crunchbase.com
+ - sec.gov
  - 
 -->
