@@ -1,1 +1,1 @@
-The og RCA (Radio Corporation of America) was insanely huge in radio/tv. Was 
+The og RCA (Radio Corporation of America) was insanely huge in radio/tv. Was originally a patent pool owned by GE, Westinghouse, AT&T, and UFC. Became independent in 1932.
