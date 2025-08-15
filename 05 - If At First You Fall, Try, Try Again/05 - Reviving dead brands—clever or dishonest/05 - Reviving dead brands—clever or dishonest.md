@@ -18,4 +18,6 @@ A lot of stuff was very useful for this, like:
 But I’m not sure I should be reading business reports here, so this might be a waste of time. 
 -->
 
-It isn’t dishonest or honest in any way — it’s just mnew
+It isn’t dishonest or honest in any way — it’s just new companies using old brands as nostalgia marketing. 
+
+I would love if the []() came back
