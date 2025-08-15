@@ -1,1 +1,1 @@
-Founded in 1937 by Edwin H. Land — revolutionized photography with it’s *almost* instant (1/60). They filed for Cha
+Founded in 1937 by Edwin H. Land — revolutionized photography with it’s *almost* instant (1/60). They filed for Chapter 11 in 
