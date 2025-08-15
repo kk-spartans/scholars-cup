@@ -2,4 +2,4 @@ This isn’t because of nostalgia. This is because of efficiency — the GBC, GB
 
 Companies like Valve, Nintendo, and eventually ROG, Lenovo, Playdate, and Ayaneo just took that and brought them to the future.
 
-You think the 
+You think the ROG Ally is to tingle nostalgia? It’s because the form factor is good, and if you manage to put linux on it — Proton is good enough 
