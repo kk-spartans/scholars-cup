@@ -1,4 +1,4 @@
-(claude 4 sonnet #ai generated)
+(claude sonnet 4 #ai generated)
 
 Look at the differences here:
 

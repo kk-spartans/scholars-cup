@@ -1,4 +1,4 @@
-Made by claude-sonnet-4 because I was lazy:
+Made by claude sonnet 4 #ai because I was lazy:
 
 - In 1820, you woke up when the rooster felt like screaming at you. By 1920, you had an actual alarm clock that sounded like a train wreck but at least showed up on time.
 
