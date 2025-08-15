@@ -2,4 +2,6 @@ Founded in 1937 by Edwin H. Land — revolutionized photography with it’s *alm
 
 Acquired by one equity partners and rebranded to Primary PDC Inc. in 2008 (it gave up on instant camera about now). One year before the og iphone came out.
 
-In the same year, the impossible project was founded and worked with whatever company that polaroid was owned by at that time to figure out to manufacture 
+In the same year, the impossible project was founded and worked with whatever company that polaroid was owned by at that time to figure out to manufacture cameras and film modules.
+
+In 2017, when the *practical* owner of it got all of Polaroids assets.
