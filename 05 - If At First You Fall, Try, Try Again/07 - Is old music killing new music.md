@@ -4,4 +4,6 @@
 
 ![r/coolguides - A cool guide to what age you were when your favourite songs were released](https://i.redd.it/ksflqvc32u3d1.jpeg)
 
-It’s not. 
+not for most people.
+
+It seems like old music is killing new music because algorithms and people prefer fami
