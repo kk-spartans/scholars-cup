@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "a83eddadf1dfabc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Handheld Gaming Devices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Handheld Gaming Devices"
-            }
-          },
-          {
             "id": "3ff6b82532e01466",
             "type": "leaf",
             "state": {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a83eddadf1dfabc8",
+  "active": "a3fcb275f2a1185d",
   "lastOpenFiles": [
-    "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/06 - Why vintage tech sometimes beats modern gear.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Handheld Gaming Devices.md",
+    "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/06 - Why vintage tech sometimes beats modern gear.md",
     "02 - The Best is Yet to Be, or Not To Be/06 - Podcasts, parasocial bonds, and pandemic friendships/06 - Podcasts, parasocial bonds, and pandemic friendships.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Disposable Cameras.md",
     "05 - If At First You Fall, Try, Try Again/05 - If At First You Fall, Try, Try Again.md",
