@@ -11,9 +11,14 @@ This is definitely different from radio broadcasts, in the sense that this lets 
 
 Will this be there in 10 years? Let the trend graphs decide that, I used whatever medium was relevant to each trend (youtube and google search):
 
- - [[Blogging]]https://trends.google.com/trends/explore?date=all&q=%2Fm%2F084dw&hl=en-GB)
+  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/4116_RC01/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/084dw","geo":"","time":"2004-01-01 2025-08-15"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=%2Fm%2F084dw&hl=en-GB","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
 
-As you can see, blogging decreased in popularity after it’s hype ended - and I predict the same will happen to podcasting too. It won’t completely disappear, just like blogs haven’t completely disappeared.
+
+
+As you can see, [[Blogging]] decreased in popularity after it’s hype ended - and I predict the same will happen to podcasting too. It won’t completely disappear, just like blogs haven’t completely disappeared.
 
 > What goes up, must come down.
   \- Isaac Newton
