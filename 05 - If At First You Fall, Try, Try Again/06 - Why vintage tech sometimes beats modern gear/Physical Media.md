@@ -1,1 +1,1 @@
-Just look at the previous ones, it’s the exact same -
+Just look at the previous ones, it’s the exact same — [nost]().
