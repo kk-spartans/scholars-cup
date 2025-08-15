@@ -407,6 +407,7 @@ texts
 troops
 traditional
 thank
+tarot
 The
 There
 That
@@ -1229,6 +1230,7 @@ metropolis
 millennium
 millennia
 monuments
+minimal
 by
 be
 but
@@ -1891,6 +1893,8 @@ devastating
 destroyed
 decayed
 displays
+desk
+decks
 problem
 pressing
 post
@@ -2158,6 +2162,7 @@ printing
 panels
 palatial
 pageantry
+pendulums
 In
 Islands
 Is
