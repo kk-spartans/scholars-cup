@@ -1,1 +1,3 @@
-Made in 1947 in Tokyo, known for its high quality audio gear, mostly during the 1970s and '80s. it died because of Sony and Pioneer. In '90s, the brand was used on video equipment manufactured by other companies. Today, Sansui operates as a mass-market brand, primarily in India, under the ownership of Orion Electric.
+Made in 1947 in Tokyo, known for its high quality audio gear, mostly during the 1970s and '80s. it died because of Sony and Pioneer. In '90s, it was used on video equipment made by other companies.
+
+It’s now a mass-market brand, mostly sells to India, under the ownership by Orion Electric.
