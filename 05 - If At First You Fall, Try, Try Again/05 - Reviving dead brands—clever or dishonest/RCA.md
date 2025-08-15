@@ -1,1 +1,1 @@
-The og RCA (Radio Corporation of America) was insanely huge in radio/tv
+The og RCA (Radio Corporation of America) was insanely huge in radio/tv. Was 
