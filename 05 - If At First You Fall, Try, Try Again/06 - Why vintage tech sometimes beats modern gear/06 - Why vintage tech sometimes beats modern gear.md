@@ -10,4 +10,4 @@ Some (like disposable cameras, vinyl, and film) are just because of nostalgia. B
 
 Pagers, Shortwave radios, and AM radios have actual utility in this world — mostly in emergencies or for hobbyists.
 
-And for magnetic tape,
+And for magnetic tape, it’s just better, period (for the price). It’s the cheapest medium of storage — ever.
