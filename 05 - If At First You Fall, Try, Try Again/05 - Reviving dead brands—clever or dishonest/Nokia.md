@@ -1,0 +1,1 @@
+Founded in 1865 as a pulp mill, then did rubber and cables.
