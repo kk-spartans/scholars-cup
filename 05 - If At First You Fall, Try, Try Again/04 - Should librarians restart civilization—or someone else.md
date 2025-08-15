@@ -7,3 +7,4 @@ Anything from youtube in 2009 to an old ms dos CD from the 1990s, they have it i
 Librarians mostly do the same, but not at the same level — I feel like this profession should be left to archivists.
 
 Math to predict the future? I guess if you have the state of every particle in the universe and a quantum computer the size of Jupiter, you could predict the future with just math. 
+
