@@ -5,3 +5,5 @@ table continuation-or-new
 from "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention"
 where file.name != "03 - Is rebuilding a ruin preservation or reinvention"
 ```
+
+In my opinion, it depends. If the old building was completly destr

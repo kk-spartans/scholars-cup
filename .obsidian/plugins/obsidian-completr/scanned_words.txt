@@ -412,6 +412,7 @@ tarot
 torture
 texting
 terrifyingly
+timber
 The
 There
 That
@@ -912,6 +913,8 @@ setting
 streetlamps
 shutters
 snow
+survived
+stagecraft
 were
 with
 world
@@ -1261,6 +1264,7 @@ mercy
 mile
 mud
 minutes
+material
 by
 be
 but
@@ -1946,6 +1950,8 @@ delivered
 desktops
 damp
 dodging
+demolished
+deliberately
 problem
 pressing
 post
@@ -2222,6 +2228,8 @@ per
 potato
 pig
 pies
+principles
+playhouse
 In
 Islands
 Is
@@ -2351,6 +2359,7 @@ Wall
 West
 WWII
 White
+Wanamaker
 Health
 How
 Highest
@@ -2694,6 +2703,7 @@ Empire
 Economically
 Extremely
 Egypt
+Elizabethan
 how
 health
 healthcare
@@ -3207,6 +3217,7 @@ cow
 chop
 candlelight
 creaks
+continuity
 varies
 vibe
 versions
@@ -4083,6 +4094,11 @@ rooster
 roll
 recently
 recitation
+records
+reconstructed
+replica
+recreates
+rather
 Loneliness
 Lowest
 Linked
@@ -4612,6 +4628,7 @@ unsuccessfully
 unusually
 urban
 universities
+unbroken
 Virtually
 Voiceover
 Visual
@@ -4841,6 +4858,7 @@ Begun
 Baroque
 Babylon
 Babylonian
+Bankside
 Northern
 North
 No
@@ -5253,6 +5271,8 @@ flint
 flush
 fights
 five
+faithful
+framing
 know
 kinda
 kind
@@ -5573,6 +5593,7 @@ Greeks
 Greek
 Gothic
 Gate
+Globe
 Killing
 Know
 Keep
