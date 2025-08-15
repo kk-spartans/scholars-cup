@@ -19,7 +19,7 @@ The Haab’ and Tzolk’in overlap every 52 Haab’ years (18980 days). Everyone
 
 ## Long Count
 
-(gpt4o generated)
+(gpt4o #ai generated)
 
 - Used to count big time spans (think: history books).
 - Based on base-20 (vigesimal) and base-18 math.

@@ -1,4 +1,4 @@
-(summary by gpt4o, I modified it a bit)
+(summary by gpt4o #ai, I modified it a bit)
 
 ***A Tale of Two Cities*** by Charles Dickens is a historical novel set during the French Revolution, bouncing between London and Paris (hence the “two cities”). Here's the gist:
 

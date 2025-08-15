@@ -1,4 +1,4 @@
-(gpt4o generated)
+(gpt4o #ai generated)
 
 This thing is the Swiss watch of ancient Greece. It's a mechanical analog computer (built ~100 BCE) used to predict astronomical events like eclipses, lunar phases, planetary movements, and even the timing of the Olympic Games. It’s like if a Rolex and a planetarium had a baby.
 

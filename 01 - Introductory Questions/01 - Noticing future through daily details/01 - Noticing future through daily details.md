@@ -2,7 +2,7 @@
 
 To answer this question, I think we should start by looking at the differences between 1920 and 2020. Also, looking at people's predictions of the future 100 years ago would be nice to see what they did wrong and what we can do right.
 
-Considering [[The Routine Right Now]], [[The Routine in the 1920s]], [[The Differences Between 1920 and Now]], and [[What People Thought The Future Would Be Like]]; I think there would be a few things that could happen in the future (Made by gpt4o because I was lazy):
+Considering [[The Routine Right Now]], [[The Routine in the 1920s]], [[The Differences Between 1920 and Now]], and [[What People Thought The Future Would Be Like]]; I think there would be a few things that could happen in the future (Made by gpt4o #ai because I was lazy):
 
 - **My routine is totally obsolete**. Not in a “floppy disks”, like “why were humans still touching toothbrushes?” Everything mundane is probably automated, embedded, or ambient. Beds will adjust themselves based on brainwaves or something spooky. Showers might just scan and clean you like you’re luggage at the airport.
 

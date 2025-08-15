@@ -1,4 +1,4 @@
-(gpt4o generated)
+(gpt4o #ai generated)
 
 Robert Browning (1812–1889) was an English poet and playwright known for his dramatic monologues and psychological insight. Born in Camberwell, London, he grew up in a well-off household with access to an impressive personal library, which helped him become a self-educated literary brainiac. Despite early flops like *Pauline* and *Sordello* (which confused everyone, including other poets), Browning kept pushing his own dense, challenging style. He eventually hit his stride with *Men and Women* and later *The Ring and the Book*, a sprawling 12-book poetic crime saga that showed off his love for moral complexity and character study.
 

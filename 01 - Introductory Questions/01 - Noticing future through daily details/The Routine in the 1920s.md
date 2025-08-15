@@ -1,4 +1,4 @@
-This is what gpt4o would tell me how a person in the 1920s would live:
+This is what gpt4o #ai would tell me how a person in the 1920s would live:
 
 - I wake up to the clanging of an alarm clock. The kind you wind up by hand and it sounds like a miniature train wreck. My bed’s a bit lumpy-stuffed with cotton or maybe horsehair if I'm lucky-and it squeaks if I so much as breathe too hard.
 

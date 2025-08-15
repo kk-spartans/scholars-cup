@@ -13,4 +13,9 @@
  - [[13 - Punky Futures]]
  - [[14 - Concluding Questions]]
 
-To be clear, when something is ai generated - it's **explicitly** mentioned (other than the short titles in the home of each theme). Otherwise, it's human written.
+To be clear, when something is ai generated - it's **explicitly** mentioned (other than the short titles in the home of each theme). And, when I generate something with AI, I’m either:
+
+ - Confident that I **completely** agree with it
+ - Hope my teammates will do a better job than me at that topic because I *give up* (especially in Social Studies and Art and Literature).
+
+Anything above the “(gpt4o/5/whatever model generated)” **I wrote**. And if there’s a hr below it, the AI part ends.

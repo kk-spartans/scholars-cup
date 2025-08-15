@@ -1,4 +1,4 @@
-(gpt4o generated)
+(gpt4o #ai generated)
 
 The Metonic cycle is a 19-year period after which lunar phases repeat on the same solar dates. Super useful in lunisolar calendars (Hebrew, Chinese, Computus) where you want moon phases to sync with solar years for festivals and holidays.
 

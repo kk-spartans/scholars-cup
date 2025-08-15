@@ -27,7 +27,7 @@ Earth wobbles (precession), so the Sun isn’t *in* the same constellations it w
 
 ## Not To Be Confused With
 
-(gpt 4o generated)
+(gpt4o #ai generated)
 
 - **Chinese Zodiac**: Based on birth year, 12 animals. It’s a completely different beast (literally).
 - **Vedic (Indian) Zodiac**: Sidereal, adjusts for precession. More astronomically accurate.

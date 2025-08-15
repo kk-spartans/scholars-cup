@@ -1,4 +1,4 @@
-(gpt4o Generated)
+(gpt4o #ai Generated)
 
 MySpace started in 2003 as a social media juggernaut, giving people their first taste of customizing profiles, friending Tom, and discovering music through embedded playlists. It quickly became the biggest site in the U.S., peaking in the mid-2000s with millions of users and a vibe that was part teenage rebellion, part HTML chaos. For a while, it looked like nothing could dethrone it.
 
