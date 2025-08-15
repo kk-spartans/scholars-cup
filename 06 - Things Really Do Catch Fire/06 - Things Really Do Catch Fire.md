@@ -1,0 +1,10 @@
+- [[01 - What is fire and how does it work]] 
+- [[02 - Who “discovered” fire and can it be owned]]
+- [[03 - Methods of starting fire—then and now, and teaching kids]]
+- [[04 - Greek fire and its modern equivalents]]
+- [[05 - Fire as a prehistoric storytelling tool]]
+- [[06 - History and safety of fireworks]]
+- [[07 - Fireworks in music: celebration or critique]]
+- [[08 - Tending fire in mythology and daily life]]
+    
+- [[09 - Fire in art and literature: literal vs. metaphorical]]
