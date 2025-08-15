@@ -10,6 +10,7 @@
           {
             "id": "2784e6f94dde1645",
             "type": "tabs",
+            "dimension": 63.405088062622305,
             "children": [
               {
                 "id": "e9fcd7a3dc974638",
@@ -45,6 +46,7 @@
           {
             "id": "749ca80b52d0cd21",
             "type": "tabs",
+            "dimension": 36.59491193737769,
             "children": [
               {
                 "id": "964dd9ba3b3dda11",
@@ -52,12 +54,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
+                    "file": "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "06 - Things Really Do Catch Fire"
+                  "title": "01 - What is fire and how does it work"
                 }
               }
             ]
@@ -211,10 +213,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "094e64bd94615f5a",
+  "active": "964dd9ba3b3dda11",
   "lastOpenFiles": [
-    "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Ignition.md",
+    "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
     "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Oxidation.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/06 - Why vintage tech sometimes beats modern gear.md",

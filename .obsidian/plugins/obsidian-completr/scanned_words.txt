@@ -526,6 +526,7 @@ Thirty
 Transportation
 Though
 TVs
+Thermal
 short
 social
 so
@@ -2392,6 +2393,7 @@ Inventors
 Imperial
 II
 Ishtar
+Ignition
 World
 Worldwide
 WHO
@@ -2529,6 +2531,7 @@ Horses
 Hygiene
 Huge
 Hangzhou
+Heat
 Organization
 Older
 Otherwise
@@ -3359,6 +3362,7 @@ cheapest
 chemically
 combustion
 catches
+causes
 varies
 vibe
 versions
@@ -3922,6 +3926,7 @@ efficiency
 emergencies
 extinction
 electron
+exposed
 Common
 Census
 Coffee
@@ -5303,6 +5308,7 @@ Polaroids
 Playdate
 Pagers
 Phosphorus
+Paper
 forming
 fictional
 feels
