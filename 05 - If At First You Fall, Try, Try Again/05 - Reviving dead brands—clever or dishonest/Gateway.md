@@ -1,0 +1,1 @@
+Computer company founded in 1985
