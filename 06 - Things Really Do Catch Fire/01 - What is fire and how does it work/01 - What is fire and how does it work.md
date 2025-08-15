@@ -30,4 +30,10 @@ For example, magnesium:
 
 ## Hydrogen
 
-> 2H<sub>2</sub>​+O<sub>2</sub>​→2H<sub>2</sub​O
+> 2H<sub>2</sub>​ + O<sub>2</sub> ​→ 2H<sub>2</sub>​O
+
+## Sulfur
+
+> 
+
+Blue flame, smells awful.
