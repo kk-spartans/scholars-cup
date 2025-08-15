@@ -12,8 +12,9 @@ Even in schools, jobs, politics — people operate inside rigid, clunky systems.
 
 And sure, sometimes the mechanic *is* bad. But you wouldn’t blame the cashier for inflation. Or the bus driver for traffic. Or the barista for your emotional damage. So why blame the person when the system’s the one rigged?
 
-Blame the machine when it rewards the wrong behavior. Blame the machine when it punishes logic. Blame the machine when ten different people fail in the *exact* same way. Blame the machine when it’s running windows, an OS made for normal people still breaks when linux (a nerd OS for Desktop envs) runs completely fine, faster.
+Blame the machine when it rewards the wrong behavior. Blame the machine when it punishes logic. Blame the machine when ten different people fail in the *exact* same way. Blame the machine when it’s running windows, an OS made for normal people still breaks when linux (a nerd OS with custom Desktop envs) runs completely fine, faster.
 
 Systems create outcomes. People just carry them out. So stop yelling at the mechanic for leaking oil — maybe the engine was built to break.
 
 Blame the machine. Not just because it’s fair — but because it's the only way anything actually changes.
+
