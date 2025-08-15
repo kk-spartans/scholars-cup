@@ -8,4 +8,11 @@ where file.name != "01 - What is fire and how does it work"
 
 > Fire: a process in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke; combustion or burning.
 
-How does 
+How does it burn? Depends on the material, but some common ones are:
+
+## Most hydrocarbons
+
+Fuel (CxHy) + O2 → CO2 + H2O + heat/light
+
+For example, methane:
+
