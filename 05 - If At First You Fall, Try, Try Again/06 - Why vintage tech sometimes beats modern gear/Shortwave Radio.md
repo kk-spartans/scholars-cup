@@ -1,0 +1,1 @@
+I don’t defend myself with this — shortwave radio 
