@@ -3,4 +3,4 @@ When something catches fire, mostly because of these:
 
 Heat alone causes the reaction. Paper or wood igniting when exposed to a flame or hot surface.
 
-## 
+## Self-Ignition 
