@@ -8,4 +8,6 @@ where file.name != "06 - Why vintage tech sometimes beats modern gear"
 
 Some (like disposable cameras, vinyl, and film) are just because of nostalgia. But others, they aren’t ‘(technically) worse’ — they’re better.
 
-Pagers, shortwa
+Pagers, Shortwave radios, and AM radios have actual utility in this world — mostly in emergencies or for hobbyists.
+
+And for magnetic tape,
