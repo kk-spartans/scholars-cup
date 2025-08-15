@@ -1,1 +1,1 @@
-The og RCA (Radio Corporation of America) wes insane 
+The og RCA (Radio Corporation of America) was insanely huge in radio/tv
