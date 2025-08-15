@@ -12,5 +12,8 @@ A lot of stuff was very useful for this, like:
  - crunchbase.com
  - sec.gov
  - uspto.gov
- - 
+ - tmsearch.uspto.gov
+ - you get the idea
+
+But I’m not sure I should be reading business reports here, so this might be a waste of time. 
 -->
