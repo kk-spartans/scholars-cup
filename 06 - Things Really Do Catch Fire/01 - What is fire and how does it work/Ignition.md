@@ -16,3 +16,4 @@ Electricity triggers ignition. Electric matches in pyrotechnics.
 
  - **Autoignition** - The exact temperature where a material just _goes up_ without a spark. 
  - **Catalytic ignition** - Surface catalysts lower the activation energy so fuel burns at lower temps (catalytic heaters).
+ - 
