@@ -1,0 +1,1 @@
+Basically shortwave radio, but hobbyists can’t emit them. Same 
