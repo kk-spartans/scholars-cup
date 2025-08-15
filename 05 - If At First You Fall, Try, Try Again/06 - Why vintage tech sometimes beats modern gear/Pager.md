@@ -1,1 +1,1 @@
-I still won’t defend myself, this is actually cool. You can send text (maybe, *maybe* voice with the newer ones) tho
+I still won’t defend myself, this is actually cool. You can send text (maybe, *maybe* voice with the newer ones) across 10-50 miles depending on interference. This isn’t just nostalgia, hits is actual utility — even if everything 
