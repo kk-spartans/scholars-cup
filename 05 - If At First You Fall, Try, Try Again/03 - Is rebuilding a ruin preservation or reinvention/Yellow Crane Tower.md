@@ -1,5 +1,5 @@
 ---
-continuation-or-new:
+continuation-or-new: new
 ---
 (gpt5 #ai generated)
 
