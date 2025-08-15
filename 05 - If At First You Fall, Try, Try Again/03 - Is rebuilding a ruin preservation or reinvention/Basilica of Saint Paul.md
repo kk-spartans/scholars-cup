@@ -1,6 +1,7 @@
 ---
 continuation-or-new: continuation
 ---
+
 (gpt5 #ai generated)
 
 Founded on a 4th-century shrine over Saint Paul’s burial site, the basilica grew, decayed, and was redeveloped across late antiquity and the Middle Ages; a catastrophic fire in 1823 destroyed much of the medieval fabric.

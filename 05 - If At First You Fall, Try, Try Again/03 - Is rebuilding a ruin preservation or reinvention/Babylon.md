@@ -1,6 +1,7 @@
 ---
 continuation-or-new: new
 ---
+
 (gpt5 #ai generated)
 
 Babylon was a living metropolis from the 3rd millennium BCE through the Neo-Babylonian peak under Nebuchadnezzar II, then fell into ruin and was quarried, looted, and altered for millennia.

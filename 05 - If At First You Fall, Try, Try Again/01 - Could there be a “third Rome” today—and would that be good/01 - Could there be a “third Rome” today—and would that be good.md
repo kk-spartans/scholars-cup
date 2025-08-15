@@ -18,10 +18,10 @@ In 1500s political-speak, this was less about “world domination” and more ab
 
 If someone revived the “Third rome” concept now, it’d basically be a PR stunt for political power. It would probably push towards being a multipolar challenge to the U.S.-led order imo.
 
-## Could there be another Rome today?
+## Could There Be Another Rome Today?
 
 Realistically, any modern “Rome” would be less about controlling territory and more about controlling narrative, tech, culture, and influence — mostly soft power.
 
-## Would Greenland be part of it?
+## Would Greenland Be Part Of It?
 
 Only if climate change keeps melting ice caps. Suddenly Greenland’s sitting on valuable shipping lanes and rare minerals. Then any “new Rome” would absolutely want it.

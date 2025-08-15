@@ -1,6 +1,7 @@
 ---
 length: 1991 → present with an * the size of god's to do list
 ---
+
 (gpt5 #ai generated)
 
 - **Trying to be:** The USSR’s global influence, centralized control, and great-power status.

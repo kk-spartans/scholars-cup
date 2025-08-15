@@ -1,15 +1,18 @@
 ---
 could-come-back: Maybe.
 ---
+
 Vehicles powered hydrogen, people imagined they would work in one of two of ways:
 
  - Burning it just like you burn fuel, producing CO2 and polluting the environment.
  - Using hydrogen fuel cells (I barely understand how this works)
 
-## Hydrogen fuel cells
+## Hydrogen Fuel Cells
+
 (gpt5 #ai generated)
 
 In a hydrogen fuel cell:
+
 1. **Hydrogen enters the anode side**  
     The anode has a catalyst (often platinum) that rips each hydrogen molecule (H₂) apart into two protons (H⁺) and two electrons (e⁻).
     

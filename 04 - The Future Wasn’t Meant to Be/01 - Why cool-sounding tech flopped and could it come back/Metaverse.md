@@ -1,6 +1,7 @@
 ---
 could-come-back: I hope so
 ---
+
 Persistent shared digital worlds, blending virtual reality, augmented reality, and social interaction — term coined by Neal Stephenson in [Snow Crash](https://www.google.co.in/books/edition/Snow_Crash/inYs79gV4UQC?hl=en&gbpv=0).
 
 Touted as the “next internet,” but adoption struggles with hardware costs, motion sickness, lack of compelling use cases, and a general “meh” from most people.

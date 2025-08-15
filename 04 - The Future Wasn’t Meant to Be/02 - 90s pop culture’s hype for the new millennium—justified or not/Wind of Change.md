@@ -3,6 +3,7 @@ author: Scorpion
 created: "1990"
 link: https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM
 ---
+
 (gpt5 #ai generated)
 
 - **Political optimism** – Berlin Wall gone, USSR collapsing, “freedom” spreading east, democracy supposedly winning everywhere.

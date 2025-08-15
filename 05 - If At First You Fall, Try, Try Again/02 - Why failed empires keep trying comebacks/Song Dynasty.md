@@ -1,6 +1,7 @@
 ---
 length: 960 CE → 1279 CE
 ---
+
 (gpt5 #ai generated)
 
 - **Trying to be:** Tang Dynasty’s glory—cultural brilliance, centralized bureaucracy, Confucian order.

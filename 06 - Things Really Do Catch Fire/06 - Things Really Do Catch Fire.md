@@ -1,4 +1,4 @@
-- [[01 - What is fire and how does it work]] 
+- [[01 - What is fire and how does it work]]
 - [[02 - Who “discovered” fire and can it be owned]]
 - [[03 - Methods of starting fire—then and now, and teaching kids]]
 - [[04 - Greek fire and its modern equivalents]]

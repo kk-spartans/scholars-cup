@@ -1,6 +1,7 @@
 ---
 length: 800 CE → 843 CE
 ---
+
 (gpt5 #ai generated)
 
 - **Trying to be:** The Western Roman Empire, as revived under Charlemagne.

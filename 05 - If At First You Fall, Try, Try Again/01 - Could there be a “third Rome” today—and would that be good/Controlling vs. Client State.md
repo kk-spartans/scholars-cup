@@ -1,6 +1,7 @@
 In international relations, the controlling state is usually the great power — and the client state is usually the small power and aligns with the interests of the controlling state. If it doesn’t — war.
 
 Think Cold War:
+
  - USSR → controlling state.
  - East Germany, Cuba (to an extent) → client states.
 

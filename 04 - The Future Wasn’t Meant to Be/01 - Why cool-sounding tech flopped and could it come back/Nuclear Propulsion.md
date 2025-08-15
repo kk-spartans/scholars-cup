@@ -1,6 +1,7 @@
 ---
 could-come-back: Already used in submarines
 ---
+
 Instead of burning fuel to hurl mass out the back of your object using chemical reactions, you use nuclear reactors.
 
 Used in submarines, icebreakers, and some aircraft carriers - submarines being the most notable.

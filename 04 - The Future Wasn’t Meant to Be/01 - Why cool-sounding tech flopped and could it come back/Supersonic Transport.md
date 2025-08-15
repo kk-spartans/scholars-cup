@@ -1,6 +1,7 @@
 ---
 could-come-back: ABSOLUTELY.
 ---
+
 Passenger planes exceeding Mach 1, most famously Concorde (1976–2003). Developed by UK/France and briefly by the USSR (Tu-144).
 
 Promised faster-than-sound travel times, but high fuel use, ticket cost, and noise pollution from sonic booms doomed commercial viability.

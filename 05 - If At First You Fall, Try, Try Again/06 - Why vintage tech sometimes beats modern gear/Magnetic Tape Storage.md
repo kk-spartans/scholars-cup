@@ -7,4 +7,4 @@ Some places don’t need nvme ssds as fast as vram from the 2010s, they just nee
 | Price/TB          | $11~ (with drive) | $13~ | $60~      |
 | Read/Write (MB/s) | 300               | 160  | 15,000    |
 
-See the difference? 
+See the difference?

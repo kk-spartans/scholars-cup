@@ -6,7 +6,7 @@ from "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clev
 where file.name != "05 - Reviving dead brands—clever or dishonest"
 ```
 
-<!-- 
+<!--
 A lot of stuff was very useful for this, like:
 
  - crunchbase.com
@@ -15,9 +15,9 @@ A lot of stuff was very useful for this, like:
  - tmsearch.uspto.gov
  - you get the idea
 
-But I’m not sure I should be reading business reports here, so this might be a waste of time. 
+But I’m not sure I should be reading business reports here, so this might be a waste of time.
 -->
 
-It isn’t dishonest or honest in any way — it’s just new companies using old brands as nostalgia marketing. 
+It isn’t dishonest or honest in any way — it’s just new companies using old brands as nostalgia marketing.
 
 I would love if the [Boosted Board](https://boostedusa.com/) came back.

@@ -10,7 +10,7 @@ where file.name != "01 - What is fire and how does it work"
 
 How does it burn? Depends on the material, but some common ones are:
 
-## Most hydrocarbons
+## Most Hydrocarbons
 
 > Fuel (C<sub>x</sub>H<sub>y</sub>) + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
 
@@ -18,7 +18,7 @@ For example, methane:
 
 > CH<sub>4</sub>​ + 2O<sub>2</sub> ​→ CO<sub>2</sub> ​+ 2H<sub>2</sub>​O
 
-## Most metals
+## Most Metals
 
 For example, magnesium:
 
@@ -40,9 +40,9 @@ Blue flame, smells awful.
 
 ## Carbon
 
->  C + O<sub>2</sub> → CO<sub>2</sub>
+> C + O<sub>2</sub> → CO<sub>2</sub>
 
-## Metal hydrides
+## Metal Hydrides
 
 For example, sodium hydride:
 

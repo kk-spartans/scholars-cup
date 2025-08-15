@@ -17,4 +17,3 @@ Blame the machine when it rewards the wrong behavior. Blame the machine when it 
 Systems create outcomes. People just carry them out. So stop yelling at the mechanic for leaking oil — maybe the engine was built to break.
 
 Blame the machine. Not just because it’s fair — but because it's the only way anything actually changes.
-
