@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - The Best is Yet to Be, or Not To Be/02 - The Best is Yet to Be, or Not To Be.md",
+                "file": "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/05 - Reviving dead brands—clever or dishonest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - The Best is Yet to Be, or Not To Be"
+              "title": "05 - Reviving dead brands—clever or dishonest"
+            }
+          },
+          {
+            "id": "610450f7d54ee91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/RCA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RCA"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 527.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +198,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae507a8952da7a2a",
+  "active": "610450f7d54ee91c",
   "lastOpenFiles": [
-    "05 - If At First You Fall, Try, Try Again/04 - Should librarians restart civilization—or someone else/04 - Should librarians restart civilization—or someone else.md",
-    "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest.md",
-    "05 - If At First You Fall, Try, Try Again/04 - Should librarians restart civilization—or someone else",
+    "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/05 - Reviving dead brands—clever or dishonest.md",
     "05 - If At First You Fall, Try, Try Again/05 - If At First You Fall, Try, Try Again.md",
+    "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/RCA.md",
+    "02 - The Best is Yet to Be, or Not To Be/02 - The Best is Yet to Be, or Not To Be.md",
+    "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest",
+    "05 - If At First You Fall, Try, Try Again/04 - Should librarians restart civilization—or someone else/04 - Should librarians restart civilization—or someone else.md",
+    "05 - If At First You Fall, Try, Try Again/04 - Should librarians restart civilization—or someone else",
     "01 - Introductory Questions/02 - Comparing everyday life across centuries/The Differences Between 1820 and 1920.md",
     "01 - Introductory Questions/03 - Predicting 2045 for students today/The Differences Between 2005 and Now.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/03 - Is rebuilding a ruin preservation or reinvention.md",
@@ -210,7 +228,6 @@
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/Notre Dame.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/White House.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/Bibliotheca Alexandrina.md",
-    "05 - If At First You Fall, Try, Try Again/02 - Why failed empires keep trying comebacks/02 - Why failed empires keep trying comebacks.md",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention",
     "05 - If At First You Fall, Try, Try Again/02 - Why failed empires keep trying comebacks",
     "05 - If At First You Fall, Try, Try Again/01 - Could there be a “third Rome” today—and would that be good",
@@ -218,7 +235,6 @@
     "04 - The Future Wasn’t Meant to Be/03 - Do New Age good-vibes anthems still hit today",
     "04 - The Future Wasn’t Meant to Be/02 - 90s pop culture’s hype for the new millennium—justified or not",
     "The truth is only as valuable as the person who speaks it.pdf",
-    "04 - The Future Wasn’t Meant to Be/01 - Why cool-sounding tech flopped and could it come back",
-    "04 - The Future Wasn’t Meant to Be"
+    "04 - The Future Wasn’t Meant to Be/01 - Why cool-sounding tech flopped and could it come back"
   ]
 }
