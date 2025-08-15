@@ -1,1 +1,1 @@
-Founded in 1921
+Founded in 1921 — it originally was an amateur radio
