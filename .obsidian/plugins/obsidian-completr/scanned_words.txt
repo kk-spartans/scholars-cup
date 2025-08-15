@@ -185,6 +185,7 @@ incorporating
 imprint
 inserted
 interventions
+iPods
 this
 theme
 titles
@@ -408,6 +409,8 @@ troops
 traditional
 thank
 tarot
+torture
+texting
 The
 There
 That
@@ -501,6 +504,7 @@ Taurus
 Third
 Trying
 Tang
+TomTom
 short
 social
 so
@@ -893,6 +897,10 @@ sparking
 stained
 shrine
 strong
+sounded
+stores
+sus
+streaming
 were
 with
 world
@@ -1231,6 +1239,8 @@ millennium
 millennia
 monuments
 minimal
+mailed
+message
 by
 be
 but
@@ -1450,6 +1460,8 @@ beside
 begun
 burial
 basilica
+buffering
+buying
 gpt
 groups
 governments
@@ -1562,6 +1574,7 @@ glory
 gunpowder
 gutted
 glass
+glittery
 Sometimes
 SE
 Sparse
@@ -1696,6 +1709,10 @@ Song
 Southern
 Saint
 Saddam
+Sonnet
+Spotify
+Shopping
+Snake
 distancing
 declared
 discuss
@@ -1895,6 +1912,9 @@ decayed
 displays
 desk
 decks
+dances
+delivered
+desktops
 problem
 pressing
 post
@@ -2163,6 +2183,11 @@ panels
 palatial
 pageantry
 pendulums
+pockets
+played
+pocket
+powerful
+per
 In
 Islands
 Is
@@ -2556,6 +2581,7 @@ leaned
 layering
 looted
 landscaping
+lakes
 Explore
 Eastern
 Europe
@@ -2773,6 +2799,7 @@ hr
 heavy
 hub
 heavily
+hyped
 concern
 can
 countries
@@ -3126,6 +3153,8 @@ campaign
 classical
 capitals
 contested
+chunky
+computers
 varies
 vibe
 versions
@@ -3661,6 +3690,7 @@ expansions
 enduring
 excavated
 exported
+existed
 Common
 Census
 Coffee
@@ -3768,6 +3798,7 @@ Confucian
 Carolingian
 Congress
 Cathedral
+Claude
 regions
 risk
 region
@@ -3993,6 +4024,8 @@ restorers
 reused
 ruin
 ruins
+rented
+required
 Loneliness
 Lowest
 Linked
@@ -4121,6 +4154,7 @@ Dynasty
 Destroyed
 Dame
 Duc
+DVDs
 quality
 questions
 quick
@@ -4256,6 +4290,7 @@ Assyrian
 Alexandrina
 April
 Ages
+Amazon
 Mediterranean
 Middle
 More
@@ -4332,6 +4367,7 @@ Mongols
 Meant
 Mesopotamia
 Monroe
+Maps
 on
 of
 opinion
@@ -4515,6 +4551,7 @@ update
 unsuccessfully
 unusually
 urban
+universities
 Virtually
 Voiceover
 Visual
@@ -4656,6 +4693,7 @@ nominally
 neo
 nave
 nationalist
+nite
 Best
 But
 Boston
@@ -5147,6 +5185,7 @@ fled
 fundraising
 fabric
 fragments
+fiction
 know
 kinda
 kind
@@ -5371,6 +5410,7 @@ Resonance
 Roman
 Realistically
 Revival
+Rn
 Japan
 James
 Jr

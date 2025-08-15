@@ -1,4 +1,4 @@
-(Claude 4 Sonnet Generated)
+(claude 4 sonnet #ai generated)
 
 Look at the differences here:
 
