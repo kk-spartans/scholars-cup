@@ -22,4 +22,4 @@ For example, methane:
 
 For example, magnesium:
 
-2Mg +O 2​→2MgO
+2Mg + O<sub>2< → 2MgO
