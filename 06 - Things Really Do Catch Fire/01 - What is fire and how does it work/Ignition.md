@@ -1,0 +1,1 @@
+When a substance catches fire
