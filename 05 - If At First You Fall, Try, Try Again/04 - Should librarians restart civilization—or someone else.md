@@ -10,3 +10,4 @@ Math to predict the future? I guess if you have the state of every particle in t
 
 And weather forecasts use math, technically. Even AI inference is just math. And we can predict the stock market, epidemics, social media trends all from previous patterns.
 
+But if you’re goal is to **rebuild civilization**, you should probably get some of every single profession.
