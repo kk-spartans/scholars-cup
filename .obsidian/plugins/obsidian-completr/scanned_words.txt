@@ -189,6 +189,7 @@ iPods
 inference
 inch
 interference
+inspirational
 this
 theme
 titles
@@ -954,6 +955,9 @@ season
 southern
 storage
 successfully
+speech
+succeed
+speeches
 were
 with
 world
@@ -1812,6 +1816,7 @@ Sometime
 Stock
 Standard
 Shortwave
+States
 distancing
 declared
 discuss
@@ -2317,6 +2322,7 @@ price
 passenger
 pigeons
 perhaps
+passionate
 In
 Islands
 Is
@@ -2448,6 +2454,7 @@ WWII
 White
 Wanamaker
 Westinghouse
+Watch
 Health
 How
 Highest
@@ -2720,6 +2727,7 @@ lungs
 lantern
 librarians
 licensed
+listed
 Explore
 Eastern
 Europe
@@ -5161,6 +5169,8 @@ UK
 USSR
 Unfair
 USD
+University
+United
 Pacific
 Parasocial
 People
@@ -5745,6 +5755,7 @@ Jul
 Jan
 Jupiter
 July
+JFK
 Gemini
 Goes
 Grab
