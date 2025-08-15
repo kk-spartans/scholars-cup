@@ -1,1 +1,1 @@
-Founded in 1865 as a pulp mill, then did rubber and cables.
+Founded in 1865 as a pulp mill in Finland, then did rubber and cables. Merged with a power company 
