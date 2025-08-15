@@ -1,1 +1,1 @@
-The og RCA (radio/TV/consumer electronics giant)
+The og RCA (Radio Corporation of America) wes insane 
