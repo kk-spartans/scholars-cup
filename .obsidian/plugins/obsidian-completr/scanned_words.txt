@@ -948,6 +948,9 @@ shipped
 stepped
 shoot
 seeing
+searched
+season
+southern
 were
 with
 world
@@ -2934,6 +2937,8 @@ hopping
 hoping
 hobbyist
 honest
+holiday
+hemisphere
 concern
 can
 countries
@@ -4222,6 +4227,7 @@ reintroduce
 reports
 revolutionized
 radioshack
+recent
 Loneliness
 Lowest
 Linked
@@ -4357,6 +4363,7 @@ Duc
 DVDs
 Dirt
 Dark
+December
 quality
 questions
 quick
@@ -5711,6 +5718,7 @@ Jun
 Jul
 Jan
 Jupiter
+July
 Gemini
 Goes
 Grab
