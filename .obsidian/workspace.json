@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Things Really Do Catch Fire.md",
+                "file": "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
                 "mode": "source",
                 "source": false
               },
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 527.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +172,9 @@
   },
   "active": "964dd9ba3b3dda11",
   "lastOpenFiles": [
+    "06 - Things Really Do Catch Fire",
     "README.md",
-    "06 - Things Really Do Catch Fire.md",
+    "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
     "05 - If At First You Fall, Try, Try Again/07 - Is old music killing new music.md",
     "05 - If At First You Fall, Try, Try Again/05 - If At First You Fall, Try, Try Again.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/06 - Why vintage tech sometimes beats modern gear.md",
@@ -197,7 +199,6 @@
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/Radioshack.md",
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/radioshack.com.md",
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/Polaroid.md",
-    "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest/Westinghouse.md",
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest",
     "05 - If At First You Fall, Try, Try Again/04 - Should librarians restart civilization—or someone else",
     "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention",
