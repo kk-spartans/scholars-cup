@@ -2,4 +2,7 @@
 
 Two words — the [Internet Archive](archive.org). They archive ***everything***; physical and digital. They have tankers filled with physical donated books, dvds, cds, anything rare or unique. And walls of data centers filled with tape, hdds, and ssds.
 
-Anything from youtube in 2009 to an old ms dos CD from the 1990s, they have it 
+Anything from youtube in 2009 to an old ms dos CD from the 1990s, they have it if someone uploaded or donated it.
+
+Librarians mostly do the same, but not at the same level — I feel like this profession should be left to archivists.
+
