@@ -411,6 +411,7 @@ thank
 tarot
 torture
 texting
+terrifyingly
 The
 There
 That
@@ -505,6 +506,7 @@ Third
 Trying
 Tang
 TomTom
+Through
 short
 social
 so
@@ -901,6 +903,15 @@ sounded
 stores
 sus
 streaming
+screaming
+straw
+sleeping
+steel
+salt
+setting
+streetlamps
+shutters
+snow
 were
 with
 world
@@ -1034,6 +1045,11 @@ wobbles
 win
 witnessed
 wars
+wooden
+wash
+wagon
+woodsmoke
+wrangled
 made
 major
 many
@@ -1241,6 +1257,10 @@ monuments
 minimal
 mailed
 message
+mercy
+mile
+mud
+minutes
 by
 be
 but
@@ -1462,6 +1482,13 @@ burial
 basilica
 buffering
 buying
+barn
+bag
+basin
+betrayal
+bacon
+black
+boiled
 gpt
 groups
 governments
@@ -1713,6 +1740,8 @@ Sonnet
 Spotify
 Shopping
 Snake
+Schoolhouse
+Slates
 distancing
 declared
 discuss
@@ -1915,6 +1944,8 @@ decks
 dances
 delivered
 desktops
+damp
+dodging
 problem
 pressing
 post
@@ -2188,6 +2219,9 @@ played
 pocket
 powerful
 per
+potato
+pig
+pies
 In
 Islands
 Is
@@ -2377,6 +2411,7 @@ Hope
 Holy
 House
 Hussein
+Horses
 Organization
 Older
 Otherwise
@@ -2582,6 +2617,8 @@ layering
 looted
 landscaping
 lakes
+lungs
+lantern
 Explore
 Eastern
 Europe
@@ -2800,6 +2837,8 @@ heavy
 hub
 heavily
 hyped
+hearth
+howls
 concern
 can
 countries
@@ -3155,6 +3194,19 @@ capitals
 contested
 chunky
 computers
+chips
+cabin
+crossing
+colder
+cloth
+charcoal
+cornbread
+cooperated
+currently
+cow
+chop
+candlelight
+creaks
 varies
 vibe
 versions
@@ -3799,6 +3851,7 @@ Carolingian
 Congress
 Cathedral
 Claude
+Cows
 regions
 risk
 region
@@ -4026,6 +4079,10 @@ ruin
 ruins
 rented
 required
+rooster
+roll
+recently
+recitation
 Loneliness
 Lowest
 Linked
@@ -4155,6 +4212,7 @@ Destroyed
 Dame
 Duc
 DVDs
+Dirt
 quality
 questions
 quick
@@ -4368,6 +4426,7 @@ Meant
 Mesopotamia
 Monroe
 Maps
+Miles
 on
 of
 opinion
@@ -4481,6 +4540,7 @@ ongoing
 opened
 outcry
 oak
+overnight
 unemployment
 us
 unbearable
@@ -4833,6 +4893,7 @@ Near
 Notre
 Neo
 Nebuchadnezzar
+Neighbors
 Young
 Yes
 You
@@ -5186,6 +5247,12 @@ fundraising
 fabric
 fragments
 fiction
+frame
+faintly
+flint
+flush
+fights
+five
 know
 kinda
 kind
@@ -5239,6 +5306,7 @@ killed
 keep
 keyboard
 kings
+kill
 Fixing
 Fire
 First
@@ -5311,6 +5379,7 @@ Filofei
 Flash
 Fixed
 Founded
+Feed
 just
 justice
 jokes
@@ -5411,6 +5480,7 @@ Roman
 Realistically
 Revival
 Rn
+Rats
 Japan
 James
 Jr
