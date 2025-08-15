@@ -1,1 +1,1 @@
-This isn’t because of nostalgia. This is because of
+This isn’t because of nostalgia. This is because of efficiency — the GBC, GBA, even the PS Vita were easy to use and take wheree
