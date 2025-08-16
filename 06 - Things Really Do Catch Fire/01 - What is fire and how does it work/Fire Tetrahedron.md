@@ -27,7 +27,7 @@ We _did_. Halons were the hot stuff (literally) for decades—airplanes, server 
 - Stopped fire instantly by nuking the chain reaction.
 - Didn’t need to suffocate people in the room (unlike CO₂).
 
-But… then the **ozone layer problem** showed up. Bromine and chlorine radicals don’t just kill fire radicals, they also shred stratospheric ozone like tissue paper. Halons turned out to be _hundreds to thousands of times_ more destructive per molecule than CFCs. Once that was known, they got banned under the **Montreal Protocol (1987)**.
+But… then the **ozone layer problem** showed up. Bromine and chlorine radicals don’t just kill fire radicals, they also shred stratospheric ozone like tissue paper. Halons turned out to be _hundreds to thousands of times_ more destructive per molecule than even CFCs. Once that was known, they got banned under the Montreal Protocol.
 
 Now:
 
