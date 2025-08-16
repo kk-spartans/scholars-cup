@@ -5,3 +5,9 @@ Produces enough heat to [[Ignition|ignite]] the fuel by creating an arc using el
 The most common fuels are:
 
  - Petrol
+ - Kerosene
+ - Ethanol / Methanol
+ - Butane
+ - Propane
+ - Isobutane
+ - Bromochlorodifluoromethane
