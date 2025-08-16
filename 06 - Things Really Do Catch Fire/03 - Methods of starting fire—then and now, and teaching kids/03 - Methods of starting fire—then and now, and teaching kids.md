@@ -10,4 +10,6 @@ Should children be taught how to start fires? Depends on what.
 
 No one uses lenses, hand drills, etc. to start fires — no one, especially children should know how to use these.
 
-Matches and lighters? You don’t need to *learn* how to use these, it’s 
+Matches and lighters? You don’t need to *learn* how to use these, it’s extremely easy. You need to *overcome* the fear of them — at least that’s what I needed to do.
+
+What age? At the age where they can comprehend the world enough to 
