@@ -7,4 +7,9 @@ What makes these is:
  - Energy rich bonds like:
    - Hydrocarbons (C-H and C-C bonds) like gasoline and methane
    - Hydrogen (H-H bond)
- - Oxidizability — the atoms in the fuel react 
+
+ - Oxidizability — the atoms in the fuel react good with an oxidizer
+
+What makes a *good* fuel is:
+
+ - Not [[Ignition#^f2cbb9]]

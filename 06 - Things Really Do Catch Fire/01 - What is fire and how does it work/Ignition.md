@@ -6,6 +6,8 @@ Heat alone causes the reaction. Paper or wood igniting when exposed to a flame o
 
 ## Self-Ignition (Spontaneous Combustion)
 
+^f2cbb9
+
 Material ignites without an external flame or spark. Oily rags oxidizing and catching fire on their own.
 
 ## Electric Ignition
