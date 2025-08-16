@@ -2,13 +2,15 @@ A stick made of wood (or sometimes cardboard), with a head and a striking surfac
 
 It starts with friction by you striking the match, which created heat.
 
-## A match is mostly made of:
+## Materials
+
+### Mainly made of
 
  - **Red Phosphorus (chained P<sub>4</sub>)** — Friction turns a bit of it into white phosphorus (unchained P<sub>4</sub>), which is highly reactive
  - **Potassium Chloride (KClO<sub>3</sub>)** - Decomposes when heated, releasing oxygen (2KClO<sub>3</sub> → 2KCl + 3O<sub>2</sub>)
  - **Sulfur or antimony sulfide (for low temps)** - actual fuel
 
-## Other fuels
+### Other fuels
 
 - Sulfur
 - Antimony trisulfide
@@ -16,11 +18,14 @@ It starts with friction by you striking the match, which created heat.
 - Phosphorus sesquisulfide (for strike-anywhere matches)
 - Powdered Metals (especially Mg)
 
-## Other ozidizers
+### Other ozidizers
 
-## Binders
+### Binders
 
-
+- Gum Arabic
+- Dextrin
+- Animal glue
+- Synthetic polymers in modern heads
 ## Types of matches
 
  - **Safety matches** - Only ignite on a special surface
