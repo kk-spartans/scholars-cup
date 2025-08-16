@@ -977,6 +977,8 @@ sodium
 spark
 stones
 sharp
+spin
+sparks
 were
 with
 world
@@ -2367,6 +2369,7 @@ patents
 phenomena
 places
 pdf
+piece
 In
 Islands
 Is
@@ -2502,6 +2505,7 @@ White
 Wanamaker
 Westinghouse
 Watch
+Works
 Health
 How
 Highest
@@ -3421,6 +3425,8 @@ court
 copyrighted
 creative
 consistent
+chemistry
+carbon
 varies
 vibe
 versions
@@ -4365,6 +4371,7 @@ rusts
 rags
 refracting
 refraction
+rod
 Loneliness
 Lowest
 Linked
@@ -5625,6 +5632,7 @@ fb
 further
 flash
 flammable
+friction
 know
 kinda
 kind
