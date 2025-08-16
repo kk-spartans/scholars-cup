@@ -433,6 +433,9 @@ triggers
 temperature
 temps
 tetroxide
+table
+tr
+td
 The
 There
 That
@@ -973,6 +976,7 @@ substances
 sodium
 spark
 stones
+sharp
 were
 with
 world
@@ -1338,6 +1342,7 @@ methane
 metals
 magnesium
 materials
+middle
 by
 be
 but
@@ -1575,6 +1580,7 @@ began
 bluetooth
 bankrupt
 bright
+border
 gpt
 groups
 governments
@@ -1845,6 +1851,7 @@ Spontaneous
 Surface
 Supreme
 Seed
+SiO
 distancing
 declared
 discuss
@@ -2780,6 +2787,8 @@ light
 lower
 lowest
 liquid
+lenses
+lens
 Explore
 Eastern
 Europe
@@ -3411,6 +3420,7 @@ constitution
 court
 copyrighted
 creative
+consistent
 varies
 vibe
 versions
@@ -4102,6 +4112,10 @@ Court
 CARES
 Co
 Copyright
+Convex
+Composition
+Crown
+CaO
 regions
 risk
 region
@@ -4349,6 +4363,8 @@ related
 reacting
 rusts
 rags
+refracting
+refraction
 Loneliness
 Lowest
 Linked
@@ -4411,6 +4427,8 @@ Living
 Later
 Lenovo
 Le
+Lenses
+Lanthanum
 Data
 Digital
 Discalimer
@@ -4716,6 +4734,7 @@ MgO
 Metal
 Metals
 Material
+Main
 on
 of
 opinion
@@ -4839,6 +4858,8 @@ oxidizing
 oxidizer
 oxidation
 operation
+optical
+oxides
 unemployment
 us
 unbearable
@@ -5392,6 +5413,7 @@ Phosphorus
 Paper
 Pyrophoric
 Patents
+PbO
 forming
 fictional
 feels
@@ -5602,6 +5624,7 @@ flaws
 fb
 further
 flash
+flammable
 know
 kinda
 kind
@@ -5734,6 +5757,7 @@ Filmic
 Fuel
 Fuels
 Funk
+Flint
 just
 justice
 jokes
@@ -5942,6 +5966,7 @@ General
 GBC
 GBA
 God
+Glass
 Killing
 Know
 Keep
