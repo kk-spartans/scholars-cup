@@ -9,6 +9,8 @@ A good example is rain,
 
 ---
 
-*completly unrelated*
+*completely unrelated*
 
-You might be wondering, why is the air at higher altitudes lower pressure anyway 
+You might be wondering, why is the air at higher altitudes lower pressure anyway?
+
+It’s because of gravity, more air is bunched towards the bottom because of it’s mass and when it can’t anymore, it slowly moves up — with lower pressure there.
