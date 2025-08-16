@@ -1,0 +1,1 @@
+Made of 2 things — gasoline (or a different hydrocarbon), and a thickening agent ()
