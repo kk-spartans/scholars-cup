@@ -6,10 +6,11 @@ Well that’s *exactly* how [halons](https://en.wikipedia.org/w/index.php?title=
 
 Normally, a fire would look something like this: 
 
-> H• + O₂ → OH• + O• → more reactions → fire continues
+> H• + O<sub>2</sub> → OH• + O• → more reactions → fire continues
 
 (• means the substance is a radical, it has an unpaired electron. Radicals are **insanely** reactive because that lonely electron _really_ wants a buddy, so it’ll grab the first thing it can—often violently.)
 
 But with a halon present:
 
-> 
+> H• + Br<sub>2</sub> → HBr + Br•  
+> OH• + HBr → H<sub>2</sub>O + Br•
