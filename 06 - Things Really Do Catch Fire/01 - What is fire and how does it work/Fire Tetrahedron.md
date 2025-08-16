@@ -4,4 +4,6 @@ You might ask: “How do you remove the chemical chain reaction in a fire withou
 
 Well that’s *exactly* how [halons](https://en.wikipedia.org/w/index.php?title=Halon&oldid=1270044172) work.
 
-Normal
+Normally, a fire would look something like this: 
+
+> H• + O₂ → OH• + O• → more reactions → fire continues
