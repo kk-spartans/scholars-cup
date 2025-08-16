@@ -8,4 +8,6 @@ where file.name != "03 - Methods of starting fire—then and now, and teaching k
 
 Should children be taught how to start fires? Depends on what.
 
-No one ues
+No one uses lenses, hand drills, etc. to start fires — no one, especially children should know how to use these.
+
+Matches and lighters? You don’t need to *learn* how to use these, it’s 
