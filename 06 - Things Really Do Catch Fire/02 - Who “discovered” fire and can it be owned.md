@@ -2,7 +2,7 @@
 
 Maybe I’m just going insane — but if you ignore the fact that we couldn’t have developed enough to even come up with the idea of patents and copyrights, it’s still not going to get accepted.
 
-## 
+## Patents
 
 But that doesn’t mean it’s against law, I read through
 
@@ -15,5 +15,7 @@ And **nowhere** does it say you can’t patent natural phenomena. I could patent
 ## Oh God, But The ***US Supreme Court* DEFINITELY CARES**.
 
 
+
+## Copyright
 
 And you can’t copyright fire, it’s a fact, and idea, a process, a system, and a method of operation at the same time — everything that can’t be copyrighted. Copyright is for creative work, not scientific discovery
