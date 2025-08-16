@@ -35,7 +35,7 @@ It starts with friction by you striking the match, which created heat.
 - Synthetic polymers in modern heads
 ## Types of matches
 
- - **Safety matches** - Only ignite on a special surface
+ - **Safety matches** - Only ignite on a special surface ^2586b8
  - **Strike-anywhere matches** - Ignites on any rough surface because the head contains reactive phosphorus
  - **Waterproof matches** - Coated to resist water, use stronger chemicals to keep burning even in soaked places
  - **Lifeboat matches** - Designed to burn underwater, coated with magnesium to keep the flame going
