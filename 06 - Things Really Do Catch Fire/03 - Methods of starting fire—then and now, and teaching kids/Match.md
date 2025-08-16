@@ -2,5 +2,6 @@ A stick made of wood (or sometimes cardboard), with a head and a striking surfac
 
 ## Types of matches
 
- - **Safety matches** - only ignite on a special sruface
- - 
+ - **Safety matches** - Only ignite on a special surface
+ - **Strike-anywhere matches** - Ignites on any rough surface because the head contains reactive phosphorus
+ - Waterproof matches
