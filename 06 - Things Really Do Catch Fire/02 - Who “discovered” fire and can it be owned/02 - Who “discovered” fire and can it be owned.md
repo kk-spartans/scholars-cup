@@ -30,3 +30,4 @@ And you can’t copyright fire, it’s a fact, and idea, a process, a system, an
 
 ## Ancient World
 
+Then, examine fire’s role in human evolution and culture. How did controlling fire change diet, social structures, and migration patterns? Consider technological developments: from simple sparks to flint tools, to controlled hearths, to modern combustion engines. Compare these innovations—how do incremental improvements differ legally and philosophically from “discovering” fire itself? Debate: if a modern scientist created a new type of flame with unique properties, would that be patentable, or is it still considered a natural phenomenon? (Reference relevant patent law.) Finally, reflect on symbolism: fire as a metaphor for knowledge, destruction, and creativity—does that “ownership” ever translate into law or society?
