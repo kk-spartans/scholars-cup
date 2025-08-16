@@ -4,4 +4,8 @@ Maybe I’m just going insane — but if you ignore the fact that we couldn’t 
 
 But that doesn’t mean it’s against law, I read through
 
- - 
+ - [this](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap10-sec101.htm)
+ - [this](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap10-sec102.htm)
+ - and [this](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap10-sec103.htm)
+
+And **nowhere** does it say you can’t patent natural occurences
