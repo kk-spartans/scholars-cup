@@ -12,4 +12,4 @@ No one uses lenses, hand drills, etc. to start fires — so no one, especially c
 
 Matches and lighters? You don’t need to *learn* how to use these, it’s extremely easy. You need to *overcome* the fear of them — at least that’s what I needed to do.
 
-What age? At the age where they can comprehend the world enough to know how to *intentionally* press a button on a lighter and not shove their face in the flame.
+What age? At the age where they can comprehend the world enough to know how to *intentionally* press a button on a lighter and not shove their face in the flame. Usually 7-9 (maybe younger).
