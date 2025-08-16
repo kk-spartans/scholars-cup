@@ -2,10 +2,11 @@ Really hard to understand; it’s the lowest temperature at which a liquid gives
 
 Fire point is basically flash point but it keeps burning even when you take the ignition source away (usually 10C - 40C depending on the liquid).
 
-[[Ignition#^90312d|Autoigniton]] 
+[[Ignition#^90312d|Autoignition]] temperature is the temperature at which a liquid will light itself, no help needed.
 
 Basically, 
 
  - **Below flash point** - won’t burn at all
  - **At flash point** - will ignite, might not continue to
  - **At fire point** - will stay on fire until one of the elements of the [[fire triangle]] is taken out
+ - **Autoignition temperature** - 
