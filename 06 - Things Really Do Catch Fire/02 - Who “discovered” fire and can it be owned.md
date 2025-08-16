@@ -20,7 +20,7 @@ In lot’s of places, the Supreme Court claimed you can’t patent natural pheno
 
  - “[For patents cannot issue for the discovery of the phenomena of nature](https://www.law.cornell.edu/supremecourt/text/333/127#p4)”
  - “[A principle, in the abstract, is a fundamental truth; an original cause; a motive; these cannot be patented,](https://tile.loc.gov/storage-services/service/ll/usrep/usrep055/usrep055156/usrep055156.pdf#page=**20**)” <!--Did you know you could do that to pdf urls?-->
- - 
+ - [“While a scientific truth, or the mathematical expression of it, is not a patentable invention”]()
 
 
 ## Copyright
