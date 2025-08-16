@@ -11,4 +11,3 @@ Greek fire is speculated to be made of:
 - sulfur
 - niter
 
-- 
