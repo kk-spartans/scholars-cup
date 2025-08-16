@@ -1,0 +1,1 @@
+Convex (thicker in the middle) lenses focus light towards a point, light is 
