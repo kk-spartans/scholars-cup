@@ -1,0 +1,1 @@
+A Minecraft item used to set things on fire.
