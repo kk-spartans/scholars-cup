@@ -4,4 +4,5 @@ A stick made of wood (or sometimes cardboard), with a head and a striking surfac
 
  - **Safety matches** - Only ignite on a special surface
  - **Strike-anywhere matches** - Ignites on any rough surface because the head contains reactive phosphorus
- - Waterproof matches
+ - **Waterproof matches** - Coated to resist water, use stronger chemicals to keep burning even in soaked places
+ - **Lifeboat matches** - Designed to burn underwater, coated with magnesium
