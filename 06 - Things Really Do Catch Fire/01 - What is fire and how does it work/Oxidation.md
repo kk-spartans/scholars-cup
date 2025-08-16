@@ -3,3 +3,5 @@ When a substance loses electrons. Most of the time, it’s related with reacting
 Not always related to burning, for example:
 
 > 4Fe + 3O<sub>2</sub>​ + 6H<sub>2</sub>​O → 4Fe(OH)<sub>3</sub>​
+
+Anything [[01 - What is fire and how does it work|here]] is also an example of oxidation.
