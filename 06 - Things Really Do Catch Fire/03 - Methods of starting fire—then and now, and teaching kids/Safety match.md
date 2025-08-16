@@ -1,1 +1,1 @@
-Refer to [[Match#^2586b8]] and other places there.
+Go [[Match#^2586b8|here]] and other places there.
