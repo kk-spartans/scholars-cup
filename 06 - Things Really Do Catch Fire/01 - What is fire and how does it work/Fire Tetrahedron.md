@@ -1,0 +1,1 @@
+Basically the [[Fire Triangle]] but with “chemical chain”
