@@ -972,6 +972,7 @@ substance
 substances
 sodium
 spark
+stones
 were
 with
 world
@@ -2420,6 +2421,7 @@ II
 Ishtar
 Ignition
 Inoculant
+Investigate
 World
 Worldwide
 WHO
@@ -3768,6 +3770,7 @@ authenticity
 awful
 activation
 accepted
+ants
 epidemic
 etc
 emotional
@@ -3978,6 +3981,7 @@ extinction
 electron
 exposed
 external
+episodes
 Common
 Census
 Coffee
@@ -4627,6 +4631,7 @@ Ayaneo
 Ally
 Artistic
 Autoignition
+Apprentice
 Mediterranean
 Middle
 More
@@ -5061,6 +5066,7 @@ newer
 nitrogen
 nearby
 needed
+naturally
 Best
 But
 Boston
