@@ -20,7 +20,12 @@ It starts with friction by you striking the match, which created heat.
 
 ### Other Oxidizers
 
-
+- Potassium perchlorate
+- Sodium chlorate
+- Potassium nitrate
+- Sodium nitrate
+- Barium nitrate (colored)
+- Ammonium nitrate (explosives)
 
 ### Binders
 
