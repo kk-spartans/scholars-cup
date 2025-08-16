@@ -7,3 +7,5 @@ Well that’s *exactly* how [halons](https://en.wikipedia.org/w/index.php?title=
 Normally, a fire would look something like this: 
 
 > H• + O₂ → OH• + O• → more reactions → fire continues
+
+(• means the substance is a )
