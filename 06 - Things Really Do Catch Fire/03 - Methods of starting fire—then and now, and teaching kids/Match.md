@@ -1,6 +1,10 @@
 A stick made of wood (or sometimes cardboard), with a head and a striking surface as a peripheral in safety matches.
 
-It starts with friction by you striking the match, which crea
+It starts with friction by you striking the match, which created heat.
+
+A match is mostly made of:
+
+ - Red Phosphorus (turns white)
 
 ## Types of matches
 
