@@ -1,1 +1,1 @@
-A small cube-looking thing that mechanical or electric to make a flame. 
+A small cube-looking thing that mechanical or electric to make a flame 
