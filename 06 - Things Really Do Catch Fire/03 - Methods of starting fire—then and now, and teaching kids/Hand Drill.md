@@ -1,1 +1,1 @@
-Works with friction
+Works with friction, you hold a piece of dry wood that’s shaped like a rod against another piece of dry wood and spin it hard enough to create enough 
