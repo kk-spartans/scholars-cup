@@ -14,6 +14,8 @@ And **nowhere** does it say you can’t patent natural phenomena. I could patent
 
 ## Oh God, But The ***US Supreme Court* DEFINITELY CARES**.
 
+(find the court opinion of this from *somewhere* [here](https://www.supremecourt.gov/opinions/slipopinion/24), I don’t have that much free time)
+
 
 
 ## Copyright
