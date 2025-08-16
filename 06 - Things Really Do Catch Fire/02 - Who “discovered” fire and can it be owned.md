@@ -8,4 +8,4 @@ But that doesn’t mean it’s against law, I read through
  - [this](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap10-sec102.htm)
  - and [this](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap10-sec103.htm)
 
-And **nowhere** does it say you can’t patent natural occurences
+And **nowhere** does it say you can’t patent natural phenomena. I could patent gravity if I wanted to according to the US constitution, and I can patent fire because
