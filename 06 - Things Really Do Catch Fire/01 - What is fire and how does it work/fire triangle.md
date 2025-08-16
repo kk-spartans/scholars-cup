@@ -1,1 +1,1 @@
-The three elements required to start a flame and keep it a flame - heat, fuel, and an oxi
+The three elements required to start a flame and keep it a flame - heat, fuel, and an oxidizer (something that yoinks electrons from something else)
