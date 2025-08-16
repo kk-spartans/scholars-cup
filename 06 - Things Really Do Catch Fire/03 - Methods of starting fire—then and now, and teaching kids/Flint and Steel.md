@@ -1,3 +1,3 @@
 A [Minecraft item](https://minecraft.fandom.com/wiki/Flint_and_Steel) used to set things on fire.
 
-In real life, 
+In real life, you just hold a piece of flint on one hand, and high-carbon steel on the other. Then, you strike the 
