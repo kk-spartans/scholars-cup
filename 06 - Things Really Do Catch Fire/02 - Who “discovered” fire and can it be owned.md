@@ -16,7 +16,9 @@ And **nowhere** does it say you can’t patent natural phenomena. I could patent
 
 (find the court opinion of this from *somewhere* [here](https://www.supremecourt.gov/opinions/slipopinion/24), I don’t have that much free time)
 
+In lot’s of places, the Supreme Court claimed you can’t patent natural phenomena.
 
+ - 
 
 ## Copyright
 
