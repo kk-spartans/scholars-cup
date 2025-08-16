@@ -2,3 +2,4 @@
 
 Maybe I’m just going insane — but if you ignore the fact that we couldn’t have developed enough to even come up with the idea of patents and copyrights, it’s still not going to get accepted.
 
+But that doesn’t mean it’s against law, I read through
