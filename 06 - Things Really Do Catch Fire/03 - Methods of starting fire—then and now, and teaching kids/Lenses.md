@@ -3,3 +3,5 @@ Convex (thicker in the middle) lenses focus light towards a point, light is ener
 Point these lenses towards something flammable (dry wood), and it’ll catch fire eventually with a sharp enough lens and a bright enough sun.
 
 Lenses work by refracting light using optical glass (made for consistent refraction).
+
+Optical glass is made of ~70-75% SiO<sub>2</sub>, 
