@@ -8,8 +8,8 @@ where file.name != "03 - Methods of starting fire—then and now, and teaching k
 
 Should children be taught how to start fires? Depends on what.
 
-No one uses lenses, hand drills, etc. to start fires — no one, especially children should know how to use these.
+No one uses lenses, hand drills, etc. to start fires — so no one, especially children, should know how to use these.
 
 Matches and lighters? You don’t need to *learn* how to use these, it’s extremely easy. You need to *overcome* the fear of them — at least that’s what I needed to do.
 
-What age? At the age where they can comprehend the world enough to 
+What age? At the age where they can comprehend the world enough to know how to *intentionally* press a button on a lighter and not shove their face in the flame.
