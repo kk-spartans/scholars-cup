@@ -4,7 +4,7 @@ Fire point is basically flash point but it keeps burning even when you take the 
 
 [[Ignition#^90312d|Autoignition]] temperature is the temperature at which a liquid will light itself, no help needed.
 
-Basically, 
+Basically,
 
  - **Below flash point** - won’t burn at all
  - **At flash point** - will ignite, might not continue to
