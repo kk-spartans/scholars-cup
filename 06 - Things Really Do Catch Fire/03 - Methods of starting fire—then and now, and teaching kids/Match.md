@@ -1,1 +1,1 @@
-A stick made of wo
+A stick made of wood (or sometimes cardboard), with a head and a striking surface as 
