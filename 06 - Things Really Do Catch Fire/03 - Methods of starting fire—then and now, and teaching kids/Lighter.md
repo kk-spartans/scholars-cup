@@ -10,4 +10,4 @@ The most common fuels are:
  - Butane
  - Propane
  - Isobutane
- - <strike>[Bromochlorodifluoromethane](https://en.wikipedia.org/wiki/Bromochlorodifluoromethane)</strike
+ - <strike><a href=”https://en.wikipedia.org/wiki/Bromochlorodifluoromethane”>Bromochlorodifluoromethane</a></strike>
