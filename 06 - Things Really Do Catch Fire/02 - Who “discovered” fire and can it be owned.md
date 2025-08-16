@@ -19,7 +19,7 @@ And **nowhere** does it say you can’t patent natural phenomena. I could patent
 In lot’s of places, the Supreme Court claimed you can’t patent natural phenomena.
 
  - “[For patents cannot issue for the discovery of the phenomena of nature](https://www.law.cornell.edu/supremecourt/text/333/127#p4)” - Funk Bros. Seed Co. v. Kalo Inoculant Co., 333 U.S. 127 (1948)
- - 
+ - “A principle, in the abstract, is a fundamental truth; an original cause; a motive; these cannot be patented,”
 
 ## Copyright
 
