@@ -5,4 +5,5 @@ What all fuels have in common is that they have chemical bonds that release more
 What makes these is:
 
  - Energy rich bonds like:
-   - Hydroca
+   - Hydrocarbons (C-H and C-C bonds) like gasoline and methane
+   - Hydrogen (H-H bond)
