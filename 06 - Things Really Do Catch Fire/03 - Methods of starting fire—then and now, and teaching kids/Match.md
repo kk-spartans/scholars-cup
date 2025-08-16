@@ -10,6 +10,16 @@ It starts with friction by you striking the match, which created heat.
 
 ## Other fuels
 
+- Sulfur
+- Antimony trisulfide
+- Charcoal
+- Phosphorus sesquisulfide (for strike-anywhere matches)
+- Powdered Metals (especially Mg)
+
+## Other ozidizers
+
+## Binders
+
 
 ## Types of matches
 
