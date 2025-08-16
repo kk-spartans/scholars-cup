@@ -12,3 +12,9 @@ Greek fire is speculated to be made of:
 - niter
 
 Super nasty incendiary that could burn on water, shot from siphons on ships.
+
+```dataview
+list
+from "06 - Things Really Do Catch Fire/04 - Greek fire and its modern equivalents"
+where file.name != "04 - Greek fire and its modern equivalents"
+```
