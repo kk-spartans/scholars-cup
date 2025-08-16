@@ -11,3 +11,4 @@ Greek fire is speculated to be made of:
 - sulfur
 - niter
 
+Super nasty incendiary that could burn on water, shot from siphons on ships.
