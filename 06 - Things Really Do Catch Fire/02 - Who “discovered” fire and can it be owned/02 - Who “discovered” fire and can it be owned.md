@@ -23,7 +23,6 @@ In lot’s of places, the Supreme Court claimed you can’t patent natural pheno
  - “[The laws of nature, physical phenomena, and abstract ideas have been held not patentable](https://tile.loc.gov/storage-services/service/ll/usrep/usrep447/usrep447303/usrep447303.pdf#page=7)”
  - and more, which I don’t wanna find
 
-
 ## Copyright
 
 And you can’t copyright fire, it’s a fact, and idea, a process, a system, and a method of operation at the same time — everything that can’t be copyrighted. Copyright is for creative work, not scientific discovery.
