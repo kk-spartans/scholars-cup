@@ -10,4 +10,4 @@ But that doesn’t mean it’s against law, I read through
 
 And **nowhere** does it say you can’t patent natural phenomena. I could patent gravity if I wanted to according to the US constitution, and I can patent fire because it contains matter or something...?
 
-That doen’t mean 
+that doesn’t mean the supreme court doesn’t care 
