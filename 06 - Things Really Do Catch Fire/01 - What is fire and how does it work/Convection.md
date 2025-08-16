@@ -5,4 +5,10 @@ A good example is rain,
  - Sun heats ground, ground heats the air
  - That air’s pressure lowers, it get’s lighter, and floats up because of buoyancy
  - When it rises, it cools because higher altitudes = lower pressure
- - Cool air can’t be as 
+ - Cool air can’t be as humid, so the water is let down as rain
+
+---
+
+*completly unrelated*
+
+You might be wondering, why is the air at higher altitudes lower pressure anyway 
