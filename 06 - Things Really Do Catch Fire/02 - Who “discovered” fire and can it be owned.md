@@ -2,6 +2,8 @@
 
 Maybe I’m just going insane — but if you ignore the fact that we couldn’t have developed enough to even come up with the idea of patents and copyrights, it’s still not going to get accepted.
 
+## 
+
 But that doesn’t mean it’s against law, I read through
 
  - [this](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap10-sec101.htm)
@@ -10,7 +12,7 @@ But that doesn’t mean it’s against law, I read through
 
 And **nowhere** does it say you can’t patent natural phenomena. I could patent gravity if I wanted to according to the US constitution, and I can patent fire because it contains matter or something...?
 
-Oh god, but the ***US supreme court* DEFINITELY CARES**.
+## Oh God, But The ***US Supreme Court* DEFINITELY CARES**.
 
 
 
