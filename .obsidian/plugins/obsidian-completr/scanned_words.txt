@@ -533,6 +533,7 @@ Transportation
 Though
 TVs
 Thermal
+Tatham
 short
 social
 so
@@ -1112,6 +1113,7 @@ wrangled
 walking
 wages
 wanted
+whom
 made
 major
 many
@@ -1689,6 +1691,7 @@ grid
 gov
 grain
 growth
+gravity
 Sometimes
 SE
 Sparse
@@ -1839,6 +1842,8 @@ Sulfur
 Self
 Spontaneous
 Surface
+Supreme
+Seed
 distancing
 declared
 discuss
@@ -2055,6 +2060,7 @@ delisted
 discs
 dust
 defend
+discovery
 problem
 pressing
 post
@@ -2348,6 +2354,10 @@ passionate
 pyrotechnics
 phosphorus
 pairs
+patent
+patents
+phenomena
+places
 In
 Islands
 Is
@@ -2408,6 +2418,7 @@ Imperial
 II
 Ishtar
 Ignition
+Inoculant
 World
 Worldwide
 WHO
@@ -3392,6 +3403,11 @@ catching
 catalysts
 catalytic
 contact
+copyrights
+constitution
+court
+copyrighted
+creative
 varies
 vibe
 versions
@@ -3750,6 +3766,7 @@ albums
 authenticity
 awful
 activation
+accepted
 epidemic
 etc
 emotional
@@ -4076,6 +4093,10 @@ CH
 Carbon
 Combustion
 Catalytic
+Court
+CARES
+Co
+Copyright
 regions
 risk
 region
@@ -4384,6 +4405,7 @@ Librarians
 Living
 Later
 Lenovo
+Le
 Data
 Digital
 Discalimer
@@ -4460,6 +4482,7 @@ Dirt
 Dark
 December
 De
+DEFINITELY
 quality
 questions
 quick
@@ -4809,6 +4832,7 @@ outdated
 oxidizing
 oxidizer
 oxidation
+operation
 unemployment
 us
 unbearable
@@ -5126,6 +5150,7 @@ Bankside
 Bandcamp
 Blue
 Below
+Bros
 Northern
 North
 No
@@ -5184,6 +5209,7 @@ Nintendo
 NaH
 NaOH
 Na
+Next
 Young
 Yes
 You
@@ -5357,6 +5383,7 @@ Pagers
 Phosphorus
 Paper
 Pyrophoric
+Patents
 forming
 fictional
 feels
@@ -5698,6 +5725,7 @@ Foundation
 Filmic
 Fuel
 Fuels
+Funk
 just
 justice
 jokes
@@ -5802,6 +5830,7 @@ Rn
 Rats
 Revived
 ROG
+Roy
 Japan
 James
 Jr
@@ -5904,6 +5933,7 @@ George
 General
 GBC
 GBA
+God
 Killing
 Know
 Keep
@@ -5935,6 +5965,7 @@ Ki
 KTu
 Kaku
 Kitaro
+Kalo
 zeal
 zoom
 zU
