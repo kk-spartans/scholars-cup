@@ -3,4 +3,6 @@ When heat gets moved around by the objects holding heat moving, instead of creep
 A good example is rain,
 
  - Sun heats ground, ground heats the air
- - That air expands
+ - That air’s pressure lowers, it get’s lighter, and floats up because of buoyancy
+ - When it rises, it cools because higher altitudes = lower pressure
+ - Cool air can’t be as 
