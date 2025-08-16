@@ -4,7 +4,7 @@ It starts with friction by you striking the match, which created heat.
 
 A match is mostly made of:
 
- - Red Phosphorus (turns white)
+ - Red Phosphorus (chained P<sub>4</sub>) — 
 
 ## Types of matches
 
