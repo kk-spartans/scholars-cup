@@ -8,4 +8,8 @@ Normally, a fire would look something like this:
 
 > H• + O₂ → OH• + O• → more reactions → fire continues
 
-(• means the substance is a )
+(• means the substance is a radical, it has an unpaired electron. Radicals are **insanely** reactive because that lonely electron _really_ wants a buddy, so it’ll grab the first thing it can—often violently.)
+
+But with a halon present:
+
+> 
