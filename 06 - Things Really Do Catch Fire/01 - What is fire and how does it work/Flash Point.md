@@ -6,4 +6,4 @@ Basically,
 
  - **Below flash point** - won’t burn at all
  - **At flash point** - will ignite, might not continue to
- - **At fire point** - will stay on fire until one of the
+ - **At fire point** - will stay on fire until one of the elements of the [[fire triangle]] is taken out
