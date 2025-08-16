@@ -1,1 +1,1 @@
-A piece of carbon based steel that makes a few thousand degree sparks when struck by the sharp e
+A piece of carbon based steel that makes a few thousand degree sparks when struck by the sharp edge of 
