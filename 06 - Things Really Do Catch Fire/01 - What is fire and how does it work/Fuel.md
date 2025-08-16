@@ -13,4 +13,4 @@ What makes these is:
 What makes a *good* fuel is:
 
  - Not [[Ignition#^f2cbb9|Spontaneously combusting]]
- - 
+ - Being dense like gasoline, not a gas like hydrogen

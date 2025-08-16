@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "631a4142d4f670ff",
+            "id": "25637e50b47b35c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
+                "file": "06 - Things Really Do Catch Fire/02 - Who “discovered” fire and can it be owned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - What is fire and how does it work"
-            }
-          },
-          {
-            "id": "9303d4d2124c7c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Fuel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fuel"
+              "title": "02 - Who “discovered” fire and can it be owned"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,14 +184,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9303d4d2124c7c92",
+  "active": "25637e50b47b35c4",
   "lastOpenFiles": [
+    "06 - Things Really Do Catch Fire/02 - Who “discovered” fire and can it be owned.md",
+    "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Fuel.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Flame.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Fire Tetrahedron.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Fire Triangle.md",
-    "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Flash Point.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Convection.md",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/Ignition.md",
@@ -227,7 +214,6 @@
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Disposable Cameras.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Vinyl.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear/Handheld Gaming Devices.md",
-    "02 - The Best is Yet to Be, or Not To Be/06 - Podcasts, parasocial bonds, and pandemic friendships/06 - Podcasts, parasocial bonds, and pandemic friendships.md",
     "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes beats modern gear",
     "05 - If At First You Fall, Try, Try Again/05 - Reviving dead brands—clever or dishonest",
     "05 - If At First You Fall, Try, Try Again/04 - Should librarians restart civilization—or someone else",
