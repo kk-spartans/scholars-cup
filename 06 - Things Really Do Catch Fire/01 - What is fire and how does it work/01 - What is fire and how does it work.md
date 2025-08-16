@@ -46,4 +46,4 @@ Blue flame, smells awful.
 
 For example, sodium hydride:
 
-> ​
+> ​2NaH + O<sub>2</sub>​ → Na<sub>2</sub>​O + H<sub>2</sub>​O
