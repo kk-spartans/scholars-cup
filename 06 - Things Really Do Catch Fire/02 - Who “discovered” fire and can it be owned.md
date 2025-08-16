@@ -13,4 +13,5 @@ And **nowhere** does it say you can’t patent natural phenomena. I could patent
 Oh god, but the ***US supreme court* DEFINITELY CARES**.
 
 
-And you can’t copyright fire, it’s a fact, and idea, a process, a system, and a method of operation at the same time — everything that can’t be
+
+And you can’t copyright fire, it’s a fact, and idea, a process, a system, and a method of operation at the same time — everything that can’t be copyrighted. Copyright is for creative work, not scientific discovery
