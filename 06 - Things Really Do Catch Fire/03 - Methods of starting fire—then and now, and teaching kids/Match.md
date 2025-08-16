@@ -5,7 +5,8 @@ It starts with friction by you striking the match, which created heat.
 A match is mostly made of:
 
  - **Red Phosphorus (chained P<sub>4</sub>)** — Friction turns a bit of it into white phosphorus (unchained P<sub>4</sub>), which is highly reactive
- - **Posassium Chloride (KClO<sub>3</sub>)** - Decomposes when heated, releasing oxygen (2KClO<sub>₃</sub> → 2KCl + 3O₂)
+ - **Potassium Chloride (KClO<sub>3</sub>)** - Decomposes when heated, releasing oxygen (2KClO<sub>3</sub> → 2KCl + 3O<sub>2</sub>)
+ - 
 
 ## Types of matches
 
