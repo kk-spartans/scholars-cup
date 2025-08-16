@@ -18,7 +18,9 @@ It starts with friction by you striking the match, which created heat.
 - Phosphorus sesquisulfide (for strike-anywhere matches)
 - Powdered Metals (especially Mg)
 
-### Other ozidizers
+### Other Oxidizers
+
+
 
 ### Binders
 
