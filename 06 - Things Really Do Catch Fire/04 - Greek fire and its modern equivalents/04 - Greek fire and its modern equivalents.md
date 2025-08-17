@@ -19,4 +19,4 @@ from "06 - Things Really Do Catch Fire/04 - Greek fire and its modern equivalent
 where file.name != "04 - Greek fire and its modern equivalents"
 ```
 
-Napalm is the closest modern day equivalent to Greek Fire, maybe even worse. And ther
+Napalm is the closest modern day equivalent to Greek Fire, maybe even worse. And thermite is insanity.
