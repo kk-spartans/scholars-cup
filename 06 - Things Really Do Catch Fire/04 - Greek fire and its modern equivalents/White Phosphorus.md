@@ -1,0 +1,1 @@
+Also called tetraphosphorus (P<sub>4</sub>) 
