@@ -5,3 +5,5 @@ table author, created, link
 from "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique"
 where file.name != "07 - Fireworks in music-celebration or critique"
 ```
+
+Most of the songs (i think) are celebrating fireworks
