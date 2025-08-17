@@ -17,4 +17,4 @@ Usually have an oxidizer (potassium nitrate), fuel (sulfur / charcoal), starches
 
 ## Should they be banned?
 
-Yes — [ABSOLUTELY](https://en.wikipedia.org/wiki/List_of_fireworks_accidents_and_incidents_in_Sivakasi). You can just have insanely large displays like 
+Yes — [ABSOLUTELY](https://en.wikipedia.org/wiki/List_of_fireworks_accidents_and_incidents_in_Sivakasi). You can just have insanely large displays like [The Las Vegas Sphere](https://maps.app.goo.gl/o4xzVa5fmC8rs48w6) 
