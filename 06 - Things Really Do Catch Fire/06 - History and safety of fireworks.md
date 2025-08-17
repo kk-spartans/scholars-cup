@@ -10,7 +10,7 @@ By the 10-12th century, fireworks became more sophisticated in China with colore
 
 Europeans got them around the 13-14th centuries by trading with the Mongol conquests. Initially used in royal ceremonies and military displays.
 
-The color
+The colorful, choreographed shows we see today took off in 17-18th century Europe, mostly in Italy. It spread to the world in about the 19th century.
 ## Made of
 
 The early ones 
