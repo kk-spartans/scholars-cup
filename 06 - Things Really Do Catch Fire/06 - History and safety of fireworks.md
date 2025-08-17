@@ -13,4 +13,4 @@ Europeans got them around the 13-14th centuries by trading with the Mongol conqu
 The colorful, choreographed shows we see today took off in 17-18th century Europe, mostly in Italy. It spread to the world in about the 19th century.
 ## Made of
 
-Usually have an oxidizer (potassium nitrate), fuel (sulfur)
+Usually have an oxidizer (potassium nitrate), fuel (sulfur / charcoal), starches / dextrin, and a coloring agent.
