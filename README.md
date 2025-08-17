@@ -19,3 +19,7 @@ To be clear, when something is ai generated - it's **explicitly** mentioned (oth
  - Hope my teammates will do a better job than me at that topic because I *give up* (especially in Social Studies and Art and Literature).
 
 Anything above the “(gpt4o/5/whatever model generated)” — **I wrote**. And if there’s a hr below it, the AI part ends.
+
+Questions left —
+Questions with art to examine left —
+Questions without art to examine left —
