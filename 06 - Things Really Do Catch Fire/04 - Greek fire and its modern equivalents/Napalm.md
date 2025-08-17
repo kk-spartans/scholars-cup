@@ -5,4 +5,3 @@ Sticks to skin and surfaces, burns extremely hot, causes extreme respiratory dam
 Made of gasoline, kerosene, diesel, hexane, heptane, octane — anything that will dissolve in the thickener and burn.
 
 And a thickening agent, like aluminum naphthenate, palmitate, polystyrene, polyvinyl chloride, styrene butadiene — anything that’ll dissolve fuels and forms a gel.
-
