@@ -8,4 +8,4 @@ A mixture of iron(3) oxide (rust) and aluminum powder. Just a metal that burns a
 
 Reaction looks like:
 
-> Fe<sub>2​</sub>O<sub>3</sub>​ + 2Al → 2Fe + Al2​O3​
+> Fe<sub>2​</sub>O<sub>3</sub>​ + 2Al → 2Fe + Al<sub>2​</sub>​O<sub>3​</sub>​
