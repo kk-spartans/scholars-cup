@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "7ae5228ab97d536a",
+            "id": "4235a398582f5df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Things Really Do Catch Fire/08 - Tending fire in mythology and daily life.md",
+                "file": "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - Tending fire in mythology and daily life"
+              "title": "07 - Fireworks in music-celebration or critique"
+            }
+          },
+          {
+            "id": "2809192856944d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - The Future Wasn’t Meant to Be/02 - 90s pop culture’s hype for the new millennium—justified or not/02 - 90s pop culture’s hype for the new millennium—justified or not.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - 90s pop culture’s hype for the new millennium—justified or not"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generate",
+                "query": "table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,12 +198,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ae5228ab97d536a",
+  "active": "2809192856944d10",
   "lastOpenFiles": [
-    "06 - Things Really Do Catch Fire/08 - Tending fire in mythology and daily life.md",
-    "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
-    "README.md",
     "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique.md",
+    "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
+    "06 - Things Really Do Catch Fire/08 - Tending fire in mythology and daily life.md",
+    "README.md",
     "06 - Things Really Do Catch Fire/06 - History and safety of fireworks/06 - History and safety of fireworks.md",
     "06 - Things Really Do Catch Fire/06 - History and safety of fireworks/List of colors made by substances in fireworks.md",
     "06 - Things Really Do Catch Fire/06 - History and safety of fireworks",
