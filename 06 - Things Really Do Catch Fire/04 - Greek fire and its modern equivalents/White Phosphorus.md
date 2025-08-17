@@ -2,3 +2,6 @@ Also called tetraphosphorus (P<sub>4</sub>), burns on contact with air.
 
 (wikepedia)
 
+samples are commonly coated with white "diphosphorus pentoxide", which consists of P<sub>4</sub>O<sub>10</sub> tetrahedra with oxygen inserted between the phosphorus atoms and at their vertices.
+
+-
