@@ -251,7 +251,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table author",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
