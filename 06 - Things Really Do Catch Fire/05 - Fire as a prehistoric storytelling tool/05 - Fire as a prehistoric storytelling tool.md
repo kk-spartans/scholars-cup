@@ -2,4 +2,4 @@
 
 ## Should we revive this?
 
-**Yes.** It’s exhilarating, dangero 
+**Yes.** It’s exhilarating, dangerous, and a hazard to the environment. Maybe we should even burn different materials to get different colors of fires. 
