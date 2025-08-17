@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "06 - History and safety of fireworks"
             }
-          },
-          {
-            "id": "42065ed1c2f984c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Things Really Do Catch Fire/List of colors made by substances in fireworks.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "List of colors made by substances in fireworks"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +139,8 @@
               "title": "Outgoing links from What entertains us owns us"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,10 +185,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "42065ed1c2f984c1",
+  "active": "6e5ac0b60572483e",
   "lastOpenFiles": [
-    "06 - Things Really Do Catch Fire/06 - History and safety of fireworks.md",
     "06 - Things Really Do Catch Fire/List of colors made by substances in fireworks.md",
+    "06 - Things Really Do Catch Fire/06 - History and safety of fireworks.md",
     "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
     "06 - Things Really Do Catch Fire/05 - Fire as a prehistoric storytelling tool/05 - Fire as a prehistoric storytelling tool.md",
     "06 - Things Really Do Catch Fire/05 - Fire as a prehistoric storytelling tool",

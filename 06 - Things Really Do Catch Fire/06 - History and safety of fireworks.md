@@ -9,6 +9,8 @@ The early ones were for scaring off evil spirits and celebrating festivals (like
 By the 10-12th century, fireworks became more sophisticated in China with colored sparks made by adding [[List of colors made by substances in fireworks|metals]].
 
 Europeans got them around the 13-14th centuries by trading with the Mongol conquests. Initially used in royal ceremonies and military displays.
+
+The color
 ## Made of
 
 The early ones 
