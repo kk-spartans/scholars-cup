@@ -198,6 +198,7 @@ informal
 inspire
 inert
 immediately
+imagination
 this
 theme
 titles
@@ -455,6 +456,8 @@ tetraphosphorus
 tetrahedra
 toothed
 tigers
+tragic
+thrown
 The
 There
 That
@@ -1025,6 +1028,9 @@ severe
 surely
 saber
 storytelling
+scaring
+spirits
+sophisticated
 were
 with
 world
@@ -1396,6 +1402,7 @@ materials
 middle
 mythology
 mixture
+maimed
 by
 be
 but
@@ -1636,6 +1643,8 @@ bright
 border
 bits
 butadiene
+blanks
+bamboo
 gpt
 groups
 governments
@@ -1919,6 +1928,7 @@ Synthetic
 Strike
 Samples
 Stored
+Started
 distancing
 declared
 discuss
@@ -2142,6 +2152,8 @@ depended
 disputes
 dissolve
 diphosphorus
+differently
+dangerous
 problem
 pressing
 post
@@ -2456,6 +2468,7 @@ perchlorate
 polymers
 pentoxide
 prehistoric
+protective
 In
 Islands
 Is
@@ -2662,6 +2675,7 @@ Heat
 Hydrocarbons
 Hydrides
 Hypergolic
+History
 Organization
 Older
 Otherwise
@@ -2718,6 +2732,7 @@ Oily
 OH
 Ownership
 Oxidizers
+Originated
 loneliness
 like
 living
@@ -2966,6 +2981,7 @@ Entertainment
 Edwin
 Electric
 Electricity
+Eve
 how
 health
 healthcare
@@ -3541,6 +3557,8 @@ coated
 commonly
 consists
 cartoons
+colorful
+celebrating
 varies
 vibe
 versions
@@ -3910,6 +3928,7 @@ antimony
 anywhere
 autoignition
 atoms
+accident
 epidemic
 etc
 emotional
@@ -4128,6 +4147,8 @@ eternal
 extreme
 explosives
 equivalent
+earliest
+explode
 Common
 Census
 Coffee
@@ -4519,6 +4540,7 @@ releasing
 rough
 resist
 reviving
+remain
 Loneliness
 Lowest
 Linked
@@ -5456,6 +5478,7 @@ Yer
 Yamato
 York
 Years
+Year
 US
 UN
 Unless
@@ -5818,6 +5841,7 @@ friction
 flames
 formal
 fending
+fireworks
 know
 kinda
 kind

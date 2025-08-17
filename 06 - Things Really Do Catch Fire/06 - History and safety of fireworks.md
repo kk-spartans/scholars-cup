@@ -6,7 +6,9 @@ Originated in China at around the 7th century. Started as bamboo tubes filled wi
 
 The early ones were for scaring off evil spirits and celebrating festivals (like Chinese New Year). The noise was protective.
 
-By the 10-12th century, fireworks became more sophisticated in China with colored sparks made by adding metals
+By the 10-12th century, fireworks became more sophisticated in China with colored sparks made by adding [[List of colors made by substances in fireworks|metals]].
+
+Europeans got them around the 
 ## Made of
 
 The early ones 
