@@ -13,4 +13,7 @@ Things that need to be maintained:
    - You
    - Youtube
  - Servers / long-running process (harder to restart)
-   - Dev
+   - DevOps engineers
+ - DBs / Caches
+   - DB Admins
+   - Backend devs
