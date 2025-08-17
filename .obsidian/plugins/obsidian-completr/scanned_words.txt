@@ -583,6 +583,8 @@ Titanium
 Tin
 Therapists
 Teachers
+Turner
+Tsukioka
 short
 social
 so
@@ -2725,6 +2727,7 @@ Hydrides
 Hypergolic
 History
 Handel
+Haydn
 Organization
 Older
 Otherwise
@@ -4925,6 +4928,7 @@ Arabic
 Animal
 Aluminum
 Admins
+Alberto
 Mediterranean
 Middle
 More
@@ -5482,6 +5486,7 @@ Barium
 Binders
 Bright
 Backend
+Burri
 Northern
 North
 No
@@ -5575,6 +5580,8 @@ York
 Years
 Year
 Yellow
+Yoshitoshi
+Yves
 US
 UN
 Unless
@@ -6233,6 +6240,7 @@ Jupiter
 July
 JFK
 Jean
+Joseph
 Gemini
 Goes
 Grab
@@ -6334,6 +6342,7 @@ KClO
 KCl
 KNO
 Katy
+Klein
 zeal
 zoom
 zU
