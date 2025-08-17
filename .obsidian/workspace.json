@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical.md",
+                "file": "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical/09 - Fire in art and literature - literal vs. metaphorical.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 527.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +186,9 @@
   },
   "active": "5b8a886a3b2b2ab2",
   "lastOpenFiles": [
+    "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical",
     "06 - Things Really Do Catch Fire/06 - Things Really Do Catch Fire.md",
-    "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical.md",
+    "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical/09 - Fire in art and literature - literal vs. metaphorical.md",
     "03 - In Futurity, Someone Prophetic Sees/06 - What are artists saying about fortune tellers/06 - What are artists saying about fortune tellers.md",
     "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique/07 - Fireworks in music-celebration or critique.md",
     "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique/Firework.md",
@@ -215,7 +217,6 @@
     "06 - Things Really Do Catch Fire/02 - Who “discovered” fire and can it be owned/02 - Who “discovered” fire and can it be owned.md",
     "06 - Things Really Do Catch Fire/04 - Greek fire and its modern equivalents",
     "06 - Things Really Do Catch Fire/03 - Methods of starting fire—then and now, and teaching kids/03 - Methods of starting fire—then and now, and teaching kids.md",
-    "06 - Things Really Do Catch Fire/03 - Methods of starting fire—then and now, and teaching kids/Safety match.md",
     "06 - Things Really Do Catch Fire/03 - Methods of starting fire—then and now, and teaching kids",
     "06 - Things Really Do Catch Fire/02 - Who “discovered” fire and can it be owned",
     "06 - Things Really Do Catch Fire/01 - What is fire and how does it work",
