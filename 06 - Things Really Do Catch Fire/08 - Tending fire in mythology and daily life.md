@@ -2,4 +2,8 @@
 
 Just read the article to know the myths.
 
-Things that need to be maintained
+Things that need to be maintained:
+
+ - Relationships
+   - Friends
+   - Family
