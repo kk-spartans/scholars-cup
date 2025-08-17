@@ -1,1 +1,1 @@
-Also called tetraphosphorus (P<sub>4</sub>), it’s usually coated with diphosphorus pentoxide (P<sub>4</sub>O<sub>10M)
+Also called tetraphosphorus (P<sub>4</sub>), burns on contact with air. 
