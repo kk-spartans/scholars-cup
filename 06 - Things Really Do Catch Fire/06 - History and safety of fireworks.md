@@ -2,4 +2,8 @@
 
 ## History
 
-Originated in China at around the 7th century. Started as bamboo tubes filled with gunpowder that would explode when thrown into a fire (mostly noise, no light)
+Originated in China at around the 7th century. Started as bamboo tubes filled with gunpowder that would explode when thrown into a fire (mostly noise, no light).
+
+The early ones were for scaring off evil spirits and celebrating festivals (like Chinese New Year). The noise was protective.
+
+## 
