@@ -38,4 +38,3 @@ And you can’t copyright fire, it’s a fact, and idea, a process, a system, an
 **Technological control:** Even before formal law, controlling fire—keeping it alive, transporting it, starting it reliably—was a skill that gave power. Those who could manage it had a practical advantage, like cooking or protection, which sometimes created informal “rights” within a group.
 
 **Conflict and sharing:** Myths and stories often reflect disputes over fire—like Prometheus in Greek mythology. These tales show that even without formal laws, fire was valuable enough to inspire rules, taboos, or social norms about who could use or handle it.
-

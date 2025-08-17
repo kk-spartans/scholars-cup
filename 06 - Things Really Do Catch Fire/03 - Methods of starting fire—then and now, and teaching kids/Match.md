@@ -4,13 +4,13 @@ It starts with friction by you striking the match, which created heat.
 
 ## Materials
 
-### Mainly made of
+### Mainly Made Of
 
  - **Red Phosphorus (chained P<sub>4</sub>)** — Friction turns a bit of it into [[white phosphorus]] (unchained P<sub>4</sub>), which is highly reactive
  - **Potassium Chloride (KClO<sub>3</sub>)** - Decomposes when heated, releasing oxygen (2KClO<sub>3</sub> → 2KCl + 3O<sub>2</sub>)
  - **Sulfur or antimony sulfide (for low temps)** - actual fuel
 
-### Other fuels
+### Other Fuels
 
 - Sulfur
 - Antimony trisulfide
@@ -33,7 +33,8 @@ It starts with friction by you striking the match, which created heat.
 - Dextrin
 - Animal glue
 - Synthetic polymers in modern heads
-## Types of matches
+
+## Types Of Matches
 
  - **Safety matches** - Only ignite on a special surface ^2586b8
  - **Strike-anywhere matches** - Ignites on any rough surface because the head contains reactive phosphorus
