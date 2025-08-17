@@ -199,6 +199,7 @@ inspire
 inert
 immediately
 imagination
+insanity
 this
 theme
 titles
@@ -459,6 +460,7 @@ tigers
 tragic
 thrown
 trading
+throw
 The
 There
 That
@@ -564,6 +566,9 @@ Tiny
 Tribes
 Those
 Types
+TB
+Titanium
+Tin
 short
 social
 so
@@ -1032,6 +1037,7 @@ storytelling
 scaring
 spirits
 sophisticated
+starches
 were
 with
 world
@@ -1930,6 +1936,10 @@ Strike
 Samples
 Stored
 Started
+Strontium
+Sr
+Silver
+Sb
 distancing
 declared
 discuss
@@ -2155,6 +2165,8 @@ dissolve
 diphosphorus
 differently
 dangerous
+dextrin
+delivers
 problem
 pressing
 post
@@ -2470,6 +2482,9 @@ polymers
 pentoxide
 prehistoric
 protective
+potassium
+pixel
+petabytes
 In
 Islands
 Is
@@ -2735,6 +2750,7 @@ OH
 Ownership
 Oxidizers
 Originated
+Orange
 loneliness
 like
 living
@@ -2903,6 +2919,7 @@ lens
 lighters
 lighter
 legal
+logistics
 Explore
 Eastern
 Europe
@@ -3563,6 +3580,8 @@ cartoons
 colorful
 celebrating
 conquests
+choreographed
+coloring
 varies
 vibe
 versions
@@ -4284,6 +4303,14 @@ Charcoal
 Coated
 Candles
 Causes
+Color
+Crimson
+Calcium
+Ca
+Copper
+Cu
+Cobalt
+Chromium
 regions
 risk
 region
@@ -4612,6 +4639,9 @@ Lenses
 Lanthanum
 Los
 Lifeboat
+Lithium
+Li
+Lead
 Data
 Digital
 Discalimer
@@ -4842,6 +4872,7 @@ Antimony
 Ammonium
 Arabic
 Animal
+Aluminum
 Mediterranean
 Middle
 More
@@ -4933,6 +4964,8 @@ Materials
 Mainly
 Macrauchenia
 Mongol
+Magnesium
+Manganese
 on
 of
 opinion
@@ -5191,6 +5224,7 @@ Vibe
 Viollet
 Vita
 Valve
+Violet
 no
 now
 needs
@@ -5393,6 +5427,7 @@ Below
 Bros
 Barium
 Binders
+Bright
 Northern
 North
 No
@@ -5485,6 +5520,7 @@ Yamato
 York
 Years
 Year
+Yellow
 US
 UN
 Unless
@@ -5632,6 +5668,8 @@ PbO
 Prometheus
 Potassium
 Powdered
+Pb
+Purple
 forming
 fictional
 feels
@@ -5983,6 +6021,7 @@ Fuels
 Funk
 Flint
 Friction
+Flame
 just
 justice
 jokes
@@ -6195,6 +6234,9 @@ GBA
 God
 Glass
 Gum
+Green
+Gold
+Glittery
 Killing
 Know
 Keep
@@ -6285,6 +6327,8 @@ Zeppelin
 Zuckerburg
 Zodiac
 Zoroastrians
+Zinc
+Zn
 Xj
 Xkl
 XX

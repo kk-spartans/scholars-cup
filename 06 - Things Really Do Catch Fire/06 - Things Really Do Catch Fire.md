@@ -4,6 +4,6 @@
 - [[04 - Greek fire and its modern equivalents]]
 - [[05 - Fire as a prehistoric storytelling tool]]
 - [[06 - History and safety of fireworks]]
-- [[07 - Fireworks in music: celebration or critique]]
+- [[07 - Fireworks in music-celebration or critique]]
 - [[08 - Tending fire in mythology and daily life]]
 - [[09 - Fire in art and literature: literal vs. metaphorical]]
