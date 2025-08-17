@@ -447,6 +447,7 @@ transporting
 tales
 taboos
 thickener
+trisulfide
 The
 There
 That
@@ -551,6 +552,7 @@ Tatham
 Tiny
 Tribes
 Those
+Types
 short
 social
 so
@@ -1006,6 +1008,12 @@ sharing
 sets
 structures
 styrene
+striking
+sulfide
+sesquisulfide
+stronger
+soaked
+sticks
 were
 with
 world
@@ -1738,6 +1746,7 @@ glowing
 gasoline
 group
 gel
+glue
 Sometimes
 SE
 Sparse
@@ -1892,6 +1901,10 @@ Supreme
 Seed
 SiO
 Sticks
+Sodium
+Similar
+Synthetic
+Strike
 distancing
 declared
 discuss
@@ -2424,6 +2437,8 @@ protection
 palmitate
 powder
 polyvinyl
+perchlorate
+polymers
 In
 Islands
 Is
@@ -2486,6 +2501,7 @@ Ishtar
 Ignition
 Inoculant
 Investigate
+Ignites
 World
 Worldwide
 WHO
@@ -2560,6 +2576,7 @@ Wanamaker
 Westinghouse
 Watch
 Works
+Waterproof
 Health
 How
 Highest
@@ -2683,6 +2700,7 @@ Outlived
 Oily
 OH
 Ownership
+Oxidizers
 loneliness
 like
 living
@@ -3093,6 +3111,7 @@ heats
 hydrocarbon
 hexane
 heptane
+heated
 concern
 can
 countries
@@ -3497,6 +3516,11 @@ clans
 conferred
 chloride
 cbb
+cardboard
+chlorate
+colored
+chemicals
+coated
 varies
 vibe
 versions
@@ -3861,6 +3885,8 @@ article
 agent
 aluminum
 attendants
+antimony
+anywhere
 epidemic
 etc
 emotional
@@ -4077,6 +4103,7 @@ equivalents
 extremely
 eternal
 extreme
+explosives
 Common
 Census
 Coffee
@@ -4203,6 +4230,10 @@ Crown
 CaO
 Controlling
 Conflict
+Chloride
+Charcoal
+Coated
+Candles
 regions
 risk
 region
@@ -4458,6 +4489,10 @@ religious
 reliably
 rights
 respiratory
+reactive
+releasing
+rough
+resist
 Loneliness
 Lowest
 Linked
@@ -4523,6 +4558,7 @@ Le
 Lenses
 Lanthanum
 Los
+Lifeboat
 Data
 Digital
 Discalimer
@@ -4600,6 +4636,9 @@ Dark
 December
 De
 DEFINITELY
+Decomposes
+Dextrin
+Designed
 quality
 questions
 quick
@@ -4746,6 +4785,10 @@ Artistic
 Autoignition
 Apprentice
 Angeles
+Antimony
+Ammonium
+Arabic
+Animal
 Mediterranean
 Middle
 More
@@ -4833,6 +4876,8 @@ Material
 Main
 Matches
 Myths
+Materials
+Mainly
 on
 of
 opinion
@@ -5040,6 +5085,8 @@ unconnected
 upgrade
 uspto
 urls
+unchained
+underwater
 Virtually
 Voiceover
 Visual
@@ -5195,6 +5242,7 @@ naphtha
 niter
 nasty
 naphthenate
+nitrate
 Best
 But
 Boston
@@ -5287,6 +5335,8 @@ Bandcamp
 Blue
 Below
 Bros
+Barium
+Binders
 Northern
 North
 No
@@ -5523,6 +5573,8 @@ Pyrophoric
 Patents
 PbO
 Prometheus
+Potassium
+Powdered
 forming
 fictional
 feels
@@ -5871,6 +5923,7 @@ Fuel
 Fuels
 Funk
 Flint
+Friction
 just
 justice
 jokes
@@ -6082,6 +6135,7 @@ GBC
 GBA
 God
 Glass
+Gum
 Killing
 Know
 Keep
@@ -6114,6 +6168,9 @@ KTu
 Kaku
 Kitaro
 Kalo
+KClO
+KCl
+KNO
 zeal
 zoom
 zU
