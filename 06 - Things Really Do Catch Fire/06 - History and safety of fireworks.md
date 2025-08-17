@@ -2,4 +2,4 @@
 
 ## History
 
-Originated in China at around the 7th centur
+Originated in China at around the 7th century. Started as bamboo tubes filled with gunpowder that would explode when thrown into a fire (mostly noise, no light)
