@@ -11,11 +11,12 @@ By the 10-12th century, fireworks became more sophisticated in China with colore
 Europeans got them around the 13-14th centuries by trading with the Mongol conquests. Initially used in royal ceremonies and military displays.
 
 The colorful, choreographed shows we see today took off in 17-18th century Europe, mostly in Italy. It spread to the world in about the 19th century.
-## Made of
+
+## Made Of
 
 Usually have an oxidizer (potassium nitrate), fuel (sulfur / charcoal), starches / dextrin, and a coloring agent.
 
-## Should they be banned?
+## Should They Be Banned?
 
 Yes — [ABSOLUTELY](https://en.wikipedia.org/wiki/List_of_fireworks_accidents_and_incidents_in_Sivakasi). You can just have insanely large displays like [The Las Vegas Sphere](https://maps.app.goo.gl/o4xzVa5fmC8rs48w6). You just need 150 [A6000s](https://www.nvidia.com/en-in/products/workstations/rtx-a6000/), running 16,000 x 16,000 pixel displays. With 108 petabytes of flash storage that delivers at 81TB/S, just for the interior.
 
