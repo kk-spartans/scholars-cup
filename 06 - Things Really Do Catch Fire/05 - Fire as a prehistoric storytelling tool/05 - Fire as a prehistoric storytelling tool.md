@@ -4,4 +4,5 @@
 
 **Why?**
 
-Why would you want to revive a form of art that pollutes the environment, is dangerous, 
+Why would you want to revive a form of art that pollutes the environment, is dangerous, and is hard to make sense of in the first place?
+
