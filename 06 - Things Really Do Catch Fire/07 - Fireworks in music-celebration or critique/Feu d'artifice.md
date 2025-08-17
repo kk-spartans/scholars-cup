@@ -3,4 +3,5 @@ created: "1908"
 author: Igor Stravinsky
 link: https://www.youtube.com/watch?v=tDRiQAepVig
 ---
-This is an instrumental, and the title translates to “Fireworks”.
+This is an instrumental, and the title translates to “Fireworks” but word for word it’s “fire of art” or “art fire”.
+
