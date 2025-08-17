@@ -2,6 +2,6 @@
 
 ```dataview
 table author, created, genre, link 
-from "06 - Things Really Do Catch Fire/06 - What are artists saying about fortune tellers"
-where file.name != "06 - What are artists saying about fortune tellers"
+from "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical"
+where file.name != "09 - Fire in art and literature - literal vs. metaphorical"
 ```
