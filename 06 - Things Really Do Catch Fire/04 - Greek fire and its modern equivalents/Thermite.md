@@ -1,1 +1,1 @@
-A mixture of Iron(3) oxide 
+A mixture of iron(3) oxide and aluminum powder.
