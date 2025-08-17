@@ -10,4 +10,4 @@
  - Ice Sculptures
  - Sand Sculptures
  - Controlled plant growth?
- - Winds — make 
+ - Winds - make it blow into things that create noises at frequencies specific enough to sound like  
