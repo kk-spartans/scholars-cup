@@ -6,4 +6,4 @@ from "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal
 where file.name != "09 - Fire in art and literature - literal vs. metaphorical"
 ```
 
-I will have one takeaway from this — instrumental music 
+I will have one takeaway from this — instrumental music can’t be understood by the sane.
