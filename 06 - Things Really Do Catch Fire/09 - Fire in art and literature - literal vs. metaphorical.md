@@ -1,0 +1,1 @@
+> - Consider the fire-related selections below, then discuss with your team: do they treat fire literally or metaphorically, and to what end?
