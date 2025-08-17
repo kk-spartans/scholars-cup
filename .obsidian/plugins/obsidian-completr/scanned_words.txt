@@ -196,6 +196,8 @@ ignition
 incendiary
 informal
 inspire
+inert
+immediately
 this
 theme
 titles
@@ -448,6 +450,9 @@ tales
 taboos
 thickener
 trisulfide
+temp
+tetraphosphorus
+tetrahedra
 The
 There
 That
@@ -1014,6 +1019,7 @@ sesquisulfide
 stronger
 soaked
 sticks
+severe
 were
 with
 world
@@ -1905,6 +1911,8 @@ Sodium
 Similar
 Synthetic
 Strike
+Samples
+Stored
 distancing
 declared
 discuss
@@ -2127,6 +2135,7 @@ drills
 depended
 disputes
 dissolve
+diphosphorus
 problem
 pressing
 post
@@ -2439,6 +2448,7 @@ powder
 polyvinyl
 perchlorate
 polymers
+pentoxide
 In
 Islands
 Is
@@ -3521,6 +3531,8 @@ chlorate
 colored
 chemicals
 coated
+commonly
+consists
 varies
 vibe
 versions
@@ -3585,6 +3597,7 @@ viral
 vintage
 vinyl
 vapor
+vertices
 your
 you
 young
@@ -3887,6 +3900,8 @@ aluminum
 attendants
 antimony
 anywhere
+autoignition
+atoms
 epidemic
 etc
 emotional
@@ -4104,6 +4119,7 @@ extremely
 eternal
 extreme
 explosives
+equivalent
 Common
 Census
 Coffee
@@ -4234,6 +4250,7 @@ Chloride
 Charcoal
 Coated
 Candles
+Causes
 regions
 risk
 region

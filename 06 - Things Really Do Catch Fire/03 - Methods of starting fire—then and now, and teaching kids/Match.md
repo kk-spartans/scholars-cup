@@ -6,7 +6,7 @@ It starts with friction by you striking the match, which created heat.
 
 ### Mainly made of
 
- - **Red Phosphorus (chained P<sub>4</sub>)** — Friction turns a bit of it into white phosphorus (unchained P<sub>4</sub>), which is highly reactive
+ - **Red Phosphorus (chained P<sub>4</sub>)** — Friction turns a bit of it into [[white phosphorus]] (unchained P<sub>4</sub>), which is highly reactive
  - **Potassium Chloride (KClO<sub>3</sub>)** - Decomposes when heated, releasing oxygen (2KClO<sub>3</sub> → 2KCl + 3O<sub>2</sub>)
  - **Sulfur or antimony sulfide (for low temps)** - actual fuel
 
