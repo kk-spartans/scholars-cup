@@ -1,3 +1,5 @@
+(gpt5 #ai generated)
+
 | Metal          | Flame Color         |
 | -------------- | ------------------- |
 | Strontium (Sr) | Red                 |
