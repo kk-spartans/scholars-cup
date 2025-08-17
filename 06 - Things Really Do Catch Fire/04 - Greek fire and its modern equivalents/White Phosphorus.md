@@ -1,1 +1,4 @@
 Also called tetraphosphorus (P<sub>4</sub>), burns on contact with air. 
+
+(wikepedia)
+
