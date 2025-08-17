@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tinder",
+                "query": "O<sub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
-    "collapsed": true
+    "width": 454.5
   },
   "right": {
     "id": "c516336bcdbc5076",
@@ -184,7 +183,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fec15023827b4067",
+  "active": "50c8e266e53a801e",
   "lastOpenFiles": [
     "06 - Things Really Do Catch Fire/04 - Greek fire and its modern equivalents/White Phosphorus.md",
     "06 - Things Really Do Catch Fire/04 - Greek fire and its modern equivalents/04 - Greek fire and its modern equivalents.md",
