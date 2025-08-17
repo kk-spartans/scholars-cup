@@ -6,4 +6,4 @@ from "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or cr
 where file.name != "07 - Fireworks in music-celebration or critique"
 ```
 
-Most of the songs (i think) are celebrating fireworks
+Most of the songs (i think) are celebrating fireworks.
