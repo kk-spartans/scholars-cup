@@ -8,7 +8,9 @@ Things that need to be maintained:
    - Friends
    - Family
    - Therapists
- - Skills (like, idk, )
+ - Skills (like, idk, tying your shoelaces?)
    - Teachers
    - You
    - Youtube
+ - Servers / long-running process (harder to restart)
+   - Dev
