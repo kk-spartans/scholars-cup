@@ -14,3 +14,7 @@ The colorful, choreographed shows we see today took off in 17-18th century Europ
 ## Made of
 
 Usually have an oxidizer (potassium nitrate), fuel (sulfur / charcoal), starches / dextrin, and a coloring agent.
+
+## Should they be banned?
+
+Yes — ABSOLUTELY.
