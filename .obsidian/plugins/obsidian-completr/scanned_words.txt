@@ -2709,6 +2709,7 @@ Hydrocarbons
 Hydrides
 Hypergolic
 History
+Handel
 Organization
 Older
 Otherwise
@@ -6055,6 +6056,7 @@ Friction
 Flame
 Friends
 Family
+Frideric
 just
 justice
 jokes

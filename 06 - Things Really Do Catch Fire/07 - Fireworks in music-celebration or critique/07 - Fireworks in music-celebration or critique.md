@@ -2,6 +2,6 @@
 
 ```dataview
 table author, created, link
-from "04 - The Future Wasn’t Meant to Be/07 - Fireworks in music-celebration or critique"
+from "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique"
 where file.name != "07 - Fireworks in music-celebration or critique"
 ```

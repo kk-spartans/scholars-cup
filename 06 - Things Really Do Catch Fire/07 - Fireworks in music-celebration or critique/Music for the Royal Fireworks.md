@@ -1,4 +1,4 @@
 ---
 created: "1749"
-author:
+author: George Frideric Handel
 ---
