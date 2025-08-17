@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matche",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +139,7 @@
               "title": "Outgoing links from What entertains us owns us"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
