@@ -7,3 +7,8 @@ Things that need to be maintained:
  - Relationships
    - Friends
    - Family
+   - Therapists
+ - Skills (like, idk, )
+   - Teachers
+   - You
+   - Youtube
