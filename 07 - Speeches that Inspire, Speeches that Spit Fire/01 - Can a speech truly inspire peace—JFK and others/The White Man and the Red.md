@@ -10,4 +10,4 @@ I have one takeaway from this:
 
 He’s exposing settler hypocrisy (contxt: The US wanted to build churches in Seneca, this is the rejection).
 
-Very, **very** inspirational -
+Very, **very** inspirational. Though I’m not sure what I would do with this newfound inspiration.
