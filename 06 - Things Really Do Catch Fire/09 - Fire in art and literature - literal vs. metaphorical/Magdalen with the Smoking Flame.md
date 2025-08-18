@@ -5,4 +5,4 @@ genre: Art
 link: https://collections.lacma.org/node/238963
 ---
 
-Looks literal to me 
+I think the person in the painting is Mary Magdalen
