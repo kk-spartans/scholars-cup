@@ -12,4 +12,4 @@ Yes, it definitely is. If you stop being fascist, and start worrying about the e
 
 Imo he is kinda naive about the role of the US, he underestimates it. But that doesn’t matter as much as acknowledging the presence of the outside world, which most US presidents (*cough* Trump *cough*) fail to do.
 
-This speech is 
+This speech is not “inspirational” to me, 
