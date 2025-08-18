@@ -9,4 +9,6 @@ Metaphorical.
 
  - Mother — potential energy
  - Father — Molten, unstoppable
- - Grandmother — the spark, small, but could start everything
+ - Grandmother — the spark, small, but could start everything...?
+ - Sister — easily ignited, impulsive, and emotionally vulnerable
+ - Grandfather —
