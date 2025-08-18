@@ -5,4 +5,4 @@ genre: Art
 link: https://collections.lacma.org/node/238963
 ---
 
-I guess this 
+This is a painting. I
