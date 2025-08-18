@@ -13,5 +13,5 @@ Metaphorical.
  - Sister — easily ignited, impulsive, and emotionally vulnerable
  - Grandfather — trees usually mean abundant fuel, so the grandfather is that
  - Brothers — unpredictable, explosive, volatile
- - The writer — the aftermath of all this :(
+ - The poet — the aftermath of all this :(
 
