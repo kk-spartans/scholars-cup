@@ -11,4 +11,5 @@ Metaphorical.
  - Father — Molten, unstoppable
  - Grandmother — the spark, small, but could start everything...?
  - Sister — easily ignited, impulsive, and emotionally vulnerable
- - Grandfather —
+ - Grandfather — trees usually mean abundant fuel, so the grandfather is that
+ - Brothers — unpredictable, explosive
