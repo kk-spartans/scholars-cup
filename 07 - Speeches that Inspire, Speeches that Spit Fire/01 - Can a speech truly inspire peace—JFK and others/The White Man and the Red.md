@@ -4,4 +4,6 @@ speaker: Red Jacket
 year: "1805"
 ---
 
-This speech could
+I have one takeaway from 
+
+We don’t need your religion, we already have ours, and given how your people have treated us, why should we trust you?
