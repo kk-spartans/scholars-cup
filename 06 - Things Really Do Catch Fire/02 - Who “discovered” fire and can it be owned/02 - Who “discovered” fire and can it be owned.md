@@ -29,7 +29,7 @@ And you can’t copyright fire, it’s a fact, and idea, a process, a system, an
 
 ## Ancient World
 
-(gpt5 generated)
+(gpt5 #ai generated)
 
 **Ownership in early societies:** In most ancient cultures, fire wasn’t owned in the way we think of property today. Tribes or clans shared it because survival depended on access—stealing someone’s fire could literally be life-threatening.
 

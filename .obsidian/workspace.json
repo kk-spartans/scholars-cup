@@ -251,7 +251,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "generated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
