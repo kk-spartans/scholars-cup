@@ -10,4 +10,4 @@ where file.name != "01 - Can a speech truly inspire peace—JFK and others"
 
 Yes, it definitely is. If you stop being fascist, and start worrying about the entire world — it is. Just like what JFK did here, specifically deny wanting a Pax Americana (international peace, but overseen by the US/UK), and addressing the entire world.
 
-Imo he is kinda naive about the role of the US, he underestimates it. But that doesn’t matter as much
+Imo he is kinda naive about the role of the US, he underestimates it. But that doesn’t matter as much as acknowledging the presence of the outside world, which most US presidents (*cough*)
