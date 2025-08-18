@@ -7,4 +7,6 @@ link: https://www.altaonline.com/books/poetry/a34826903/linda-hogan-the-history-
 
 Metaphorical.
 
- - Mother — 
+ - Mother — potential energy
+ - Father — Molten, unstoppable
+ - Grandmother — the spark, small, but could start everything
