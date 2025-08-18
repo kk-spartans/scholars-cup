@@ -12,4 +12,6 @@ Metaphorical.
  - Grandmother — the spark, small, but could start everything...?
  - Sister — easily ignited, impulsive, and emotionally vulnerable
  - Grandfather — trees usually mean abundant fuel, so the grandfather is that
- - Brothers — unpredictable, explosive
+ - Brothers — unpredictable, explosive, volatile
+ - The writer — the aftermath of all this :(
+
