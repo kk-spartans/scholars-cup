@@ -16,7 +16,7 @@ And **nowhere** does it say you can’t patent natural phenomena. I could patent
 
 (find the court opinion of this from *somewhere* [here](https://www.supremecourt.gov/opinions/slipopinion/24), I don’t have that much free time)
 
-In lot’s of places, the Supreme Court claimed you can’t patent natural phenomena.
+In lots of places, the Supreme Court claimed you can’t patent natural phenomena.
 
  - “[For patents cannot issue for the discovery of the phenomena of nature](https://www.law.cornell.edu/supremecourt/text/333/127#p4)”
  - “[A principle, in the abstract, is a fundamental truth; an original cause; a motive; these cannot be patented,](https://tile.loc.gov/storage-services/service/ll/usrep/usrep055/usrep055156/usrep055156.pdf#page=**20**)” <!--Did you know you could do that to pdf urls?-->
