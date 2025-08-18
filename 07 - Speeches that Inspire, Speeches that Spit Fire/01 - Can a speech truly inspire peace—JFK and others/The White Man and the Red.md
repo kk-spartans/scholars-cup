@@ -4,6 +4,7 @@ speaker: Red Jacket
 year: "1805"
 ---
 
-I have one takeaway from 
+I have one takeaway from this:
 
-We don’t need your religion, we already have ours, and given how your people have treated us, why should we trust you?
+“We don’t need your religion, we already have ours, and given how your people have treated us, why should we trust you?”
+
