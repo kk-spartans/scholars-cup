@@ -1,5 +1,5 @@
 ---
 link: https://www.menziesrc.org/the-forgotten-people
 speaker: Robert Menzies
-year:
+year: "1942"
 ---
