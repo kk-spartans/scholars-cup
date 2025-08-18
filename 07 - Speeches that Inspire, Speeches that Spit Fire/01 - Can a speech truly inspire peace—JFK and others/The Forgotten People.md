@@ -4,4 +4,4 @@ speaker: Robert Menzies
 year: "1942"
 ---
 
-I have one takeaway from this: “post-war Australia should not become socialist, because they thrive on an economy where ”
+I have one takeaway from this: “post-war Australia should not become socialist, because we should build a society where the middle class thrives”.
