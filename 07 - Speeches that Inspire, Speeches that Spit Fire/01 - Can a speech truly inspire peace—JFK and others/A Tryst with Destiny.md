@@ -4,4 +4,4 @@ speaker: Jawaharlal Nehru
 year: "1947"
 ---
 
-This was the speech at midnight of India’s indpendance
+This was the speech at midnight of India’s independence, 
