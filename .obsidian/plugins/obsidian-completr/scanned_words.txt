@@ -593,6 +593,7 @@ Therapists
 Teachers
 Turner
 Tsukioka
+Trump
 short
 social
 so
@@ -1072,6 +1073,8 @@ symmetry
 symbolized
 settler
 socialist
+specifically
+socialism
 were
 with
 world
@@ -1220,6 +1223,8 @@ winds
 wonderful
 wildlife
 whines
+worrying
+wanting
 made
 major
 many
@@ -1699,6 +1704,7 @@ blanks
 bamboo
 bass
 burnt
+bold
 gpt
 groups
 governments
@@ -2233,6 +2239,7 @@ definetly
 dread
 dismissing
 distraction
+deny
 problem
 pressing
 post
@@ -2555,6 +2562,7 @@ piano
 passion
 plastic
 protected
+presidents
 In
 Islands
 Is
@@ -4052,6 +4060,8 @@ assigned
 autonomous
 action
 attainable
+addressing
+acknowledging
 epidemic
 etc
 emotional
@@ -4999,6 +5009,7 @@ Animal
 Aluminum
 Admins
 Alberto
+Americana
 Mediterranean
 Middle
 More
@@ -5224,6 +5235,7 @@ octane
 oxide
 oval
 ours
+overseen
 unemployment
 us
 unbearable
@@ -5307,6 +5319,7 @@ underwater
 utilize
 understood
 underplays
+underestimates
 Virtually
 Voiceover
 Visual
@@ -5815,6 +5828,7 @@ Pb
 Purple
 Perry
 Prokofiev
+Pax
 forming
 fictional
 feels
@@ -6034,6 +6048,8 @@ fireworks
 faith
 fearful
 formerly
+fascist
+fascism
 know
 kinda
 kind
