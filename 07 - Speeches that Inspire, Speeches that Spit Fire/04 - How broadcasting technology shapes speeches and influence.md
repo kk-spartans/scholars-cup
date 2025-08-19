@@ -2,4 +2,5 @@
 
 ```dataview
 list
+from
 ```
