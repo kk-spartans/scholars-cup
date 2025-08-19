@@ -1,3 +1,4 @@
 ---
-movie-or-show: Independence D
+movie-or-show: Independence Day
+year:
 ---
