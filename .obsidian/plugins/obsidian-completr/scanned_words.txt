@@ -1226,6 +1226,7 @@ wildlife
 whines
 worrying
 wanting
+worked
 made
 major
 many
@@ -4292,6 +4293,9 @@ eagle
 elevates
 exposing
 enforcement
+effectively
+effective
+equally
 Common
 Census
 Coffee
