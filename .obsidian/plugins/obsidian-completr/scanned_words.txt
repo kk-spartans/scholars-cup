@@ -1468,6 +1468,7 @@ marxist
 midnight
 mediums
 minister
+morale
 by
 be
 but
@@ -4093,6 +4094,7 @@ acknowledging
 abroad
 audiences
 allergic
+allies
 epidemic
 etc
 emotional
@@ -4738,6 +4740,8 @@ romanticizing
 rant
 repurposed
 rhetoric
+rally
+resistance
 Loneliness
 Lowest
 Linked
@@ -5686,6 +5690,7 @@ Next
 Napalm
 Nations
 Nehru
+Nazi
 Young
 Yes
 You
@@ -6351,6 +6356,7 @@ Romans
 Relationships
 Richard
 Roo
+Radio
 Japan
 James
 Jr
