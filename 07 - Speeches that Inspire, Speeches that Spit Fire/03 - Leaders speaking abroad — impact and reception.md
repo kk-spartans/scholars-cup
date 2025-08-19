@@ -2,3 +2,4 @@
 
 The Love, Actually prime minister is basically allergic to flattery and soft focus “we’re all friends” rhetoric. Obama’s Mexico speech ends with a soaring “You are the dream. This is your moment.”
 
+“That’s all very lovely, but the US actually wants something, and would bully to get it won’t it? How could the ”
