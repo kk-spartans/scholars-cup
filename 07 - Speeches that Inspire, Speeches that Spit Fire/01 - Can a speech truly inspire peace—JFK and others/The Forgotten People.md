@@ -8,4 +8,4 @@ I have one takeaway from this: “post-war Australia should not become socialist
 
 He is kind of naive over here, keeps romanticizing the “middle class”, underplays inequality by dismissing class struggle as a marxist distraction.
 
-He also assumes independence 
+He also assumes independence is attainable by everyone, which was a 

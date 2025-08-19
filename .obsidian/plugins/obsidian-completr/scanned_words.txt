@@ -208,6 +208,8 @@ inducing
 instrumental
 inspiration
 invaded
+inequality
+independence
 this
 theme
 titles
@@ -478,6 +480,7 @@ tying
 trumpets
 tiger
 takeaway
+thrives
 The
 There
 That
@@ -1068,6 +1071,7 @@ sane
 symmetry
 symbolized
 settler
+socialist
 were
 with
 world
@@ -1450,6 +1454,7 @@ meridian
 metaphorical
 malformed
 molten
+marxist
 by
 be
 but
@@ -2226,6 +2231,8 @@ delivers
 devs
 definetly
 dread
+dismissing
+distraction
 problem
 pressing
 post
@@ -4044,6 +4051,7 @@ accident
 assigned
 autonomous
 action
+attainable
 epidemic
 etc
 emotional
@@ -4679,6 +4687,7 @@ retro
 refuses
 religion
 rejection
+romanticizing
 Loneliness
 Lowest
 Linked
@@ -5297,6 +5306,7 @@ unchained
 underwater
 utilize
 understood
+underplays
 Virtually
 Voiceover
 Visual
