@@ -8,4 +8,4 @@ The Love, Actually prime minister is basically allergic to flattery and soft foc
 
 ## Zelenskyy’s Speech
 
-This, the PM from Love would like. Zelenskyy literally channeled Winston Churchill and Shakesphere while his country was being bombed
+This, the PM from Love would like. Zelenskyy literally channeled Winston Churchill and Shakespeare while his country was being bombed.
