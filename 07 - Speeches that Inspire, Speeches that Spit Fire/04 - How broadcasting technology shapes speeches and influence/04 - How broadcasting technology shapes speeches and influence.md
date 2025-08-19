@@ -2,5 +2,5 @@
 
 ```dataview
 list
-from
+from "07 - Speeches that Inspire, Speeches that Spit Fire/"
 ```

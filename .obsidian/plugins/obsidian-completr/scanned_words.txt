@@ -482,6 +482,7 @@ trumpets
 tiger
 takeaway
 thrives
+traveling
 The
 There
 That
@@ -1076,6 +1077,8 @@ settler
 socialist
 specifically
 socialism
+significant
+soaring
 were
 with
 world
@@ -1463,6 +1466,8 @@ malformed
 molten
 marxist
 midnight
+mediums
+minister
 by
 be
 but
@@ -1708,6 +1713,8 @@ bamboo
 bass
 burnt
 bold
+bully
+bombed
 gpt
 groups
 governments
@@ -2010,6 +2017,7 @@ Sundays
 Selassie
 Seneca
 Speech
+Shakespeare
 distancing
 declared
 discuss
@@ -2567,6 +2575,10 @@ plastic
 protected
 presidents
 poverty
+programs
+paragraphs
+prime
+president
 In
 Islands
 Is
@@ -2708,6 +2720,7 @@ Watch
 Works
 Waterproof
 Wagner
+Winston
 Health
 How
 Highest
@@ -2839,6 +2852,7 @@ Ownership
 Oxidizers
 Originated
 Orange
+Obama
 loneliness
 like
 living
@@ -3010,6 +3024,9 @@ legal
 logistics
 lots
 lamb
+leaders
+lovely
+leverage
 Explore
 Eastern
 Europe
@@ -3689,6 +3706,12 @@ call
 contxt
 churches
 covers
+communication
+chats
+concluding
+cheered
+criticized
+channeled
 varies
 vibe
 versions
@@ -3755,6 +3778,7 @@ vinyl
 vapor
 vertices
 villages
+visit
 your
 you
 young
@@ -4066,6 +4090,9 @@ action
 attainable
 addressing
 acknowledging
+abroad
+audiences
+allergic
 epidemic
 etc
 emotional
@@ -4296,6 +4323,8 @@ enforcement
 effectively
 effective
 equally
+effectiveness
+equals
 Common
 Census
 Coffee
@@ -4437,6 +4466,7 @@ Cobalt
 Chromium
 Caches
 Cash
+Churchill
 regions
 risk
 region
@@ -4706,6 +4736,8 @@ religion
 rejection
 romanticizing
 rant
+repurposed
+rhetoric
 Loneliness
 Lowest
 Linked
@@ -5018,6 +5050,7 @@ Aluminum
 Admins
 Alberto
 Americana
+Actually
 Mediterranean
 Middle
 More
@@ -5112,6 +5145,7 @@ Mongol
 Magnesium
 Manganese
 Menzies
+Mexico
 on
 of
 opinion
@@ -5589,6 +5623,7 @@ Burri
 Billy
 Blake
 Braveheart
+Barack
 Northern
 North
 No
@@ -5726,6 +5761,7 @@ Unfair
 USD
 University
 United
+Ukraine
 Pacific
 Parasocial
 People
@@ -5838,6 +5874,7 @@ Purple
 Perry
 Prokofiev
 Pax
+PM
 forming
 fictional
 feels
@@ -6059,6 +6096,8 @@ fearful
 formerly
 fascist
 fascism
+fireside
+flattery
 know
 kinda
 kind
@@ -6200,6 +6239,7 @@ Friends
 Family
 Frideric
 Forrest
+FDR
 just
 justice
 jokes
@@ -6522,6 +6562,7 @@ Zodiac
 Zoroastrians
 Zinc
 Zn
+Zelenskyy
 Xj
 Xkl
 XX
