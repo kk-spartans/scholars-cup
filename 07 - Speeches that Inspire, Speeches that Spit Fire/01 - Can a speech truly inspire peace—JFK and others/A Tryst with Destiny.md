@@ -4,4 +4,4 @@ speaker: Jawaharlal Nehru
 year: "1947"
 ---
 
-This was the speech at midnight of India’s independence, 
+This was the speech at midnight of India’s independence. Mostly a rant about how even though India is free, 
