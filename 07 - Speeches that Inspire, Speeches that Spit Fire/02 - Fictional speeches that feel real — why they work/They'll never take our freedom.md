@@ -6,4 +6,4 @@ link: https://www.youtube.com/watch?v=2aJ3Vfpgh44
 
 What made this effective? The goofiness, the actual conversation, the relatability, and the assertiveness.
 
-Would this have worked in the real world? Abso
+Would this have worked in the real world? Absolutely, if you remove the swearing. Also, if soldiers were the only audience and this was undocumented.
