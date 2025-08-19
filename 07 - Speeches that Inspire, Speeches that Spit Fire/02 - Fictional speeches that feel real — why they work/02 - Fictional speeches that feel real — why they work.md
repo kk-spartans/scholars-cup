@@ -3,4 +3,5 @@
 ```dataview
 table movie-or-show, year
 from "07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work"
+where file.name != "02 - Fictional speeches that feel real — why they work"
 ```
