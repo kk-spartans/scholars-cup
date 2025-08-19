@@ -1,4 +1,4 @@
 - [[01 - Can a speech truly inspire peace—JFK and others]]
-- [[02 - Fictional speeches that feel real: why they work]]
+- [[02 - Fictional speeches that feel real — why they work]]
 - [[03 - Leaders speaking abroad: impact and reception]]
 - [[04 - How broadcasting technology shapes speeches and influence]]
