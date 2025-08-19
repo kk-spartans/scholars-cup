@@ -10,4 +10,4 @@ He is kind of naive over here, keeps romanticizing the “middle class”, under
 
 He also assumes independence is attainable by everyone, which was a bold claim. Also I feel like socialism was worse than fascism in his opinion, which is weird given the timing (1942).
 
-Alsom,
+So this speech is both inspirational and naive.
