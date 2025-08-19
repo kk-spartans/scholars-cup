@@ -210,6 +210,7 @@ inspiration
 invaded
 inequality
 independence
+idealistic
 this
 theme
 titles
@@ -1460,6 +1461,7 @@ metaphorical
 malformed
 molten
 marxist
+midnight
 by
 be
 but
@@ -2563,6 +2565,7 @@ passion
 plastic
 protected
 presidents
+poverty
 In
 Islands
 Is
@@ -4698,6 +4701,7 @@ refuses
 religion
 rejection
 romanticizing
+rant
 Loneliness
 Lowest
 Linked
