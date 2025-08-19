@@ -5,3 +5,5 @@ link: https://www.youtube.com/watch?v=9t1IK_9apWs
 ---
 
 I really don’t like that Will Smith (US President) makes America get all the credit for saving the planet.
+
+But the appreciation that the president gives to the soldiers and
