@@ -8,4 +8,5 @@ where file.name != "01 - What counts as death, and who decides when to keep some
 
 Resuscitation is dragging someone away from the edge of a cliff. Their heart stopped, they’re not breathing, but their brain hasn’t ascended yet. CPR, defibs, adrenaline — basically yelling at the body until it decides to reboot. Works because death is a process, not a switch.
 
-Resurrection is dragging someone up a cliff after they’ve fell down, hit the bottom, and decomposed a bit. 
+Resurrection is dragging someone up a cliff after they’ve fell down, hit the bottom, and decomposed a bit. This is religion — not medicine.
+
