@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Apollo 11"
             }
+          },
+          {
+            "id": "f1874fafe345bd3d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -198,7 +211,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6274f60630ce876e",
+  "active": "f1874fafe345bd3d",
   "lastOpenFiles": [
     "07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting technology shapes speeches and influence/04 - How broadcasting technology shapes speeches and influence.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting technology shapes speeches and influence/Apollo 11.md",

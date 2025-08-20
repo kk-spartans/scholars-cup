@@ -14,4 +14,3 @@ Metaphorical.
  - Grandfather — trees usually mean abundant fuel, so the grandfather is that
  - Brothers — unpredictable, explosive, volatile
  - The poet — the aftermath of all this :(
-

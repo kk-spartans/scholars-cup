@@ -6,7 +6,7 @@ from "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech trul
 where file.name != "01 - Can a speech truly inspire peace—JFK and others"
 ```
 
-## Is it possible to give a passionate speech about peace?
+## Is It Possible To Give A Passionate Speech About Peace?
 
 Yes, it definitely is. If you stop being fascist, and start worrying about the entire world — it is. Just like what JFK did here, specifically deny wanting a Pax Americana (international peace, but overseen by the US/UK), and addressing the entire world.
 
