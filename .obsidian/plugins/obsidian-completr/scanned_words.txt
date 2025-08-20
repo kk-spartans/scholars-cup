@@ -211,6 +211,7 @@ invaded
 inequality
 independence
 idealistic
+increasingly
 this
 theme
 titles
@@ -1080,6 +1081,7 @@ socialism
 significant
 soaring
 space
+suggesting
 were
 with
 world
@@ -2253,6 +2255,7 @@ dread
 dismissing
 distraction
 deny
+doctor
 problem
 pressing
 post
@@ -2581,6 +2584,7 @@ programs
 paragraphs
 prime
 president
+pumping
 In
 Islands
 Is
@@ -4329,6 +4333,7 @@ effective
 equally
 effectiveness
 equals
+efforts
 Common
 Census
 Coffee
@@ -4744,6 +4749,8 @@ repurposed
 rhetoric
 rally
 resistance
+reversible
+resuscitation
 Loneliness
 Lowest
 Linked
@@ -6105,6 +6112,7 @@ fascist
 fascism
 fireside
 flattery
+frantic
 know
 kinda
 kind

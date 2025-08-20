@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daab2b29bb74c830",
+        "id": "a8837ca41a5a57a7",
         "type": "tabs",
         "children": [
           {
-            "id": "b659615cac713f03",
+            "id": "e1706efd7de2234a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - What counts as death, and who decides when to keep someone alive.md",
+                "file": "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/01 - What counts as death, and who decides when to keep someone alive.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,10 +170,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b659615cac713f03",
+  "active": "e1706efd7de2234a",
   "lastOpenFiles": [
-    "08 - Reliving It Up.md",
-    "01 - What counts as death, and who decides when to keep someone alive.md",
+    "08 - Reliving It Up/08 - Reliving It Up.md",
+    "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/01 - What counts as death, and who decides when to keep someone alive.md",
+    "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive",
+    "08 - Reliving It Up",
     "README.md",
     "Untitled.base",
     "react.dev.md",
@@ -201,12 +203,9 @@
     "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others/A Tryst with Destiny.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others/The Forgotten People.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others/01 - Can a speech truly inspire peace—JFK and others.md",
-    "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others/Appeal to the League of Nations.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others",
     "07 - Speeches that Inspire, Speeches that Spit Fire",
     "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical",
-    "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique",
-    "06 - Things Really Do Catch Fire/08 - Tending fire in mythology and daily life",
-    "06 - Things Really Do Catch Fire/06 - History and safety of fireworks"
+    "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique"
   ]
 }
