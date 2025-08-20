@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generated",
+                "query": "clip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
-    "collapsed": true
+    "width": 454.5
   },
   "right": {
     "id": "c516336bcdbc5076",
@@ -170,7 +169,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e1706efd7de2234a",
+  "active": "50c8e266e53a801e",
   "lastOpenFiles": [
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Happy Hunting Grounds.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/01 - What counts as death, and who decides when to keep someone alive.md",
