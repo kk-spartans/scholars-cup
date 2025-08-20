@@ -6,3 +6,6 @@ from "07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting 
 where file.name != "04 - How broadcasting technology shapes speeches and influence"
 ```
 
+Most of these things won’t work on the internet because either:
+
+ - The collective ritual would be lost (Churchil)
