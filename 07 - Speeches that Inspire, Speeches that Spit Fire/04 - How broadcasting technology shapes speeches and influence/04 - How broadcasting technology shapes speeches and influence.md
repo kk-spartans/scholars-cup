@@ -12,3 +12,5 @@ Most of these things won’t work on the internet because either:
  - People would make conspiracy theories (Apollo 11, just spacex did it better)
  - It wouldn’t have been a fair fight (Nixon would’ve had a ring light and a makeup artist on youtube)
  - Wouldn’t have that “Did you hear what happened last night?” (“Miracle On Ice”)
+
+Jazz hour might work, and Eurovision/Intervision is already live on half the internet.
