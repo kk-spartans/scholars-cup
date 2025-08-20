@@ -212,6 +212,7 @@ inequality
 independence
 idealistic
 increasingly
+influenced
 this
 theme
 titles
@@ -1719,6 +1720,7 @@ burnt
 bold
 bully
 bombed
+borrowed
 gpt
 groups
 governments
@@ -2022,6 +2024,7 @@ Selassie
 Seneca
 Speech
 Shakespeare
+Shinto
 distancing
 declared
 discuss
@@ -2256,6 +2259,7 @@ dismissing
 distraction
 deny
 doctor
+demons
 problem
 pressing
 post
@@ -2585,6 +2589,7 @@ paragraphs
 prime
 president
 pumping
+punishments
 In
 Islands
 Is
@@ -3119,6 +3124,7 @@ Early
 Especially
 Eric
 Ethiopia
+Enma
 how
 health
 healthcare
@@ -5291,6 +5297,7 @@ oxide
 oval
 ours
 overseen
+oni
 unemployment
 us
 unbearable
@@ -5637,6 +5644,7 @@ Billy
 Blake
 Braveheart
 Barack
+Buddhism
 Northern
 North
 No
@@ -5735,6 +5743,7 @@ Year
 Yellow
 Yoshitoshi
 Yves
+Yama
 US
 UN
 Unless
@@ -6113,6 +6122,7 @@ fascism
 fireside
 flattery
 frantic
+folklore
 know
 kinda
 kind
@@ -6367,6 +6377,7 @@ Relationships
 Richard
 Roo
 Radio
+Ran
 Japan
 James
 Jr
