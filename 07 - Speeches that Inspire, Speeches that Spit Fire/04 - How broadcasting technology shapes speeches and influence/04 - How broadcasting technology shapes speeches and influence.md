@@ -5,3 +5,4 @@ list
 from "07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting technology shapes speeches and influence"
 where file.name != "04 - How broadcasting technology shapes speeches and influence"
 ```
+
