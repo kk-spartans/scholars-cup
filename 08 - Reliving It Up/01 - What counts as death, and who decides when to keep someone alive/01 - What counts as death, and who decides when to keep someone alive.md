@@ -15,3 +15,4 @@ Resurrection is dragging someone up a cliff after they’ve fell down, hit the b
 In my opinion — the things that matter are
 
  - Who it is — if there’s no one in this world that wants a person back, not even themselves, should the really be brough back?
+ - Brain intactness — If the cortex and key networks are gone, what’s there in their brain that makes them, them? You might have a beating heart, but zero *you* left.
