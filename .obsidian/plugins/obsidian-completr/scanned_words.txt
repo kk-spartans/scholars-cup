@@ -1083,6 +1083,7 @@ significant
 soaring
 space
 suggesting
+samsara
 were
 with
 world
@@ -2260,6 +2261,7 @@ distraction
 deny
 doctor
 demons
+desire
 problem
 pressing
 post
@@ -2805,6 +2807,7 @@ Handel
 Haydn
 Hogan
 Haile
+Hinduism
 Organization
 Older
 Otherwise
@@ -4340,6 +4343,7 @@ equally
 effectiveness
 equals
 efforts
+ego
 Common
 Census
 Coffee
@@ -4757,6 +4761,7 @@ rally
 resistance
 reversible
 resuscitation
+rebirth
 Loneliness
 Lowest
 Linked
@@ -4832,6 +4837,7 @@ Lewis
 Linda
 Liddell
 League
+Liberation
 Data
 Digital
 Discalimer
