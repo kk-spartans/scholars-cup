@@ -8,4 +8,6 @@ where file.name != "04 - How broadcasting technology shapes speeches and influen
 
 Most of these things won’t work on the internet because either:
 
- - The collective ritual would be lost (Churchil)
+ - The collective ritual would be lost (Churchill)
+ - People would make conspiracy theories (Apollo 11, just spacex did it better)
+ - 
