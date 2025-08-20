@@ -6,4 +6,4 @@ from "08 - Reliving It Up/01 - What counts as death, and who decides when to kee
 where file.name != "01 - What counts as death, and who decides when to keep someone alive"
 ```
 
-Resuscitation is dragging someone away from the edge of a cliff. Their heart stopped, they’re not breathing, but their brain hasn’t no
+Resuscitation is dragging someone away from the edge of a cliff. Their heart stopped, they’re not breathing, but their brain hasn’t ascended yet. CPR, defibs, adrenaline —
