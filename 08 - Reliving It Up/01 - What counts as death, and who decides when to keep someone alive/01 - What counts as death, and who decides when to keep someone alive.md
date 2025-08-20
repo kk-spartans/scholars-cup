@@ -10,4 +10,8 @@ Resuscitation is dragging someone away from the edge of a cliff. Their heart sto
 
 Resurrection is dragging someone up a cliff after they’ve fell down, hit the bottom, and decomposed a bit. This is religion — not medicine.
 
-## 
+## Bringing people back to life
+
+In my opinion — the things that matter are
+
+ - Who it is — if there’s no one in this world that wants a person back, not even themselves, should the really be brough back?
