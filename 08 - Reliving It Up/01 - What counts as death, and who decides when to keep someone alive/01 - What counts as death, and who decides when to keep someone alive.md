@@ -1,5 +1,8 @@
 > “Time of death,” says a doctor on TV, after frantic efforts to get someone’s heart pumping again fail, “5:11 am.” If it were only that simple! Research is increasingly suggesting that [death is a complex process](https://www.technologyreview.com/2023/11/17/1082937/what-is-death/), sometimes reversible—sometimes not. Explore the differences between resuscitation and resurrection, then, without getting too dark, discuss with your team: how much of a person’s mind needs to be intact for it to be a good idea to keep them alive—and who should decide? You may also want to explore some historical ideas about what happens after death.
 
 ```dataview
-listf
+list
+from "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive"
+where file.name != "01 - What counts as death, and who decides when to keep someone alive"
 ```
+
