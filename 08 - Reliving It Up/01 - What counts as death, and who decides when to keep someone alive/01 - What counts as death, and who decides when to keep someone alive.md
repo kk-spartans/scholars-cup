@@ -18,4 +18,4 @@ In my opinion — the things that matter are
  - Brain intactness — If the cortex and key networks are gone, what’s there in their brain that makes them, them? You might have a beating heart, but zero *you* left.
  - Who decides — law, doctors, relatives
 
-If that person has nothing, un
+If that person has nothing that differentiates them from a generic “human”, there’s no point in it. 
