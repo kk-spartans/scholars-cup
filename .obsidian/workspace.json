@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "Apollo 11"
             }
-          },
-          {
-            "id": "f1874fafe345bd3d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +199,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f1874fafe345bd3d",
+  "active": "6274f60630ce876e",
   "lastOpenFiles": [
     "07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting technology shapes speeches and influence/04 - How broadcasting technology shapes speeches and influence.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting technology shapes speeches and influence/Apollo 11.md",
