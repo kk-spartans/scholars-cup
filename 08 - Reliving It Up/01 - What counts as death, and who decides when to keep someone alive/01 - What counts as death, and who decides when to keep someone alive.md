@@ -6,3 +6,4 @@ from "08 - Reliving It Up/01 - What counts as death, and who decides when to kee
 where file.name != "01 - What counts as death, and who decides when to keep someone alive"
 ```
 
+Resuscitation is dragging someone off the 
