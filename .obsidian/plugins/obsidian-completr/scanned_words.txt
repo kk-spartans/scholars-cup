@@ -1489,6 +1489,7 @@ mediums
 minister
 morale
 medicine
+mimicking
 by
 be
 but
@@ -2292,6 +2293,7 @@ decides
 decomposed
 doctors
 differentiates
+donor
 problem
 pressing
 post
@@ -4155,6 +4157,7 @@ ascended
 adrenaline
 alternative
 anesthesia
+amputating
 epidemic
 etc
 emotional
@@ -5223,6 +5226,7 @@ Magnesium
 Manganese
 Menzies
 Mexico
+Machines
 on
 of
 opinion
