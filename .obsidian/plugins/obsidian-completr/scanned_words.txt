@@ -214,6 +214,7 @@ idealistic
 increasingly
 influenced
 intactness
+immediate
 this
 theme
 titles
@@ -486,6 +487,7 @@ tiger
 takeaway
 thrives
 traveling
+tired
 The
 There
 That
@@ -599,6 +601,7 @@ Teachers
 Turner
 Tsukioka
 Trump
+Twists
 short
 social
 so
@@ -1085,6 +1088,7 @@ soaring
 space
 suggesting
 samsara
+stuck
 were
 with
 world
@@ -1236,6 +1240,9 @@ whines
 worrying
 wanting
 worked
+wardrobe
+wipes
+wishes
 made
 major
 many
@@ -1855,6 +1862,7 @@ gold
 gorilla
 given
 generic
+grind
 Sometimes
 SE
 Sparse
@@ -2032,6 +2040,7 @@ Seneca
 Speech
 Shakespeare
 Shinto
+Satisfaction
 distancing
 declared
 discuss
@@ -2604,6 +2613,7 @@ prime
 president
 pumping
 punishments
+portal
 In
 Islands
 Is
@@ -3053,6 +3063,8 @@ lamb
 leaders
 lovely
 leverage
+losers
+lonely
 Explore
 Eastern
 Europe
@@ -3140,6 +3152,7 @@ Especially
 Eric
 Ethiopia
 Enma
+Escapism
 how
 health
 healthcare
@@ -3809,6 +3822,7 @@ vapor
 vertices
 villages
 visit
+villainess
 your
 you
 young
@@ -4127,6 +4141,7 @@ allies
 astronauts
 ascended
 adrenaline
+alternative
 epidemic
 etc
 emotional
@@ -4361,6 +4376,8 @@ effectiveness
 equals
 efforts
 ego
+endless
+exciting
 Common
 Census
 Coffee
@@ -4504,6 +4521,7 @@ Caches
 Cash
 Churchill
 CPR
+Characters
 regions
 risk
 region
@@ -4781,6 +4799,7 @@ reversible
 resuscitation
 rebirth
 relatives
+reincarnation
 Loneliness
 Lowest
 Linked
@@ -5323,6 +5342,8 @@ oval
 ours
 overseen
 oni
+offer
+overpowered
 unemployment
 us
 unbearable
@@ -5569,6 +5590,7 @@ night
 newfound
 naive
 networks
+nobodies
 Best
 But
 Boston
@@ -6151,6 +6173,7 @@ fireside
 flattery
 frantic
 folklore
+fantastical
 know
 kinda
 kind
@@ -6295,6 +6318,7 @@ Frideric
 Forrest
 FDR
 Franklin
+Fulfilled
 just
 justice
 jokes

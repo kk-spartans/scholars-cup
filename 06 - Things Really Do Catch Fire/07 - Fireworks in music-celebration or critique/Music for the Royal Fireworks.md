@@ -8,4 +8,4 @@ The song is... mid.
 
 It doesn’t have lyrics, but the *enthusiastic-ish* instruments sound like it’s celebrating fireworks.
 
-The trumpets are whatever wind instrument that was is the main noise coming from this song. That definetly *channels* the feeling of fireworks.
+The trumpets are whatever wind instrument that was is the main noise coming from this song. That definitely *channels* the feeling of fireworks.
