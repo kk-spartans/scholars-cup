@@ -4,4 +4,6 @@ I see 5 common themes over here:
 
  - Characters were losers, nobodies, and stuck in their old life — death wipes the slate clean.
  - Escapism.
- - Fulfilled wishes  (overpowered, immediate clout)
+ - Fulfilled wishes (overpowered, immediate clout)
+ - Twists of villianess
+ - Satisfaction of “look w”
