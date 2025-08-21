@@ -8,4 +8,4 @@ I see 5 common themes over here:
  - Twists of villainess
  - Satisfaction of “look who’s winning now”
 
-It’s popular because modern life is just flat. A lot of people are tired, lonely, 
+It’s popular because modern life is just flat. A lot of people are tired, lonely, and in endless cycles of school-home-sleep. This is a fantasy where you can literally *die* 
