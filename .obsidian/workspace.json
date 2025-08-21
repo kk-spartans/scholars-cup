@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "03 - Would you choose scientific immortality—and should anyone"
             }
+          },
+          {
+            "id": "9c1eed1383670c8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e1706efd7de2234a",
+  "active": "9c1eed1383670c8d",
   "lastOpenFiles": [
     "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/03 - Would you choose scientific immortality—and should anyone.md",
     "02 - The Best is Yet to Be, or Not To Be/05 - Birth rates, bad times, and the future of humanity/05 - Birth rates, bad times, and the future of humanity.md",
