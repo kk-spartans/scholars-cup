@@ -1,1 +1,1 @@
-Freezing bodies at -196C hoping that future technology will somehow be able to resurrect them. There is no guarantee that someh  
+Freezing bodies at -196C hoping that future technology will somehow be able to resurrect them. There is no guarantee that we’ll be able to bring these frozen bodies back to life — but why not?  
