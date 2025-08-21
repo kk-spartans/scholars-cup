@@ -5,3 +5,5 @@ list
 from "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone"
 where file.name != "03 - Would you choose scientific immortality—and should anyone"
 ```
+
+We need to [[|reduce the population]]
