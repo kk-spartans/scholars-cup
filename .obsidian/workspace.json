@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/01 - What counts as death, and who decides when to keep someone alive.md",
+                "file": "08 - Reliving It Up/08 - Reliving It Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - What counts as death, and who decides when to keep someone alive"
+              "title": "08 - Reliving It Up"
             }
           }
         ]
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5,
-    "collapsed": true
+    "width": 527.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +169,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e1706efd7de2234a",
+  "active": "ae507a8952da7a2a",
   "lastOpenFiles": [
-    "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Happy Hunting Grounds.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/01 - What counts as death, and who decides when to keep someone alive.md",
+    "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Happy Hunting Grounds.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Samsara.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Nirvana.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Jigoku.md",
