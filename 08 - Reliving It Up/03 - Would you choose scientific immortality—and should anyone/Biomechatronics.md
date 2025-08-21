@@ -1,1 +1,1 @@
-Machines mimicking human body parts to be a replacement to amputating donor parts into a body. They mostly can do everything the original body part can do —  
+Machines mimicking human body parts to be a replacement to amputating donor parts into a body. They can do everything t 
