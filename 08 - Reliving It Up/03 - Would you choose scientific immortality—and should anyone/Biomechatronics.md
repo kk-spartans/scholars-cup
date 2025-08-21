@@ -1,1 +1,1 @@
-Machines mimicking human body parts  
+Machines mimicking human body parts to be a replacement to amputate  
