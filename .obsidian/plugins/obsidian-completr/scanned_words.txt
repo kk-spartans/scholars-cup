@@ -4813,6 +4813,7 @@ resuscitation
 rebirth
 relatives
 reincarnation
+resurrect
 Loneliness
 Lowest
 Linked
@@ -6337,6 +6338,7 @@ Forrest
 FDR
 Franklin
 Fulfilled
+Freezing
 just
 justice
 jokes
