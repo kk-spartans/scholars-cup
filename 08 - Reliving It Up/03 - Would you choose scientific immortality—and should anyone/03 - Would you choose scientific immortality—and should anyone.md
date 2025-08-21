@@ -6,4 +6,4 @@ from "08 - Reliving It Up/03 - Would you choose scientific immortality—and sho
 where file.name != "03 - Would you choose scientific immortality—and should anyone"
 ```
 
-We need to [[05 - Birth rates, bad times, and the future of humanity#^a6a4ad|reduce the population]] — not increase it. It would (in this world)
+We need to [[05 - Birth rates, bad times, and the future of humanity#^a6a4ad|reduce the population]] — not increase it. It would (right now) not be good for society if people lived for centuries, because we don’t have enoguh
