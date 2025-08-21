@@ -10,6 +10,7 @@ I see 5 common themes over here:
 
 It’s popular because modern life is just flat. A lot of people are tired, lonely, and in endless cycles of school-home-sleep. This is a fantasy where you can literally *die* out of that grind and wake up somewhere exciting.
 
-Our world could definitely be a fantasy for someone else. Imagine a mede
+Our world could definitely be a fantasy for someone else. Imagine a medieval villager here:
 
  - Running water — black magic
+ - Smartphones — alien technology
