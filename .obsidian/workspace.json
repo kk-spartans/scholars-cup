@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Reliving It Up/02 - Reincarnation stories and why they resonate today.md",
+                "file": "08 - Reliving It Up/08 - Reliving It Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Reincarnation stories and why they resonate today"
+              "title": "08 - Reliving It Up"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stupid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 454.5,
+    "collapsed": true
   },
   "right": {
     "id": "c516336bcdbc5076",
@@ -169,10 +170,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "50c8e266e53a801e",
+  "active": "e1706efd7de2234a",
   "lastOpenFiles": [
+    "08 - Reliving It Up/02 - Reincarnation stories and why they resonate today/02 - Reincarnation stories and why they resonate today.md",
+    "08 - Reliving It Up/02 - Reincarnation stories and why they resonate today",
     "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique/Music for the Royal Fireworks.md",
-    "08 - Reliving It Up/02 - Reincarnation stories and why they resonate today.md",
     "08 - Reliving It Up/08 - Reliving It Up.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/01 - What counts as death, and who decides when to keep someone alive.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Happy Hunting Grounds.md",
@@ -201,11 +203,9 @@
     "07 - Speeches that Inspire, Speeches that Spit Fire/03 - Leaders speaking abroad — impact and reception/03 - Leaders speaking abroad — impact and reception.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting technology shapes speeches and influence",
     "07 - Speeches that Inspire, Speeches that Spit Fire/03 - Leaders speaking abroad — impact and reception",
-    "07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work/02 - Fictional speeches that feel real — why they work.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work",
     "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others",
     "07 - Speeches that Inspire, Speeches that Spit Fire",
-    "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical",
-    "06 - Things Really Do Catch Fire/07 - Fireworks in music-celebration or critique"
+    "06 - Things Really Do Catch Fire/09 - Fire in art and literature - literal vs. metaphorical"
   ]
 }
