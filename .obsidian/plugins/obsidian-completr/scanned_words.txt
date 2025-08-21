@@ -489,6 +489,7 @@ thrives
 traveling
 tired
 treatments
+tortured
 The
 There
 That
@@ -1091,6 +1092,8 @@ suggesting
 samsara
 stuck
 separately
+stupidity
+surgery
 were
 with
 world
@@ -1245,6 +1248,7 @@ worked
 wardrobe
 wipes
 wishes
+wears
 made
 major
 many
@@ -1867,6 +1871,7 @@ given
 generic
 grind
 graph
+gun
 Sometimes
 SE
 Sparse
@@ -3760,6 +3765,7 @@ channeled
 cliff
 cortex
 crossed
+cryonics
 varies
 vibe
 versions
@@ -4147,6 +4153,7 @@ astronauts
 ascended
 adrenaline
 alternative
+anesthesia
 epidemic
 etc
 emotional
@@ -5600,6 +5607,7 @@ naive
 networks
 nobodies
 nature
+nerf
 Best
 But
 Boston
