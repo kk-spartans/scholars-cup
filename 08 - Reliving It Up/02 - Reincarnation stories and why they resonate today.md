@@ -2,5 +2,6 @@
 
 I see 5 common themes over here:
 
- - Characters were losers, nobodies, and stuck in their old life — death wipes the slate cleamn.
- - Escapi
+ - Characters were losers, nobodies, and stuck in their old life — death wipes the slate clean.
+ - Escapism.
+ - Fulfilled wishes  (overpowered, immediate clout)
