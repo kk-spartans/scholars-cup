@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Reliving It Up/08 - Reliving It Up.md",
+                "file": "08 - Reliving It Up/02 - Reincarnation stories and why they resonate today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - Reliving It Up"
+              "title": "02 - Reincarnation stories and why they resonate today"
             }
           }
         ]
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 527.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +170,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ae507a8952da7a2a",
+  "active": "e1706efd7de2234a",
   "lastOpenFiles": [
+    "08 - Reliving It Up/08 - Reliving It Up.md",
+    "08 - Reliving It Up/02 - Reincarnation stories and why they resonate today.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/01 - What counts as death, and who decides when to keep someone alive.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Happy Hunting Grounds.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Samsara.md",
@@ -180,7 +183,6 @@
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Diyu.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Tartarus.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Valhalla.md",
-    "08 - Reliving It Up/08 - Reliving It Up.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive",
     "08 - Reliving It Up",
     "Untitled.base",
@@ -201,7 +203,6 @@
     "07 - Speeches that Inspire, Speeches that Spit Fire/03 - Leaders speaking abroad — impact and reception",
     "07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work/02 - Fictional speeches that feel real — why they work.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work/We're a great one too.md",
-    "07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work/The streets of heaven are too crowded.md",
     "07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work",
     "07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others",
     "07 - Speeches that Inspire, Speeches that Spit Fire",
