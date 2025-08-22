@@ -217,6 +217,7 @@ intactness
 immediate
 important
 immortality
+interested
 this
 theme
 titles
@@ -493,6 +494,9 @@ tired
 treatments
 tortured
 trapped
+tweaking
+thawing
+transmission
 The
 There
 That
@@ -1102,6 +1106,13 @@ surgery
 skewed
 storytellers
 spends
+scratch
+synthesize
+synthetic
+synthesizing
+spills
+scientists
+studying
 were
 with
 world
@@ -1505,6 +1516,8 @@ ministries
 mortality
 manga
 mortals
+meat
+microbes
 by
 be
 but
@@ -1759,6 +1772,11 @@ brough
 balance
 begged
 beauty
+biology
+bioengineering
+bacteria
+biofuels
+boon
 gpt
 groups
 governments
@@ -1895,6 +1913,7 @@ genetically
 gatherer
 goddess
 gift
+generating
 Sometimes
 SE
 Sparse
@@ -2077,6 +2096,7 @@ Seoul
 Sejong
 Sufficient
 Shelley
+Space
 distancing
 declared
 discuss
@@ -2660,6 +2680,12 @@ primarily
 portrays
 passed
 pleads
+polio
+personalized
+pump
+plastics
+photosynthesize
+permafrost
 In
 Islands
 Is
@@ -2878,6 +2904,7 @@ Haydn
 Hogan
 Haile
 Hinduism
+Healthcare
 Organization
 Older
 Otherwise
@@ -3822,6 +3849,7 @@ consumption
 crises
 cure
 calls
+concerning
 varies
 vibe
 versions
@@ -3890,6 +3918,10 @@ vertices
 villages
 visit
 villainess
+virus
+versus
+vaccines
+virologists
 your
 you
 young
@@ -4217,6 +4249,11 @@ agencies
 average
 attractive
 ageless
+advances
+applications
+assembling
+arctic
+adventurous
 epidemic
 etc
 emotional
@@ -4458,6 +4495,8 @@ elf
 exploring
 eternity
 envies
+emerging
+exploration
 Common
 Census
 Coffee
@@ -4602,6 +4641,7 @@ Cash
 Churchill
 CPR
 Characters
+Cleaning
 regions
 risk
 region
@@ -4884,6 +4924,11 @@ resurrect
 residents
 relocated
 reside
+researchers
+reconstruct
+respire
+repository
+raises
 Loneliness
 Lowest
 Linked
@@ -5297,6 +5342,7 @@ Menzies
 Mexico
 Machines
 Mary
+Meanwhile
 on
 of
 opinion
@@ -5434,6 +5480,7 @@ offer
 overpowered
 obtain
 organism
+organisms
 unemployment
 us
 unbearable
@@ -5794,6 +5841,7 @@ Bringing
 Brain
 Beyond
 Bradbury
+Biology
 Northern
 North
 No
