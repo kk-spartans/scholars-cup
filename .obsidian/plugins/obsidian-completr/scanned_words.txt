@@ -215,6 +215,7 @@ increasingly
 influenced
 intactness
 immediate
+important
 this
 theme
 titles
@@ -1249,6 +1250,7 @@ wardrobe
 wipes
 wishes
 wears
+wrap
 made
 major
 many
@@ -1490,6 +1492,7 @@ minister
 morale
 medicine
 mimicking
+ministries
 by
 be
 but
@@ -1873,6 +1876,7 @@ generic
 grind
 graph
 gun
+governing
 Sometimes
 SE
 Sparse
@@ -2051,6 +2055,9 @@ Speech
 Shakespeare
 Shinto
 Satisfaction
+Seoul
+Sejong
+Sufficient
 distancing
 declared
 discuss
@@ -2626,6 +2633,8 @@ pumping
 punishments
 portal
 plenty
+planned
+primarily
 In
 Islands
 Is
@@ -2691,6 +2700,7 @@ Investigate
 Ignites
 Initially
 Igor
+Initial
 World
 Worldwide
 WHO
@@ -3332,6 +3342,7 @@ heated
 hurt
 hypocrisy
 hasn
+hoped
 concern
 can
 countries
@@ -3770,6 +3781,10 @@ cliff
 cortex
 crossed
 cryonics
+capital
+congested
+completion
+complete
 varies
 vibe
 versions
@@ -4159,6 +4174,8 @@ adrenaline
 alternative
 anesthesia
 amputating
+administrative
+agencies
 epidemic
 etc
 emotional
@@ -4818,6 +4835,9 @@ rebirth
 relatives
 reincarnation
 resurrect
+residents
+relocated
+reside
 Loneliness
 Lowest
 Linked
@@ -5132,6 +5152,7 @@ Admins
 Alberto
 Americana
 Actually
+Alphabet
 Mediterranean
 Middle
 More
@@ -5615,6 +5636,8 @@ networks
 nobodies
 nature
 nerf
+newly
+numerous
 Best
 But
 Boston
@@ -5782,6 +5805,7 @@ Napalm
 Nations
 Nehru
 Nazi
+National
 Young
 Yes
 You
@@ -6198,6 +6222,7 @@ flattery
 frantic
 folklore
 fantastical
+final
 know
 kinda
 kind
@@ -6344,6 +6369,7 @@ FDR
 Franklin
 Fulfilled
 Freezing
+Full
 just
 justice
 jokes
@@ -6614,6 +6640,8 @@ KCl
 KNO
 Katy
 Klein
+King
+Korean
 zeal
 zoom
 zU

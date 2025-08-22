@@ -21,3 +21,5 @@ To be clear, when something is ai generated - it's **explicitly** mentioned (oth
 Anything above the “(gpt4o/5/whatever model generated)” — **I wrote**. And if there’s a hr (`---`) below it, the AI part ends.
 
 Just because something isn’t labelled AI doesn’t mean the entire thing is completely written by me — that’s never true, for anything.
+
+All links to wikepedia
