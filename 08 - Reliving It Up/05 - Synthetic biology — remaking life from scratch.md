@@ -2,4 +2,8 @@
 
 Synthetic Biology: bioengineering, but instead of just tweaking existing organisms, you design and build completely [new parts or whole organisms](https://www.youtube.com/watch?v=F0_q-fD_lyU).
 
-Making things: Asse
+Making things is assembling already existing parts, synthesizing is *generating the parts*.
+
+---
+
+This could be use
