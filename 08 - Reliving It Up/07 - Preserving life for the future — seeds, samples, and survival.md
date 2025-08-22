@@ -12,4 +12,8 @@ A place in Svalbard that holds all of oreo’s recipes, right down the road from
 
 ## Arctic World archive
 
-Digitized cultural and historical records, from mexico, brazil, and norway. S
+Digitized cultural and historical records, from mexico, brazil, and norway. Same mountain as the seed vault.
+
+## Global Music Vault
+
+Inside the AWA, has og quality recordings of music from across the world. Exists to protect the 
