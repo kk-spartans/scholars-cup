@@ -11,3 +11,5 @@ We need to [[05 - Birth rates, bad times, and the future of humanity#^a6a4ad|red
 And cryonics can’t fix stupidity —  if you accidentally shoot yourself in the head with a nerf gun when your anesthesia wears off during open brain surgery, you can’t fix that. 
 
 In this world, I wouldn’t take any of this — in a world where land is plenty and the economy is large, I would.
+
+The thing is, we’ve already been expanding our lives a lot since hunter-gatherer humans — their average lifep
