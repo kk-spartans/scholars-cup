@@ -2,4 +2,8 @@
 
 Permafrost isn’t just cold, it’s dark and oxygen free. So microbes and viruses stay locked up in suspended animations for dozens of thousands years.
 
-But global warming is speeding up thawing 
+But global warming is speeding up thawing, which cracks those open. Now scientists suddenly have access to:
+
+ - Ancient pathogens
+ - Preserved specimens
+ - Frozen pollutants
