@@ -7,3 +7,5 @@ But global warming is speeding up thawing, which cracks those open. Now scientis
  - Ancient pathogens
  - Preserved specimens
  - Frozen pollutants
+
+But the arctics collection in uncontrolled, and melting in real time — unlike the UK’s NCTC. 
