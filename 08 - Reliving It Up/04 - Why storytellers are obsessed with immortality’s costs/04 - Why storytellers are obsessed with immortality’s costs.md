@@ -3,8 +3,9 @@
 I think this is attractive because of loneliness, boredom, consumption, and having identity crises (these are also just implications of immortality).
 
 ```dataview
-list
-from "08 - Reliving It Up/"
+table author, year, link
+from "08 - Reliving It Up/04 - Why storytellers are obsessed with immortality’s costs"
+where file.name != "04 - Why storytellers are obsessed with immortality’s costs"
 ```
 
 <!-- There isn’t anything to review in the artworks — I need a break --> 
