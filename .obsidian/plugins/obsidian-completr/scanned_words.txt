@@ -1095,6 +1095,7 @@ stuck
 separately
 stupidity
 surgery
+skewed
 were
 with
 world
@@ -1493,6 +1494,7 @@ morale
 medicine
 mimicking
 ministries
+mortality
 by
 be
 but
@@ -1878,6 +1880,7 @@ graph
 gun
 governing
 genetically
+gatherer
 Sometimes
 SE
 Sparse
@@ -3089,6 +3092,7 @@ leverage
 losers
 lonely
 labelled
+lifespans
 Explore
 Eastern
 Europe
@@ -3344,6 +3348,7 @@ hurt
 hypocrisy
 hasn
 hoped
+hunter
 concern
 can
 countries
@@ -4177,6 +4182,7 @@ anesthesia
 amputating
 administrative
 agencies
+average
 epidemic
 etc
 emotional
@@ -4413,6 +4419,7 @@ efforts
 ego
 endless
 exciting
+expanding
 Common
 Census
 Coffee
