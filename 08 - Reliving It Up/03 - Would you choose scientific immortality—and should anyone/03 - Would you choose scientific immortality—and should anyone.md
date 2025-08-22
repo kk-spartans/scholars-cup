@@ -14,4 +14,4 @@ In this world, I wouldn’t take any of this — in a world where land is plenty
 
 ---
 
-The thing is, we’ve already been expanding our lives a lot since hunter-gatherer humans — their average lifespans were 25-35 years (skewed by child mortality, but still). Right now, it’s about 70.
+The thing is, we’ve already been expanding our lives a lot since hunter-gatherer humans — their average lifespans were 25-35 years (skewed by child mortality, but still). Right now, it’s about 70, all because of medicine.
