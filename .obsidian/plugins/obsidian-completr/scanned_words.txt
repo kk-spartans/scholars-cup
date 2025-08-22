@@ -1113,6 +1113,10 @@ synthesizing
 spills
 scientists
 studying
+suspended
+speeding
+specimens
+soo
 were
 with
 world
@@ -1518,6 +1522,7 @@ manga
 mortals
 meat
 microbes
+mention
 by
 be
 but
@@ -2686,6 +2691,8 @@ pump
 plastics
 photosynthesize
 permafrost
+pathogens
+pollutants
 In
 Islands
 Is
@@ -3143,6 +3150,7 @@ lonely
 labelled
 lifespans
 loves
+locked
 Explore
 Eastern
 Europe
@@ -3922,6 +3930,7 @@ virus
 versus
 vaccines
 virologists
+viruses
 your
 you
 young
@@ -4254,6 +4263,7 @@ applications
 assembling
 arctic
 adventurous
+arctics
 epidemic
 etc
 emotional
@@ -4929,6 +4939,7 @@ reconstruct
 respire
 repository
 raises
+repos
 Loneliness
 Lowest
 Linked
@@ -5568,6 +5579,8 @@ underestimates
 unprecedented
 undergo
 undo
+uncontrolled
+unlike
 Virtually
 Voiceover
 Visual
@@ -5906,6 +5919,7 @@ Nations
 Nehru
 Nazi
 National
+NCTC
 Young
 Yes
 You
@@ -6097,6 +6111,8 @@ Perry
 Prokofiev
 Pax
 PM
+Permafrost
+Preserved
 forming
 fictional
 feels
@@ -6473,6 +6489,7 @@ Fulfilled
 Freezing
 Full
 Frieren
+Frozen
 just
 justice
 jokes
