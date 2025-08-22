@@ -1,6 +1,6 @@
 ## What Happened Before
 
-The Big Dig was a megaproject in Boston that rerouted the elevated Central Artery of Interstate 93 into the O'Neill Tunnel and built the Ted Williams Tunnel to extend Interstate 90 to Logan International Airport. ([wikepedia](https://en.wikipedia.org/w/index.php?title=Big_Dig&oldid=1297231972)).
+The Big Dig was a megaproject in Boston that rerouted the elevated Central Artery of Interstate 93 into the O'Neill Tunnel and built the Ted Williams Tunnel to extend Interstate 90 to Logan International Airport. ([wikipedia](https://en.wikipedia.org/w/index.php?title=Big_Dig&oldid=1297231972)).
 
 This had been a problem since the 1930s, although it was slightly mitigated by the fact that in the 1950s, Governor John Volpe interceded to change the design of the last section of the Central Artery, putting it underground through the Dewey Square Tunnel.
 
