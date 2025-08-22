@@ -6,8 +6,10 @@ Making things is assembling already existing parts, synthesizing is *generating 
 
 ---
 
-This could be used in 
+This could be used in: 
 
- - healthcare (imagine cooking up personalized vaccines in hours)
- - food (lab grown meat)
- - electricity ...? bacteria that pump out biofuels), cleaning the environment (microbes that eat oil spills and plastics), space exploration (bacteria that photosynthesize with light frequencies we want and respire almost nothing)
+ - Healthcare (imagine cooking up personalized vaccines in hours)
+ - Food (lab grown meat)
+ - Electricity...? (bacteria that pump out biofuels)
+ - Cleaning the environment (microbes that eat oil spills and plastics)
+ - Space exploration (bacteria that photosynthesize with light frequencies we want and respire almost nothing)
