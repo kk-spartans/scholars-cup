@@ -2,4 +2,9 @@
 
 I think this is attractive because of loneliness, boredom, consumption, and having identity crises (these are also just implications of immortality).
 
+```dataview
+list
+from "08 - Reliving It Up/"
+```
+
 <!-- There isn’t anything to review in the artworks — I need a break --> 
