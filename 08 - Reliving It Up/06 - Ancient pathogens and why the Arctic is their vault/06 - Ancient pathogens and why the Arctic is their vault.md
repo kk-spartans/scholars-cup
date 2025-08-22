@@ -12,4 +12,4 @@ But the arctics collection in uncontrolled, and melting in real time — unlike 
 
 ---
 
-The [Global Seed Vault](https://en.wikipedia.org/w/index.php?title=Svalbard_Global_Seed_Vault&oldid=1303802826) is also something  
+The [Global Seed Vault](https://en.wikipedia.org/w/index.php?title=Svalbard_Global_Seed_Vault&oldid=1303802826) is also something to mention here, it’s very useful.  
