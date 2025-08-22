@@ -14,4 +14,4 @@ This could be used in:
  - Cleaning the environment (microbes that eat oil spills and plastics)
  - Space exploration (bacteria that photosynthesize with light frequencies we want and respire almost nothing)
 
-To help people,
+To help people, this could go miles.
