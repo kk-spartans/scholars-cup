@@ -22,4 +22,5 @@ Inside the AWA, has og quality recordings of music from across the world. Exists
 
 A backup of every single github repo on 02/02/2020 (no commit history), which:
 
- - 
+ - Has commits after 13/11/2019
+ - Has atleast one star and has commits 
