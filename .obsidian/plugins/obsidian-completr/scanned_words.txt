@@ -2066,6 +2066,7 @@ Satisfaction
 Seoul
 Sejong
 Sufficient
+Shelley
 distancing
 declared
 discuss
@@ -5273,6 +5274,7 @@ Manganese
 Menzies
 Mexico
 Machines
+Mary
 on
 of
 opinion
