@@ -1,3 +1,4 @@
 Can clone a person partly to fully:
 
- - Voice Cloning (*cough* Bark *cough*)
+ - Voice Cloning ([Bark](https://huggingface.co/suno/bark))
+ - Cloning Behavior — training an AI model ()
