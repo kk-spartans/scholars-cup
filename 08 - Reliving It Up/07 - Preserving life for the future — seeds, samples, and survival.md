@@ -12,4 +12,4 @@ A place in Svalbard that holds all of oreo’s recipes, right down the road from
 
 ## Arctic World archive
 
-Digitized cultural and historical records, from mexico, brazil, and norway
+Digitized cultural and historical records, from mexico, brazil, and norway. S
