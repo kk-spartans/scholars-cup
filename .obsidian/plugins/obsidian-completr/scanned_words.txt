@@ -492,6 +492,7 @@ traveling
 tired
 treatments
 tortured
+trapped
 The
 There
 That
@@ -607,6 +608,7 @@ Tsukioka
 Trump
 Twists
 Tennyson
+Tithonus
 short
 social
 so
@@ -1099,6 +1101,7 @@ stupidity
 surgery
 skewed
 storytellers
+spends
 were
 with
 world
@@ -1255,6 +1258,8 @@ wipes
 wishes
 wears
 wrap
+watches
+wishing
 made
 major
 many
@@ -1499,6 +1504,7 @@ mimicking
 ministries
 mortality
 manga
+mortals
 by
 be
 but
@@ -1751,6 +1757,8 @@ breathing
 bottom
 brough
 balance
+begged
+beauty
 gpt
 groups
 governments
@@ -1885,6 +1893,8 @@ gun
 governing
 genetically
 gatherer
+goddess
+gift
 Sometimes
 SE
 Sparse
@@ -2310,6 +2320,9 @@ decomposed
 doctors
 differentiates
 donor
+drinks
+dawn
+decaying
 problem
 pressing
 post
@@ -2646,6 +2659,7 @@ planned
 primarily
 portrays
 passed
+pleads
 In
 Islands
 Is
@@ -3101,6 +3115,7 @@ losers
 lonely
 labelled
 lifespans
+loves
 Explore
 Eastern
 Europe
@@ -3190,6 +3205,7 @@ Ethiopia
 Enma
 Escapism
 End
+Eos
 how
 health
 healthcare
@@ -3804,6 +3820,8 @@ companions
 consequences
 consumption
 crises
+cure
+calls
 varies
 vibe
 versions
@@ -3906,6 +3924,7 @@ yay
 younger
 yearning
 yoinks
+youth
 agree
 and
 around
@@ -4197,6 +4216,7 @@ administrative
 agencies
 average
 attractive
+ageless
 epidemic
 etc
 emotional
@@ -4436,6 +4456,8 @@ exciting
 expanding
 elf
 exploring
+eternity
+envies
 Common
 Census
 Coffee
@@ -5498,6 +5520,7 @@ underplays
 underestimates
 unprecedented
 undergo
+undo
 Virtually
 Voiceover
 Visual
@@ -6252,6 +6275,7 @@ frantic
 folklore
 fantastical
 final
+forgot
 know
 kinda
 kind
@@ -6635,6 +6659,7 @@ Glittery
 Griffier
 Gander
 Graham
+Guy
 Killing
 Know
 Keep
