@@ -2,4 +2,4 @@
 
 The [doomsday vault](https://seedvault.nordgen.org/) is just a big backup of seeds from all over the world, isn’t just for the future generation — current countries are claiming seeds from their land after wars to recoup their losses.
 
-Syria claimed from here in 2015, 
+Syria claimed from here in 2015, because of the Syrian Civil War. And 
