@@ -22,4 +22,6 @@ Anything above the “(gpt4o/5/whatever model generated)” — **I wrote**. And
 
 Just because something isn’t labelled AI doesn’t mean the entire thing is completely written by me — that’s never true, for anything.
 
-All links to wikipedia are permanent links, because I don’t want info that wasn’t as it was when I looked at it chan
+---
+
+All links to wikipedia are permanent links, because I don’t want info that wasn’t as it was when I looked at it changing — so some of them might be outdated.
