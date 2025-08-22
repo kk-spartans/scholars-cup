@@ -26,4 +26,5 @@ A backup of every single github repo on 02/02/2020 (no commit history), which:
  - Has atleast one star and has commits after 02/02/2019
  - Has atleast 250 starts (includes gh-pages and binaries >100KB for these)
 
-Each repo was TARed, and put into 186 QR encoded, compressed, Piql film reels
+Each repo was TARed, and put into 186 QR encoded, compressed, [Piql film reels](https://piql.com/). It was 21TB of data.
+
