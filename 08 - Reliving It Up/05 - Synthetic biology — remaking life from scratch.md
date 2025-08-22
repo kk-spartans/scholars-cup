@@ -13,3 +13,5 @@ This could be used in:
  - Electricity...? (bacteria that pump out biofuels)
  - Cleaning the environment (microbes that eat oil spills and plastics)
  - Space exploration (bacteria that photosynthesize with light frequencies we want and respire almost nothing)
+
+To help people,
