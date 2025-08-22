@@ -10,7 +10,7 @@ Resuscitation is dragging someone away from the edge of a cliff. Their heart sto
 
 Resurrection is dragging someone up a cliff after they’ve fell down, hit the bottom, and decomposed a bit. This is religion — not medicine.
 
-## Bringing people back to life
+## Bringing People Back To Life
 
 In my opinion — the things that matter are
 
@@ -18,4 +18,4 @@ In my opinion — the things that matter are
  - Brain intactness — If the cortex and key networks are gone, what’s there in their brain that makes them, them? You might have a beating heart, but zero *you* left.
  - Who decides — law, doctors, relatives
 
-If that person has nothing that differentiates them from a generic “human”, there’s no point in it. 
+If that person has nothing that differentiates them from a generic “human”, there’s no point in it.
