@@ -16,4 +16,4 @@ Digitized cultural and historical records, from mexico, brazil, and norway. Same
 
 ## Global Music Vault
 
-Inside the AWA, has og quality recordings of music from across the world. Exists to protect the 
+Inside the AWA, has og quality recordings of music from across the world. Exists to protect the world from things like the universal studios fire.
