@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "03 - Would you choose scientific immortality—and should anyone"
             }
+          },
+          {
+            "id": "022779d97e3014d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/Digital Cloning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Cloning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,15 +185,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e1706efd7de2234a",
+  "active": "022779d97e3014d0",
   "lastOpenFiles": [
+    "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/03 - Would you choose scientific immortality—and should anyone.md",
+    "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/Digital Cloning.md",
     "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/Reproductive Cloning.md",
     "README.md",
     "02 - The Best is Yet to Be, or Not To Be/02 - Why megaprojects fail (and what that says about us)/Big Dig.md",
     "02 - The Best is Yet to Be, or Not To Be/02 - Why megaprojects fail (and what that says about us)/Sejong City.md",
     "03 - In Futurity, Someone Prophetic Sees/04 - Should fortune telling be a real job/shaman.md",
     "06 - Things Really Do Catch Fire/04 - Greek fire and its modern equivalents/White Phosphorus.md",
-    "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/03 - Would you choose scientific immortality—and should anyone.md",
     "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/Stem Cell Therapy.md",
     "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/Senolytics.md",
     "08 - Reliving It Up/03 - Would you choose scientific immortality—and should anyone/Genetic Enhancement.md",
@@ -199,7 +215,6 @@
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Jigoku.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Diyu.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Tartarus.md",
-    "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive/Valhalla.md",
     "08 - Reliving It Up/01 - What counts as death, and who decides when to keep someone alive",
     "08 - Reliving It Up",
     "Untitled.base",
