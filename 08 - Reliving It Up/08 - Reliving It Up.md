@@ -2,6 +2,6 @@
 - [[02 - Reincarnation stories and why they resonate today]]
 - [[03 - Would you choose scientific immortality—and should anyone]]
 - [[04 - Why storytellers are obsessed with immortality’s costs]]
-- [[05 - Synthetic biology remaking life from scratch]]
+- [[05 - Synthetic biology — remaking life from scratch]]
 - [[06 - Ancient pathogens and why the Arctic is their vault]]
 - [[07 - Preserving life for the future: seeds, samples, and survival]]
