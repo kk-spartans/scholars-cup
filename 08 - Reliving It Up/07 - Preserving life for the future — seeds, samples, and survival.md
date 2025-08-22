@@ -8,4 +8,8 @@ Some other ones include:
 
 ## Global Oreo Vault
 
-A place near Svaldbard that holds all of oreo’s
+A place in Svalbard that holds all of oreo’s recipes, right down the road from the seed vault.
+
+## Arctic World archive
+
+Digitized cultural and historical records, from mexico, 
