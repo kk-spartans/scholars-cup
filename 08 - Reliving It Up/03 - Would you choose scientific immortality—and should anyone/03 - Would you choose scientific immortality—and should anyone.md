@@ -12,4 +12,4 @@ And cryonics can’t fix stupidity —  if you accidentally shoot yourself in th
 
 In this world, I wouldn’t take any of this — in a world where land is plenty and the economy is large, I would.
 
-The thing is, we’ve already been expanding our lives a lot since hunter-gatherer humans — their average lifep
+The thing is, we’ve already been expanding our lives a lot since hunter-gatherer humans — their average lifespans were 25-35 years (skewed by child mortality, but still). Right now, it’s about 70
