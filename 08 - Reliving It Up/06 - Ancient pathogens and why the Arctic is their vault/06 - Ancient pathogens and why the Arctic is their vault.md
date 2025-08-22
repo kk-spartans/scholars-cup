@@ -14,4 +14,10 @@ But the arctics collection in uncontrolled, and melting in real time — unlike 
 
 The [Global Seed Vault](https://en.wikipedia.org/w/index.php?title=Svalbard_Global_Seed_Vault&oldid=1303802826) is also something to mention here, it’s very useful. 
 
-That’s also right next to the [Github Arctic Code Vault](https://www.youtube.com/watch?v=fzI9FNjXQ0o), which has very notable repos like the linux kernel, v8 (chrome’s js engine), node, vscode, electron, literally anything else.
+That’s also right next to the [Github Arctic Code Vault](https://www.youtube.com/watch?v=fzI9FNjXQ0o), which has very notable repos like:  
+
+- [Linux Kernel](https://github.com/torvalds/linux)  
+- [V8](https://github.com/v8/v8)  
+- [Node.js](https://github.com/nodejs/node)  
+- [VSCode](https://github.com/microsoft/vscode)  
+- [Electron](https://github.com/electron/electron) 
