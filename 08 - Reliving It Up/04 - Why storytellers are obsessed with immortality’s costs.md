@@ -1,0 +1,2 @@
+> The manga series _Frieren: Beyond Journey’s End_ portrays a 1000-year old elf with one regret: not getting to know her human companions better before they passed away. This is just one story in a long line of literary works exploring immortality and its consequences. Read the examples below, then discuss with your team: why is immortality such an attractive subject for storytellers? What are some common [implications of immortality](https://www.lightspeedmagazine.com/nonfiction/immortals-that-show-us-that-death-is-the-best-option/) that they explore?
+
