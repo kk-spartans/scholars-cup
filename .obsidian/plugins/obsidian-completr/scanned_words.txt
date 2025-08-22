@@ -606,6 +606,7 @@ Turner
 Tsukioka
 Trump
 Twists
+Tennyson
 short
 social
 so
@@ -5175,6 +5176,7 @@ Alberto
 Americana
 Actually
 Alphabet
+Alfred
 Mediterranean
 Middle
 More
