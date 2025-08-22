@@ -1117,6 +1117,8 @@ suspended
 speeding
 specimens
 soo
+seeds
+species
 were
 with
 world
@@ -1275,6 +1277,7 @@ wears
 wrap
 watches
 wishing
+wikipedia
 made
 major
 many
@@ -1919,6 +1922,8 @@ gatherer
 goddess
 gift
 generating
+guard
+generations
 Sometimes
 SE
 Sparse
@@ -2102,6 +2107,8 @@ Sejong
 Sufficient
 Shelley
 Space
+Stashed
+Svalbard
 distancing
 declared
 discuss
@@ -2348,6 +2355,7 @@ donor
 drinks
 dawn
 decaying
+dedicated
 problem
 pressing
 post
@@ -2693,6 +2701,8 @@ photosynthesize
 permafrost
 pathogens
 pollutants
+preserving
+preservation
 In
 Islands
 Is
@@ -4264,6 +4274,7 @@ assembling
 arctic
 adventurous
 arctics
+ark
 epidemic
 etc
 emotional
@@ -5256,6 +5267,7 @@ Americana
 Actually
 Alphabet
 Alfred
+Arctic
 Mediterranean
 Middle
 More
@@ -5920,6 +5932,7 @@ Nehru
 Nazi
 National
 NCTC
+Noah
 Young
 Yes
 You
