@@ -6,4 +6,4 @@ Making things is assembling already existing parts, synthesizing is *generating 
 
 ---
 
-This could be use
+This could be used in healthcare (imagine cooking up personalized vaccines in hours), food (lab grown meat), longevity
