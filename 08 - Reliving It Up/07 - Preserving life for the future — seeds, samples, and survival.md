@@ -8,4 +8,4 @@ Some other ones include:
 
 ## Global Oreo Vault
 
-A place next to Svaldbard that holds all of orea
+A place near Svaldbard that holds all of oreo’s
