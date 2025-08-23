@@ -28,3 +28,4 @@ A backup of every single github repo on 02/02/2020 (no commit history), which:
 
 Each repo was TARed, and put into 186 QR encoded, compressed, [Piql film reels](https://piql.com/). It was 21TB of data.
 
+A bunch of other stuff
