@@ -37,4 +37,4 @@ A bunch of other stuff was also thrown in there, like:
  - The file formats archive
  - A bunch of other books
 
-There was also a guide there to unpack the archive there
+There was also a guide there to unpack the archive there along with the te
