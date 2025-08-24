@@ -232,6 +232,7 @@ industrialization
 imagines
 inform
 imagery
+inevitability
 this
 theme
 titles
@@ -1188,6 +1189,7 @@ solving
 sustaining
 survivors
 sides
+satirizes
 were
 with
 world
@@ -1900,6 +1902,8 @@ bio
 blows
 bombs
 blues
+bomb
+blas
 gpt
 groups
 governments
@@ -2528,6 +2532,7 @@ disco
 diasporic
 deciding
 describe
+darkly
 problem
 pressing
 post
@@ -3680,6 +3685,7 @@ hopes
 hadn
 hailed
 humor
+heading
 concern
 can
 countries
@@ -4156,6 +4162,7 @@ celebrity
 crawl
 crazy
 chernobyl
+comedic
 varies
 vibe
 versions
@@ -4604,6 +4611,9 @@ asiafuturist
 amerifuturist
 atompunk
 atomic
+absurdity
+attitude
+annihilation
 epidemic
 etc
 emotional
