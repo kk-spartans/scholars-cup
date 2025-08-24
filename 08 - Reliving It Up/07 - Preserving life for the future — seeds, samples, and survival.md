@@ -26,6 +26,15 @@ A backup of every single github repo on 02/02/2020 (no commit history), which:
  - Has atleast one star and has commits after 02/02/2019
  - Has atleast 250 starts (includes gh-pages and binaries >100KB for these)
 
-Each repo was TARed, and put into 186 QR encoded, compressed, [Piql film reels](https://piql.com/). It was 21TB of data.
+Each repo was TARed, XZed and put into 186 QR encoded, compressed, [Piql film reels](https://piql.com/). It was 21TB of data.
 
-A bunch of other stuff
+A bunch of other stuff was also thrown in there, like:
+
+ - All of Wikipedia then
+ - All of Stackoverflow
+ - Wiktionary
+ - Wikispecies
+ - The file formats archive
+ - A bunch of other books
+
+There was also a guide there to unpack the archive there
