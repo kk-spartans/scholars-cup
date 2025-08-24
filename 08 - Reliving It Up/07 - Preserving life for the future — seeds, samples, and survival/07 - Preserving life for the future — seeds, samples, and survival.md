@@ -10,7 +10,7 @@ Some other ones include:
 
 A place in Svalbard that holds all of oreo’s recipes, right down the road from the seed vault.
 
-## Arctic World archive
+## Arctic World Archive
 
 Digitized cultural and historical records, from mexico, brazil, and norway. Same mountain as the seed vault.
 
@@ -37,4 +37,4 @@ A bunch of other stuff was also thrown in there, like:
  - The file formats archive
  - A bunch of other books
 
-There was also a guide there to unpack the archive there along with the te
+There’s also a [guide](https://github.com/github/archive-program/blob/master/GUIDE.md) to unpack the archive there along with [The Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md).

@@ -8,7 +8,7 @@
  - [[08 - Reliving It Up]]
  - [[09 - Entertaining Ourselves Back to Life]]
  - [[10 - Much Excite, Much Ignite]]
- - [[11 - The Generative Area: A Mind for Imagination]]
+ - [[11 - The Generative Area — A Mind for Imagination]]
  - [[12 - No Backup, But Restore]]
  - [[13 - Punky Futures]]
  - [[14 - Concluding Questions]]

@@ -1,0 +1,4 @@
+- [[01 - Futurism — origins, art, and predicting the future]]
+- [[02 - Afrofuturism and imagining futures for different communities]]
+- [[03 - Solarpunk — optimistic tech-nature futures and real-world examples]]
+- [[04 - Atompunk — imagining an Atomic Age that never ended]]
