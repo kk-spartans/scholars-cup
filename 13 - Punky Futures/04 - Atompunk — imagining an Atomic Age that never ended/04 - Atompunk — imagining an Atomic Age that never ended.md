@@ -6,7 +6,7 @@ from "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never en
 where file.name != "04 - Atompunk — imagining an Atomic Age that never ended"
 ```
 
-## Fallout in a nutshell
+## Fallout In A Nutshell
 
 Humans build nukes, the world blows itself up, and the few survivors hide in vaults. Decades later, you crawl out, find mutants, raiders, and crazy tech, and pick sides between warring factions, trying to survive while deciding the fate of the wasteland. Basically, post-apocalyptic road trip with guns and moral choices.
 

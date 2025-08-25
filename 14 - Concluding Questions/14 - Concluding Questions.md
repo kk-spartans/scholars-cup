@@ -1,3 +1,3 @@
-- [[01 - Making new art from old materials: past, present, and future]]
-- [[02 - Music and fresh beginnings: optimism in “Section 52”]]
-- [[03 - Imagining yourself in 20 years: future selves and reigniting dreams]]
+- [[01 - Making new art from old materials — past, present, and future]]
+- [[02 - Music and fresh beginnings — optimism in “Section 52”]]
+- [[03 - Imagining yourself in 20 years — future selves and reigniting dreams]]

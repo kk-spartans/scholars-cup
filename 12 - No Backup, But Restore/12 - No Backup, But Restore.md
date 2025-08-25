@@ -1,4 +1,4 @@
 - [[01 - Creative works that fail first and succeed later — should early versions matter]]
 - [[02 - Musical scales, modes, and the idea of “future” riffs]]
-- [[03 - Video game music: chiptunes, history, and artistic value]]
-- [[04 - Rhythm games: fun, rehabilitation, education, and shaping music]]
+- [[03 - Video game music — chiptunes, history, and artistic value]]
+- [[04 - Rhythm games — fun, rehabilitation, education, and shaping music]]

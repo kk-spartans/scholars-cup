@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbcc42f12953db14",
+        "id": "7cad04c9a5943afd",
         "type": "tabs",
         "children": [
           {
-            "id": "6f25b41c3b0f3f7a",
+            "id": "bbcebb1852f1bf5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/04 - Atompunk — imagining an Atomic Age that never ended.md",
+                "file": "14 - Concluding Questions/03 - Imagining yourself in 20 years — future selves and reigniting dreams/03 - Imagining yourself in 20 years — future selves and reigniting dreams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Atompunk — imagining an Atomic Age that never ended"
+              "title": "03 - Imagining yourself in 20 years — future selves and reigniting dreams"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generated",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,43 +169,43 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6f25b41c3b0f3f7a",
+  "active": "bbcebb1852f1bf5f",
   "lastOpenFiles": [
-    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/So Long, Mom (A Song for World War III).md",
-    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/04 - Atompunk — imagining an Atomic Age that never ended.md",
-    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/Atom Bomb Baby.md",
-    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/Atom and Evil.md",
-    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/Old Man Atom.md",
+    "14 - Concluding Questions/14 - Concluding Questions.md",
+    "14 - Concluding Questions/03 - Imagining yourself in 20 years — future selves and reigniting dreams/03 - Imagining yourself in 20 years — future selves and reigniting dreams.md",
+    "11 - The Generative Area — A Mind for Imagination/08 - Minds without bodies — coma, isolation, and the idea of digital immortality/08 - Minds without bodies — coma, isolation, and the idea of digital immortality.md",
+    "14 - Concluding Questions/02 - Music and fresh beginnings — optimism in “Section 52”/02 - Music and fresh beginnings — optimism in “Section 52”.md",
+    "14 - Concluding Questions/01 - Making new art from old materials — past, present, and future/01 - Making new art from old materials — past, present, and future.md",
+    "09 - Entertaining Ourselves Back to Life/07 - Open creation — should artists share work-in-progress with the public/07 - Open creation — should artists share work-in-progress with the public.md",
+    "README.md",
+    "12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value/03 - Video game music — chiptunes, history, and artistic value.md",
+    "09 - Entertaining Ourselves Back to Life/06 - Completing unfinished works with AI or human intervention/06 - Completing unfinished works with AI or human intervention.md",
+    "09 - Entertaining Ourselves Back to Life/05 - Digital clones and AI in art — who really creates/05 - Digital clones and AI in art — who really creates.md",
+    "09 - Entertaining Ourselves Back to Life/04 - Re-releasing art timing and creator involvement/04 - Re-releasing art timing and creator involvement.md",
+    "14 - Concluding Questions/02 - Music and fresh beginnings — optimism in “Section 52”",
+    "14 - Concluding Questions/03 - Imagining yourself in 20 years — future selves and reigniting dreams",
+    "14 - Concluding Questions/01 - Making new art from old materials — past, present, and future",
+    "11 - The Generative Area — A Mind for Imagination/08 - Minds without bodies — coma, isolation, and the idea of digital immortality",
+    "09 - Entertaining Ourselves Back to Life/07 - Open creation — should artists share work-in-progress with the public",
+    "09 - Entertaining Ourselves Back to Life/06 - Completing unfinished works with AI or human intervention",
+    "09 - Entertaining Ourselves Back to Life/05 - Digital clones and AI in art — who really creates",
+    "09 - Entertaining Ourselves Back to Life/04 - Re-releasing art timing and creator involvement",
     "13 - Punky Futures/13 - Punky Futures.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/03 - Solarpunk — optimistic tech-nature futures and real-world examples.md",
-    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended",
-    "08 - Reliving It Up/07 - Preserving life for the future — seeds, samples, and survival/07 - Preserving life for the future — seeds, samples, and survival.md",
-    "08 - Reliving It Up/08 - Reliving It Up.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/We Cast Our Eyes to the Unknowable Now.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/SolarPunk Anthem.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Terra Nil.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Wind Farmer.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Imagine.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/The Ones Who Stay and Fight.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Overwatch.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Global Warming.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Nausicaä of the Valley of the Wind.md",
-    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/02 - Afrofuturism and imagining futures for different communities.md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Miyale Ya Blue.md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther.md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Galaxy In Janaki.md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Nightclubbing.md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther (book cover).md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther (movie poster).md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Space is the Place.md",
-    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities",
-    "05 - If At First You Fall, Try, Try Again/07 - Is old music killing new music",
-    "13 - Punky Futures/01 - Futurism — origins, art, and predicting the future",
-    "12 - No Backup, But Restore/01 - Creative works that fail first and succeed later — should early versions matter/Old",
-    "12 - No Backup, But Restore/01 - Creative works that fail first and succeed later — should early versions matter/New",
-    "12 - No Backup, But Restore/01 - Creative works that fail first and succeed later — should early versions matter",
-    "11 - The Generative Area — A Mind for Imagination/07 - How culture frames imagination (songs, films, Disney “Imagineers”)",
-    "11 - The Generative Area — A Mind for Imagination/06 - Writing with constraints & Oulipo useful prompt or gimmick"
+    "12 - No Backup, But Restore/12 - No Backup, But Restore.md",
+    "11 - The Generative Area — A Mind for Imagination/11 - The Generative Area — A Mind for Imagination.md",
+    "10 - Much Excite, Much Ignite/10 - Much Excite, Much Ignite.md",
+    "09 - Entertaining Ourselves Back to Life/09 - Entertaining Ourselves Back to Life.md",
+    "12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value/Decoupling game logic from Framerate.md",
+    "12 - No Backup, But Restore/02 - Musical scales, modes, and the idea of “future” riffs/02 - Musical scales, modes, and the idea of “future” riffs.md",
+    "12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value",
+    "12 - No Backup, But Restore/02 - Musical scales, modes, and the idea of “future” riffs",
+    "11 - The Generative Area — A Mind for Imagination/09 - Do current AI models actually imagine—or just remix/09 - Do current AI models actually imagine—or just remix.md",
+    "11 - The Generative Area — A Mind for Imagination/09 - Do current AI models actually imagine—or just remix/Distillation.md",
+    "11 - The Generative Area — A Mind for Imagination/04 - Imagination drugs — hallucination vs. simulation and legal and ethical questions/04 - Imagination drugs — hallucination vs. simulation and legal and ethical questions.md",
+    "04 - Imagination drugs — hallucination vs. simulation and legal/ethical questions.md",
+    "11 - The Generative Area — A Mind for Imagination/02 - Salons vs. the Internet — where does creativity actually happen now/02 - Salons vs. the Internet — where does creativity actually happen now.md",
+    "11 - The Generative Area — A Mind for Imagination/07 - How culture frames imagination (songs, films, Disney “Imagineers”)/07 - How culture frames imagination (songs, films, Disney “Imagineers”).md",
+    "11 - The Generative Area — A Mind for Imagination/01 - Pareidolia — why our brains see faces in carpets (helpful or harmful)/01 - Pareidolia — why our brains see faces in carpets (helpful or harmful).md",
+    "10 - Much Excite, Much Ignite/03 - The sun’s fate and when ultra-long-term risks deserve our attention/03 - The sun’s fate and when ultra-long-term risks deserve our attention.md"
   ]
 }
