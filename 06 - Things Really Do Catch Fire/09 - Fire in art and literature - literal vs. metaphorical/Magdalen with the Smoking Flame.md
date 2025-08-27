@@ -5,6 +5,6 @@ genre: Art
 link: https://collections.lacma.org/node/238963
 ---
 
-I think the person in the painting is Mary Magdalen, staring at a candle. I think the artist is using teh candle as a metaphor for mortality...?
+I think the person in the painting is Mary Magdalen, staring at a candle. I think the artist is using the candle as a metaphor for mortality...?
 
 Still, metaphorical.

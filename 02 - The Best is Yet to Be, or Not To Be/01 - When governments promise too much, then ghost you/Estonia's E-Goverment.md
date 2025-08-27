@@ -8,4 +8,4 @@ Instead of making big promises or flashy announcements, Estonia just… got to w
 
 ## What Happened After
 
-By 2025, Estonia is seen as a global leader in e-governance. While other countries are still pushing paper across desks, Estonia’s citizens can manage almost all state services with a digital ID — securely, from anywhere. They've even launched e-Residency, letting foreigners register Estonian companies without ever visiting. The project didn’t start with a big promise — but it ended up delivering something revolutionary, efficiently, and quietly. A real-life side quest that turned into the main storyline.
+By 2025, Estonia is seen as a global leader in e-governance. While other countries are still pushing paper across desks, Estonia’s citizens can manage almost all state services with a digital ID — securely, from anywhere. They've even launched e-Residency, letting foreigners register Estonian companies without ever visiting. The project didn’t start with a big promise — but it ended up delivering something revolutionary, efficiently, and quietly.

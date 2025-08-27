@@ -1,6 +1,6 @@
 ## What Happened Before
 
-The Pearl River Delta needed better connectivity between three main cities: Hong Kong, Macau, and Zhuhai. Ferries and long drives were long, and China wanted to flex its infrastructure.
+The Pearl River Delta needed better connectivity between three main cities — Hong Kong, Macau, and Zhuhai. Ferries and drives were long, and China wanted to flex its infrastructure.
 
 ## What Happened During
 
@@ -8,4 +8,4 @@ Construction began in 2009. The final result was a 55km mix of bridges, tunnels,
 
 ## What Happened After
 
-It works, but strict border controls and limited permits mean it’s underused. But it's still it’s shiny, massive, and politically symbolic — even if most people still take the ferry.
+It works, but strict border controls and limited permits mean it’s underused. But it's still shiny, massive, and politically symbolic — even if most people still take the ferry.

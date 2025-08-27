@@ -11,8 +11,8 @@ link: https://open.spotify.com/track/0aAHipKwUxMlVLHL5TOPqo
 | Semper crescis aut decrescis                          | Always waxing or waning                                     |
 | Vita detestabilis                                     | Detestable life                                             |
 | Nunc obdurat et tunc curat, ludo mentis aciem         | First oppresses, then soothes, as fancy takes it            |
-| Egestatem, potestatem, dissolvit ut glaciem           | Poverty, power—it melts them like ice                       |
-| Sors immanis et inanis                                | Fate—monstrous and empty                                    |
+| Egestatem, potestatem, dissolvit ut glaciem           | Poverty, power, it melts them like ice                      |
+| Sors immanis et inanis                                | Fate is monstrous and empty                                 |
 | Rota tu volubilis                                     | You turning wheel                                           |
 | Status malus, vana salus, semper dissolubilis         | Bad status, false salvation, always fading                  |
 | Obumbrata et velata, michi quoque niteris             | Veiled and shadowed, you also play with me                  |

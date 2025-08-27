@@ -2,7 +2,7 @@
 
 This is a very opinionated question — and in *my* opinion, most people come back to a project when one of these things happen:
 
- - There's something or advancement that's new in that field that wasn't there when they left that could change their mind on it.
+ - There's something that's new in that field that wasn't there when they left that could change their mind on it.
  
  - They made something on their own that they would like to share to the community in that field.
 

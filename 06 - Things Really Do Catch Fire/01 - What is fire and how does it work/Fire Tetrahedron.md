@@ -10,7 +10,7 @@ Well that’s *exactly* how [halons](https://en.wikipedia.org/w/index.php?title=
 
 > H• + O<sub>2</sub> → OH• + O• → more reactions → fire continues
 
-(• means the substance is a radical, it has an unpaired electron. Radicals are **insanely** reactive because that lonely electron *really* wants a buddy, so it’ll grab the first thing it can—often violently.)
+(• means the substance is a radical, it has an unpaired electron. Radicals are **insanely** reactive because that lonely electron *really* wants a buddy, so it’ll grab the first thing it can — often violently.)
 
 ### But With A Halon Present:
 
@@ -21,7 +21,7 @@ Now you’ll ask:
 
 ## Then Why Don't We Use This To Extinguish All Fires?
 
-We *did*. Halons were the hot stuff (literally) for decades—airplanes, server rooms, tanks, spacecraft, even datacenters used them. They were the “perfect” extinguisher:
+We *did*. Halons were the hot stuff (literally) for decades — airplanes, server rooms, tanks, spacecraft, even datacenters used them. They were the “perfect” extinguisher:
 
 - Didn’t leave residue (unlike water/foam/powder).
 - Stopped fire instantly by nuking the chain reaction.

@@ -21,4 +21,4 @@ where file.name != "04 - Greek fire and its modern equivalents"
 
 Napalm is the closest modern day equivalent to Greek Fire, maybe even worse. And thermite is [insanity](https://www.youtube.com/shorts/EMcIpHH8j7M).
 
-Would it still be a useful weapon today? Probably not — we use nuclear missiles, not fires in wars nowadays.
+Would it still be a useful weapon today? Probably not — we use nuclear missiles, not fires, in wars nowadays.

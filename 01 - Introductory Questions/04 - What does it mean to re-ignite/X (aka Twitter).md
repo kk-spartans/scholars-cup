@@ -1,6 +1,6 @@
  (gpt4o #ai generated)
 
- - **2005**: A podcasting startup called **Odeo** was co-founded by Evan Williams and Biz Stone.
+- **2005**: A podcasting startup called **Odeo** was co-founded by Evan Williams and Biz Stone.
 
 - Apple dropped podcasting into iTunes, instantly nuking Odeo’s whole premise.
 
@@ -15,4 +15,4 @@ The idea wasn’t new—**Dodgeball** (acquired by Google in 2005) had done simi
 **Dodgeball died. Twitter thrived.**  
 Why? Timing + simplicity + open API + public feed = viral loop.
 
-It seems like most startup companies nowadays are being bought by other, larger ones (like Meta, Elon Musk, Google, etc.).
+It seems like most startup companies nowadays are being bought by other, larger ones (like Meta, Elon Musk, Google, etc.) — twitter was different.

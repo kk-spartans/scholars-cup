@@ -2,4 +2,4 @@ When platforms *slowly* start prioritizing short term shareholder dopamine over 
 
 Mostly happens with publicly traded companies like Google (Google ads knowing more about you than your parents) and Microsoft (whatever is happening with windows).
 
-Users try to combat this by self hosting everything (look [here](https://pastebin.com/sw7hbhrg)).
+Users try to combat this by self hosting everything.

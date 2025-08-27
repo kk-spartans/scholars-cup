@@ -25,7 +25,7 @@ I don’t understand how open source things like [openpilot](https://comma.ai/op
 
 When they stop randomly driving in circles, I’ll take them seriously.
 
-## Flying Cars
+## [[Flying Car]]s
 
 The FAA and **DGCA** will explode if this happens. They can’t even prevent 2 planes from crashing into each other — what makes you think cars a better? (spoiler: they’re worse)
 

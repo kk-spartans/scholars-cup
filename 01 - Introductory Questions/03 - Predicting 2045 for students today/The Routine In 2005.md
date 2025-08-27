@@ -4,7 +4,7 @@
 
 - I walk into the living room and see our flatscreen TV — yeah, it’s only a few inches thick, like a fat magazine, and *not* one of those giant tube monsters. Our house? Pretty normal, got central air and everything. Feels futuristic enough.
 
-- I brush my teeth with a normal-ass toothbrush and Crest. Then I take a bath or a shower, thanks to the miracle of indoor plumbing and hot water on tap.
+- I brush my teeth with a normal toothbrush and Crest. Then I take a bath or a shower, thanks to the miracle of indoor plumbing and hot water on tap.
 
 - I eat breakfast. Usually cereal. Sometimes Pop-Tarts. Milk from a carton. Revolutionary stuff.
 

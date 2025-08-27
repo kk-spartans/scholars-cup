@@ -4,14 +4,14 @@ I feel like the linked articles already do justice to this. So moving on to the 
 
 ## Are They The Sorts Of Solutions That More Societies Should Adopt?
 
-Yes — but only for the elderly, this doesn’t actually fully replace caretakers, but it does take a bunch of the actually physical work off their hands. This also means that people who couldn’t be caretakers before can now, thanks to these bots.
+Yes — but only for the elderly, this doesn’t actually fully replace caretakers, but it does take a bunch of the physical work off their hands. This also means that people who couldn’t be caretakers before can now, thanks to these bots.
 
 ## What Technologies Would You Design To Achieve The Same Aims?
 
 I feel like there is one big problem that’s being expressed in these articles:
 
  - The robots don’t know how to help
- - The humans (elderly) think they are being helped, or behave/act (but don’t fake) that they are.
+ - The humans (elderly) think they are being helped, or behave/act (but don’t fake) like(/that) they are.
  - The caretakers have a hard time fixing when the elderly get too attached to these things.
  - There is still a scope of things that only caretakers can do, and robots can’t.
 
@@ -19,7 +19,7 @@ So it’s probably very clear what problem we need to fix, because the rest of t
 
 > There is still a scope of things that only caretakers can do, and robots can’t.
 
-So my idea is we need to make better “World AI Models” that understand the world better. Have a good sense of vision and audio, not only text. We already ludicrously accurate OCR engines (Microsoft trOCR, maybe sometimes EasyOCR) and SST engines (OpenAI whisper large) and TTS engines (ElevenLabs’ stuff has transcended the uncanny valley).
+What I think is we need to make better “World AI Models” that understand the world better. Have a good sense of vision and audio, not only text. We already ludicrously accurate OCR engines (Microsoft trOCR, maybe sometimes EasyOCR) and SST engines (OpenAI whisper large) and TTS engines (ElevenLabs’ stuff has transcended the uncanny valley).
 
 And the magic that Boston Dynamics is doing proves that we have the hardware done.
 

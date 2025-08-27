@@ -6,12 +6,12 @@ from "08 - Reliving It Up/03 - Would you choose scientific immortality—and sho
 where file.name != "03 - Would you choose scientific immortality—and should anyone"
 ```
 
-We need to [[05 - Birth rates, bad times, and the future of humanity#^a6a4ad|reduce the population]] — not increase it. It would (right now) not be good for society if people lived for centuries, because we don’t have enough — those people would be tortured in their living life anyway. (also we don’t have the money to do this to every single person in the world anyway)
+We need to [[05 - Birth rates, bad times, and the future of humanity#^a6a4ad|reduce the population]] — not increase it. It would (right now) not be good for society if people lived for centuries, because we don’t have enough materials — those people would be tortured in their living life anyway. (also we don’t have the money to do this to every single person in the world anyway)
 
-And cryonics can’t fix stupidity — if you accidentally shoot yourself in the head with a nerf gun when your anesthesia wears off during open brain surgery, you can’t fix that.
+And cryonics can’t fix stupidity — if you completely destroy your brain by jumping off a cliff, you’re unrecoverable.
 
 In this world, I wouldn’t take any of this — in a world where land is plenty and the economy is large, I would.
 
 ---
 
-The thing is, we’ve already been expanding our lives a lot since hunter-gatherer humans — their average lifespans were 25-35 years (skewed by child mortality, but still). Right now, it’s about 70, all because of medicine.
+The thing is, we’ve already been expanding our lives a lot since hunter-gatherer humans — their average lifespans was 25-35 years (skewed by child mortality, but still). Right now, it’s about 70, all because of medicine.

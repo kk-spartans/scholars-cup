@@ -13,13 +13,23 @@
  - [[13 - Punky Futures]]
  - [[14 - Concluding Questions]]
 
+---
+
 To be clear, when something is ai generated - it's **explicitly** mentioned (other than the short titles in the home of each theme). And, when I generate something with AI, I’m either:
 
  - Confident that I **completely** agree with it
  - Hope my teammates will do a better job than me at that topic because I *give up* (especially in Social Studies and Art and Literature).
 
-Anything above the “(gpt4o/5/whatever model generated)” — **I wrote**. And if there’s a hr (`---`) below it, the AI part ends.
-
 ---
 
 If I learnt one lesson from this, it’s that I shouldn’t have started listening to the Spotify playlist before starting this research — because everything from there shows up in the guiding questions eventually.
+
+## Todo
+
+- [ ] Use the new obsidian bases instead of dataview
+- [ ] Tag all the questions with the subject they are
+
+## Useful Things
+
+ - [List Of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
+ - [Signs Of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)

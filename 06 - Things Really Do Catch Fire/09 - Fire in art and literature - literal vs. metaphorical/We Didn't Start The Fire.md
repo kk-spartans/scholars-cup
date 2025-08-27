@@ -9,6 +9,6 @@ link: https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI
 
 The song is very... 1980s, to say the least. Lot’s of references to events and culture that happened in 1989 and 1988 (north and south Korea war and olympics, England queen *idk how it’s related*).
 
-I think what the line “We didn’t start the fire” means is, “We didn’t create all these problems, events, and chaos, they’ve always been there”.
+I think what the line “We didn’t start the fire” means, “We didn’t create all these problems, events, and chaos, they’ve always been there”.
 
 This song is very metaphorical with fire.

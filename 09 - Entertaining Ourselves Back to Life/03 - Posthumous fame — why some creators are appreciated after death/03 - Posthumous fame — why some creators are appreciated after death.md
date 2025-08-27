@@ -15,4 +15,4 @@ Playbook for reignition:
 
 But I still feel like studying living artists works better, because you can interview them and correct misconceptions. It’s also more relevant, more ethical, and makes the artist themselves see and feel their fame.
 
-But death makes things more interesting every time because there’s a scarcity of new content from that person, and also narrative power.
+But death makes things more interesting every time because there’s a scarcity of new content from that person (XXXTENTACION and Juice WRLD), and also narrative power.

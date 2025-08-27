@@ -6,14 +6,14 @@ from "02 - The Best is Yet to Be, or Not To Be/02 - Why megaprojects fail (and w
 where file.name != "02 - Why megaprojects fail (and what that says about us)"
 ```
 
-## **Is This Shift In Approach justified?**
+## Is This Shift In Approach justified?
 
-Sometimes, yeah. Politions love cutton ribbons but don't wanna pay the bills. Switching to small incremental projects can make politions (and people) feel like there is progress happening (and to an extent, there is). These projects are easier to manage, budget, and most importantly - finish. But it also reeks of a system that's afraid to dream big because it keeps tripping over its own shoelaces.
+Sometimes, yeah. Politicians love cutting ribbons but don't wanna pay the bills. Switching to small incremental projects can make them (and people) feel like there is progress happening (and to an extent, there is). These projects are easier to manage, budget, and most importantly - finish. But it also reeks of a system that's afraid to dream big because it keeps tripping over its own shoelaces.
 
-## **How Might Megaprojects (or Their failure) Affect The Way People Perceive progress?**
+## How Might Megaprojects (or Their failure) Affect The Way People Perceive progress?
 
 They mess with people’s heads. A flashy megaproject = “the future is now.” A stalled one = “we’re going nowhere.” So when they fail, it’s not just money lost—it’s public trust and optimism
 
-## **Are Some Countries More Consistently Successful At These projects?**
+## Are Some Countries More Consistently Successful At These projects?
 
 Yes, some countries like China, the UAE, and (maybe) South Korea have a greater success rate on megaprojects because of their more *relaxed* approach to red tape. Countries with a quadrillion approval stages (USA) tend to struggle more. Unless they get really motivated (Post WW2).

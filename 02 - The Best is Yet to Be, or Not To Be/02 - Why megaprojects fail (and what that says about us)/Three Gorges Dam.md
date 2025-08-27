@@ -4,7 +4,7 @@ The Yangtze River floods were frequent, and China’s electricity demand was sky
 
 ## What Happened During
 
-Started in 1994, completed in 2012. Over 1.3 million people were forced to move, ancient towns were submerged or destructed, and ecosystems were destroyed. It cost $30B+, but the dam became a symbol of China’s rise and might. Also, some say it slightly slowed the Earth’s rotation (NASA measured it to be around 60 ns because of the weight displacement).
+Started in 1994, completed in 2012. Over 1.3 million people were forced to move, ancient towns were submerged or destroyed, and ecosystems were annihilated. It cost $30B+, but the dam became a symbol of China’s rise and might. Also, some say it slightly slowed the Earth’s rotation (NASA measured it to be around 60 ns because of the weight displacement).
 
 ## What Happened After
 

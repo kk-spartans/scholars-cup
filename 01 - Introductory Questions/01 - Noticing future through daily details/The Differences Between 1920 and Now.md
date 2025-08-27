@@ -1,5 +1,3 @@
-Look at the differences here:
-
  - rn, we wake up with digital alarms that can track our sleep with sensors for some reason.
  
  - Our forms of entertainment have actual brains, unlike radios which spit out what they can hear.

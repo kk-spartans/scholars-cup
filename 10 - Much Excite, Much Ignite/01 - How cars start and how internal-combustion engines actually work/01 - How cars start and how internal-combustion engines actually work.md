@@ -5,3 +5,17 @@ list
 from "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work"
 where file.name != "01 - How cars start and how internal-combustion engines actually work"
 ```
+
+Most cars start with a starter motor (powered by the battery) that spins the crankshaft fast enough to kick off the first combustion. At the same time, the spark plugs ignite the fuel/air mix in the cylinders.
+
+First practical gas-powered engine appeared in 1860 Nikolaus Otto invented the four-stroke engine in 1876, which is basically what most cars still use.
+
+In 1885, Karl Benz put a gasoline engine in a vehicle — basically the first modern car. The 1908 ford model T made it mainstream.
+
+ICEs are not obsolete just because they’re old. 
+
+ - Pros — Mature tech, cheap-ish, refueling is fast.
+
+ - Cons — Pollutes, less efficient than electric motors, requires oil changes, and global regulations are cracking down.
+
+ - EVs and Plug In Hybrids — Slowly replacing them, especially in urban areas and Europe/China/US mandates.

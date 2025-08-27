@@ -1,6 +1,6 @@
 ## What Happened Before
 
-The idea of connecting the UK and France via an underwater tunnel had been floating around since the 1800s. Over the years, many versions were proposed — some involving horse-drawn carts, others powered by fans — but every attempt collapsed under the weight of politics, war, or someone panicking about invasion via mole-people. Ferries ruled the English Channel for decades, until in the 1980s both governments finally agreed: let's do it, and let's not screw it up (to much).
+The idea of connecting the UK and France via an underwater tunnel had been floating around since the 1800s. Over the years, many versions were proposed — some involving horse-drawn carts, others powered by fans — but every attempt collapsed under the weight of politics, war, or someone panicking about invasion via mole-people. Ferries ruled the English Channel for decades, until in the 1980s both governments finally agreed to “let's do it, and let's not screw it up (to much)”.
 
 ## What Happened During
 

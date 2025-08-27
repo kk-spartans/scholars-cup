@@ -6,7 +6,7 @@ Poverty is not one of those.
 
 ## Is This Decline Irreversible?
 
-Probably not, we’ve had huge population drops before and still recovered. But I feel like it’s different right now since fertility rates are also down, but it’s still above 2.1. We should be considering that fertility rates are also decreasing — but i don’t think that should really matter.
+Probably not, we’ve had huge population drops before and still recovered. But I feel like it’s different right now since fertility rates are also down, but they’re still above 2.1. 
 
 ## Should We Want It To?
 

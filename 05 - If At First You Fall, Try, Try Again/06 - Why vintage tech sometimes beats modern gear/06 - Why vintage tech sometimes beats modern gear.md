@@ -6,8 +6,8 @@ from "05 - If At First You Fall, Try, Try Again/06 - Why vintage tech sometimes 
 where file.name != "06 - Why vintage tech sometimes beats modern gear"
 ```
 
-Some (like disposable cameras, vinyl, and film) are just because of nostalgia. But others, they aren’t ‘(technically) worse’ — they’re better.
+Some (like disposable cameras, vinyl, and film) are just because of nostalgia. But others (like tape), aren’t ‘(technically) worse’ — they’re better.
 
 Pagers, Shortwave radios, and AM radios have actual utility in this world — mostly in emergencies or for hobbyists.
 
-And for magnetic tape, it’s just better, period (for the price). It’s the cheapest medium of storage — ever.
+And for magnetic tape, it’s just better (for the price). It’s the cheapest medium of mass storage — so far.

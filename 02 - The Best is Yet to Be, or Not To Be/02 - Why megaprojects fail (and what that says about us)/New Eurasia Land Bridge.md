@@ -1,6 +1,6 @@
 ## What Happened Before
 
-Shipping from China to Europe was slow and dependent on terrible water-based routes. Wasting jet fuel was faster but expensive. Reviving Silk Road with trains sounded like a great idea — fast, cheaper than air, and less vulnerable than sea.
+Shipping from China to Europe was slow and dependent on terrible water based routes. Wasting jet fuel was faster but expensive. Reviving Silk Road with trains sounded like a great idea — fast, cheaper than air, and less vulnerable than sea.
 
 ## What Happened During
 

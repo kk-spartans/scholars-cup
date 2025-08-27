@@ -4,4 +4,4 @@ The original creator probably doesn’t need much involvement in the making of a
 
 The best timing to re-release something is when there’s new interest, legal and financial incentive, or maybe even a cultural moment that makes work relevant again. Too soon, and it feels lazy; too late, and it loses impact.
 
-Taylor Swift hit the sweet spot—her old albums had cult status, fan demand was high, and she had a legal motive.
+Taylor Swift hit the sweet spot — her old albums had cult status, fan demand was high, and she had a legal motive.

@@ -23,4 +23,4 @@ Lenses work by refracting light using optical glass (made for consistent refract
   </tr>
 </table>
 
-<!--html tables are cool-->
+<!--html tables are sooo much better than pure gfm-->

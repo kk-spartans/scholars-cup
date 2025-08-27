@@ -5,4 +5,4 @@ Instead of politicians speaking from the land, this was astronauts talking from 
  - Landing (20th) — Armstrong and Aldrin were being watched by almost 600m people on their descent. The US president called them while they were on the moon, live.
  - Return Trip — Also televised.
 
-The entire public was into this like it was a Netflix series.
+The entire public was into this like it was KPop Demon Hunters.

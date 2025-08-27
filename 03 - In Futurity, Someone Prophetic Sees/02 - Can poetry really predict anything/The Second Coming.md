@@ -1,9 +1,14 @@
+---
+author: William Butler Yeats
+year: "1919"
+link: https://www.poetryfoundation.org/poems/43290/the-second-coming
+---
 ```
 Turning and turning in the widening gyre   
 The falcon cannot hear the falconer;
 ```
 
-A gyre is a spinning spiral, so things are spiraling wider and wider out of control. The falcon (representing humankind or society) can no longer hear the falconer (order, tradition, divine authority).
+A gyre is a spinning spiral, so things are spiraling wider and wider out of control. The falcon (humankind or society) can no longer hear the falconer (order, tradition, divine authority).
 
 ```
 Things fall apart; the centre cannot hold;
@@ -11,7 +16,7 @@ Mere anarchy is loosed upon the world,
 The blood-dimmed tide is loosed, and everywhere 
 ```
 
-Chaos isn’t just creeping in—it’s flooding everything.
+Chaos isn’t just creeping in — it’s flooding everything.
 
 ```
 The ceremony of innocence is drowned;
@@ -38,7 +43,7 @@ Is moving its slow thighs, while all about it
 Reel shadows of the indignant desert birds.
 ```
 
-He sees the anti-christ, not hope — something bad. This thing is dead eyed and merciless, it moves slowly while being unsettling.
+He sees the anti christ, not hope — something bad. This thing is dead eyed and merciless, it moves slowly while being unsettling.
 
 ```
 The darkness drops again; but now I know   

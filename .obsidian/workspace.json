@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cad04c9a5943afd",
+        "id": "6b317e852c25c1b2",
         "type": "tabs",
         "children": [
           {
-            "id": "bbcebb1852f1bf5f",
+            "id": "171b8e2f1bd33935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 - Concluding Questions/03 - Imagining yourself in 20 years — future selves and reigniting dreams/03 - Imagining yourself in 20 years — future selves and reigniting dreams.md",
+                "file": "11 - The Generative Area — A Mind for Imagination/09 - Do current AI models actually imagine—or just remix/09 - Do current AI models actually imagine—or just remix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Imagining yourself in 20 years — future selves and reigniting dreams"
+              "title": "09 - Do current AI models actually imagine—or just remix"
             }
           }
         ]
@@ -41,8 +41,8 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -57,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - If At First You Fall, Try, Try Again/01 - Could there be a “third Rome” today—and would that be good/01 - Could there be a “third Rome” today—and would that be good.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/01 - Why do we crave knowing the future/01 - Why do we crave knowing the future.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - Could there be a “third Rome” today—and would that be good"
+              "title": "Outline of 01 - Why do we crave knowing the future"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - If At First You Fall, Try, Try Again/03 - Is rebuilding a ruin preservation or reinvention/Bibliotheca Alexandrina.md",
+                "file": "03 - In Futurity, Someone Prophetic Sees/01 - Why do we crave knowing the future/01 - Why do we crave knowing the future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +82,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bibliotheca Alexandrina"
+              "title": "Backlinks for 01 - Why do we crave knowing the future"
             }
           },
           {
@@ -116,20 +116,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What entertains us owns us.pdf",
+                "file": "11 - The Generative Area — A Mind for Imagination/09 - Do current AI models actually imagine—or just remix/09 - Do current AI models actually imagine—or just remix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What entertains us owns us"
+              "title": "Outgoing links from 09 - Do current AI models actually imagine—or just remix"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
-    "collapsed": true
+    "width": 454.5
   },
   "right": {
     "id": "c516336bcdbc5076",
@@ -156,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5,
-    "collapsed": true
+    "width": 527.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,22 +164,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bbcebb1852f1bf5f",
+  "active": "171b8e2f1bd33935",
   "lastOpenFiles": [
-    "14 - Concluding Questions/14 - Concluding Questions.md",
-    "14 - Concluding Questions/03 - Imagining yourself in 20 years — future selves and reigniting dreams/03 - Imagining yourself in 20 years — future selves and reigniting dreams.md",
-    "11 - The Generative Area — A Mind for Imagination/08 - Minds without bodies — coma, isolation, and the idea of digital immortality/08 - Minds without bodies — coma, isolation, and the idea of digital immortality.md",
-    "14 - Concluding Questions/02 - Music and fresh beginnings — optimism in “Section 52”/02 - Music and fresh beginnings — optimism in “Section 52”.md",
-    "14 - Concluding Questions/01 - Making new art from old materials — past, present, and future/01 - Making new art from old materials — past, present, and future.md",
+    "11 - The Generative Area — A Mind for Imagination/11 - The Generative Area — A Mind for Imagination.md",
+    "10 - Much Excite, Much Ignite/03 - The sun’s fate and when ultra-long-term risks deserve our attention/03 - The sun’s fate and when ultra-long-term risks deserve our attention.md",
+    "10 - Much Excite, Much Ignite/02 - Electric cars — their early rise, century-long fall, and modern comeback/02 - Electric cars — their early rise, century-long fall, and modern comeback.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/01 - How cars start and how internal-combustion engines actually work.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Biodiesel.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Bioethanol.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Continous Combustion Engines.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Diesel.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/ETBE.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Gas Turbines.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Heat Engine.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Hydrocarbons.md",
+    "06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Hydrogen.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Inter Combustion Engine (ICE).md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Otto Engine.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Reciprocating Piston Engine.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Rotary Engines.md",
+    "10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Wankel Rotary Engine.md",
+    "10 - Much Excite, Much Ignite/10 - Much Excite, Much Ignite.md",
     "09 - Entertaining Ourselves Back to Life/07 - Open creation — should artists share work-in-progress with the public/07 - Open creation — should artists share work-in-progress with the public.md",
-    "README.md",
-    "12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value/03 - Video game music — chiptunes, history, and artistic value.md",
     "09 - Entertaining Ourselves Back to Life/06 - Completing unfinished works with AI or human intervention/06 - Completing unfinished works with AI or human intervention.md",
     "09 - Entertaining Ourselves Back to Life/05 - Digital clones and AI in art — who really creates/05 - Digital clones and AI in art — who really creates.md",
     "09 - Entertaining Ourselves Back to Life/04 - Re-releasing art timing and creator involvement/04 - Re-releasing art timing and creator involvement.md",
+    "09 - Entertaining Ourselves Back to Life/03 - Posthumous fame — why some creators are appreciated after death/03 - Posthumous fame — why some creators are appreciated after death.md",
+    "09 - Entertaining Ourselves Back to Life/03 - Posthumous fame — why some creators are appreciated after death/Alfred Wegener.md",
+    "02 - The Best is Yet to Be, or Not To Be/01 - When governments promise too much, then ghost you/Untitled.base",
     "14 - Concluding Questions/02 - Music and fresh beginnings — optimism in “Section 52”",
     "14 - Concluding Questions/03 - Imagining yourself in 20 years — future selves and reigniting dreams",
     "14 - Concluding Questions/01 - Making new art from old materials — past, present, and future",
@@ -190,22 +205,6 @@
     "09 - Entertaining Ourselves Back to Life/06 - Completing unfinished works with AI or human intervention",
     "09 - Entertaining Ourselves Back to Life/05 - Digital clones and AI in art — who really creates",
     "09 - Entertaining Ourselves Back to Life/04 - Re-releasing art timing and creator involvement",
-    "13 - Punky Futures/13 - Punky Futures.md",
-    "12 - No Backup, But Restore/12 - No Backup, But Restore.md",
-    "11 - The Generative Area — A Mind for Imagination/11 - The Generative Area — A Mind for Imagination.md",
-    "10 - Much Excite, Much Ignite/10 - Much Excite, Much Ignite.md",
-    "09 - Entertaining Ourselves Back to Life/09 - Entertaining Ourselves Back to Life.md",
-    "12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value/Decoupling game logic from Framerate.md",
-    "12 - No Backup, But Restore/02 - Musical scales, modes, and the idea of “future” riffs/02 - Musical scales, modes, and the idea of “future” riffs.md",
-    "12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value",
-    "12 - No Backup, But Restore/02 - Musical scales, modes, and the idea of “future” riffs",
-    "11 - The Generative Area — A Mind for Imagination/09 - Do current AI models actually imagine—or just remix/09 - Do current AI models actually imagine—or just remix.md",
-    "11 - The Generative Area — A Mind for Imagination/09 - Do current AI models actually imagine—or just remix/Distillation.md",
-    "11 - The Generative Area — A Mind for Imagination/04 - Imagination drugs — hallucination vs. simulation and legal and ethical questions/04 - Imagination drugs — hallucination vs. simulation and legal and ethical questions.md",
-    "04 - Imagination drugs — hallucination vs. simulation and legal/ethical questions.md",
-    "11 - The Generative Area — A Mind for Imagination/02 - Salons vs. the Internet — where does creativity actually happen now/02 - Salons vs. the Internet — where does creativity actually happen now.md",
-    "11 - The Generative Area — A Mind for Imagination/07 - How culture frames imagination (songs, films, Disney “Imagineers”)/07 - How culture frames imagination (songs, films, Disney “Imagineers”).md",
-    "11 - The Generative Area — A Mind for Imagination/01 - Pareidolia — why our brains see faces in carpets (helpful or harmful)/01 - Pareidolia — why our brains see faces in carpets (helpful or harmful).md",
-    "10 - Much Excite, Much Ignite/03 - The sun’s fate and when ultra-long-term risks deserve our attention/03 - The sun’s fate and when ultra-long-term risks deserve our attention.md"
+    "12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value"
   ]
 }

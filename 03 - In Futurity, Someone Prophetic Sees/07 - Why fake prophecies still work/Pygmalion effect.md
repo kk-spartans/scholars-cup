@@ -1,4 +1,4 @@
-Let’s say your teacher says you did amazing on the last test — the Pygmalion effect states that you will perform better next time than when your told you did terrible on the last test.
+Let’s say your teacher says you did amazing on the last test — the Pygmalion effect states that you will perform better next time than when you’re told you did terrible on the last test.
 
 So basically, a good mindset/expectation makes you perform better, while a bad one makes you perform worse.
 

@@ -6,4 +6,4 @@ After the media discovered this information from [Bloomberg News](https://www.bl
  - A subscription for delivering healthy food to your house
  - Selling the press's (overly overcomplicated) tech to other food companies: **There were no takers.**
 
-None of these ideas succeeded, the founder is now the CEO of The sprouting company, which helps you grow plants at home easier. Also published the most popular book under amazon's "plants" category: The Sprout Book.
+None of these ideas succeeded, the founder is now the CEO of The sprouting company, which helps you grow plants at home easier. He also published the most popular book under amazon's "plants" category: The Sprout Book.

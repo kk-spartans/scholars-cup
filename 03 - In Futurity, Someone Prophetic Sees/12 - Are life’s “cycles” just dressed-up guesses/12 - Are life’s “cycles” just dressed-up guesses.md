@@ -5,3 +5,5 @@ list
 from "03 - In Futurity, Someone Prophetic Sees/12 - Are life’s “cycles” just dressed-up guesses"
 where file.name != "12 - Are life’s “cycles” just dressed-up guesses"
 ```
+
+These cycles can definitely be a scientific model, they’re probably more accurate than AI — and we use AI for some scientific models.

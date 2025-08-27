@@ -1,1 +1,1 @@
-[[Business Cycle]] for supple and demand instead of the economy.
+[[Business Cycle]] for supply and demand instead of the economy.

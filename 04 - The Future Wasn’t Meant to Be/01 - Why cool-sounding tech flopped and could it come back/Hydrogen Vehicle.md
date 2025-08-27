@@ -4,7 +4,7 @@ could-come-back: Maybe.
 
 Vehicles powered hydrogen, people imagined they would work in one of two of ways:
 
- - Burning it just like you burn fuel, producing CO2 and polluting the environment.
+ - Burning it just like you burn fuel (inefficient and hard, but still no pollution).
  - Using hydrogen fuel cells (I barely understand how this works)
 
 ## Hydrogen Fuel Cells

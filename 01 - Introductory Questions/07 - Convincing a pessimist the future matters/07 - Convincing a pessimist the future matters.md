@@ -6,6 +6,6 @@ I would try to give them hope with these reasons
  
  - If it **is** pollution/global warming/climate change, we’ve had that since the 1900s and it’s increasing now, so is the population.
 
- - And also, we’re making ***insane*** progress on slowing down the effects of pollution rn — just look at OCE with the bans on all gas stoves, ramping production of EV batteries, and Tesla Solar rolling out!
+ - And also, we’re making ***insane*** progress on slowing down the effects of pollution rn — just look at australia with the bans on all gas stoves, ramping production of EV batteries, and Tesla Solar rolling out.
 
 If they still don’t agree, I don’t know what do say.

@@ -6,9 +6,9 @@ Seoul, South Korea's current capital, was very, **very** congested. They needed 
 
 Sejong was founded in 2007 as the new planned capital of South Korea. It was named after King Sejong the Great, the creator of the Korean Alphabet. The construction was supposed to go:
 
- - **2007-2015**: Initial phase
- - **2016-2020**: Self Sufficient phase
- - **2021-2030**: Full completion
+ - 2007-2015 — Initial phase
+ - 2016-2020 — Self Sufficient phase
+ - 2021-2030 — Full completion
 
 They were supposed to wrap it up by 2030 with a final population of 500k~. They *kind of* are on track to do that, but it's a complete mess right now. They aimed for 20k~ residents by 2012, and 300k~ by 2020.
 

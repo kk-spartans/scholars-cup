@@ -2,11 +2,15 @@
 
 I feel like, right now (even though I don’t see it much in my community), these things will mostly take over the the world (or are taking over the world) by storm:
 
- - **Flip Phones / Dumb Phones:** Most people think they get distracted by the social media on actual phones so they use these (even they most just hate it and switch back)
- - **Vinyl Records:** Audiophile boomers think this is the only way to get “true” lossless audio even thought CDs exist — or even better, FLAC.
- - **Y2K Fashion:** I don’t know how to explain
- - **Tarot, Astrology, and Other Ancient Vibes:** We’ll cover this later
- - **Film / Analogue Cameras:** Because it’s higher quality and captures feelings instead of pixels
+ - Flip Phones / Dumb Phones — Most people think they get distracted by the social media on actual phones so they use these (even though most just hate it and switch back)
+ 
+ - Vinyl Records — Audiophile boomers think this is the only way to get “true” lossless audio even thought CDs exist — or even better, FLAC.
+
+ - Y2K Fashion: — I don’t know how to explain this.
+ 
+ - Tarot, Astrology, and Other Ancient Vibes: We’ll cover this later (I hoped because I didn’t want to do it then)
+ - Film / Analogue Cameras — Because it’s higher quality and captures feelings instead of pixels
+ 
  - **Mechanical Keyboards:** I can’t express in words the amount of people building custom mechanical keyboards right now. While we have better switches and keycaps, the tech is still the same as the 80s (Although it looks and feels *SO* much better).
 
-That’s basically it imho.
+That’s basically it.

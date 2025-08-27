@@ -12,4 +12,4 @@ I feel like that I could rate the change between 1820 and 1920 a 6/10 — becaus
 
 The rate of change between 1920 and now is much more, something like a 9/10 — because not only did our routines change, but the jobs we have and the things we learn did too.
 
-Does it depend on what you're looking at? No. It does not, most fields are affected by this; the economy changed, how people talk to each other changed - **everything changed.**
+Does it depend on what you're looking at? No. Most fields are affected by this; the economy changed, how people talk to each other changed - **everything changed.**

@@ -25,7 +25,6 @@ It starts with friction by you striking the match, which created heat.
 - Potassium nitrate (KNO<sub>3</sub>)
 - Sodium nitrate (Similar to KNO<sub>3</sub>)
 - Barium nitrate (colored matches)
-- Ammonium nitrate (explosives)
 
 ### Binders
 

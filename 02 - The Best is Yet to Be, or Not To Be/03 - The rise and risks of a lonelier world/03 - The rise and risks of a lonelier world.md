@@ -4,7 +4,7 @@
 
 - **Worldwide**
   - Common across all regions, worsened post-COVID
-  - WHO: Loneliness = major public health risk (like smoking)
+  - WHO said loneliness is a major public health risk (like smoking)
   - Data quality varies wildly by region
 
 - **Asia**
@@ -44,16 +44,16 @@
 
 In my opinion: **no**. There isn't a loneliness epidemic because it's affected people are less than 50%. That doesn't mean that this needs to be addressed right now, here are some ways:
 
-- **Parasocial connections are skyrocketing**: People are forming deep, one-sided emotional bonds with streamers, influencers, and even fictional characters—because actual connection feels riskier or harder. It’s not inherently bad, but when your "best friend" doesn’t know you exist, that’s a red flag, not a vibe.
+- Parasocial connections are skyrocketing — People are forming deep, one-sided emotional bonds with streamers, influencers, and even fictional characters—because actual connection feels riskier or harder. It’s not inherently bad, but when your "best friend" doesn’t know you exist, that’s a red flag, not a vibe.
 
-- **Digital intimacy ≠ real intimacy**: Algorithms hand-feed us curated versions of people, making real-life messiness feel unbearable. So we retreat into safe, controlled online spaces. Problem is, they don’t hug back. Loneliness festers behind likes and DMs.
+- Digital intimacy != real intimacy — Algorithms hand-feed us curated versions of people, making real-life messiness feel unbearable. So we retreat into safe, controlled online spaces. Problem is, they don’t hug back. Loneliness festers behind likes and DMs.
 
-- **Fixing loneliness isn't just policy—it’s culture**: Yes, governments can fund community centers and run social campaigns, and they should. But loneliness won’t be solved by a brochure. It’s cultural. We have to make vulnerability less cringe and friendship less transactional and toxic.
+- Fixing loneliness isn't just policy, it’s culture — Yes, governments can fund community centers and run social campaigns, and they should. But loneliness won’t be solved by a brochure. It’s cultural. We have to make vulnerability less cringe and friendship less transactional and toxic.
 
-- **Rebuild real social skills**: A lot of people—especially post-COVID—don’t even know how to *make* friends anymore. Schools should teach social literacy the way they teach m*e*th.
+- Rebuild real social skills — A lot of people—especially post-COVID—don’t even know how to *make* friends anymore. Schools should teach social literacy the way they teach m*e*th.
 
-- **Stop glamorizing grindset isolation**: The “no new friends,” “I cut everyone off,” “I don’t need anyone” mindset is rotting brains. It’s cope. Humans are social animals pretending they’re wolves because the pack moved on without them.
+- Stop glamorizing grindset isolation — The “no new friends,” “I cut everyone off,” “I don’t need anyone” mindset is rotting brains. It’s cope. Humans are social animals pretending they’re wolves because the pack moved on without them.
 
-- **Target vulnerable groups with tailored support**: Older adults get ignored. Teens get pathologized. Men get told to "man up." Everyone loses. We need more nuanced support, not just a hotline and a prayer.
+- Target vulnerable groups with tailored support — Older adults get ignored. Teens get pathologized. Men get told to "man up." Everyone loses. We need more nuanced support, not just a hotline and a prayer.
 
-- **Still need the boring policy stuff**: Invest in public gathering spaces, improve mental healthcare access, incentivize real-world social initiatives. Not everyone can bootstrap their way out of isolation.
+- Still need the boring policy stuff — Invest in public gathering spaces, improve mental healthcare access, incentivize real-world social initiatives. Not everyone can bootstrap their way out of isolation.

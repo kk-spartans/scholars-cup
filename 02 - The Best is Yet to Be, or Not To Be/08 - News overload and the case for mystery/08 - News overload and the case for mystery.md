@@ -6,7 +6,7 @@ As covered in the previous topic, social media companies will do nothing about t
 
 ## My Experience
 
-I personally feel like I get stressed out when my questions aren’t answered. Like in school, I have a random though along the lines of “Why does no one use create-react-app anymore?”.  
+I personally feel like I get stressed out when my questions aren’t answered. Like in school, I have a random though along the lines of “Is gpt-oss actually better than qwen3?” and “Why do people like the t3 stack so bad?”  
 
 And when I get home, I look it up, and I feel *less* like I don’t know something. Even if the reason is because the creator of it died or something (which it isn’t)
 
@@ -18,4 +18,4 @@ If this is actually affecting people’s mental health (which I doubt), we shoul
 
 For example, if we see bad news - we should be thinking “Why are only a few of these stories on the news?” and not “Awwww… that’s sad”.
 
-I feel like social media isn’t the problem here - people are.
+I feel like social media isn’t the problem here — people are.

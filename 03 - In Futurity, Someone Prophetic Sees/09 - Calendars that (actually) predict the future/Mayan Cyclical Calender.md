@@ -15,7 +15,7 @@ Used for agriculture and civil life.
 
 ## Calendar Round
 
-The Haab’ and Tzolk’in overlap every 52 Haab’ years (18980 days). Everyone got a new calendar at this point, and they did have 18980 day long calendars.
+The Haab’ and Tzolk’in overlap every 52 Haab’ years (18980 days). Everyone got a new calendar at this point, and they did have 18980 day long calendars (~ 52 years)
 
 ## Long Count
 
@@ -25,6 +25,7 @@ The Haab’ and Tzolk’in overlap every 52 Haab’ years (18980 days). Everyone
 - Based on base-20 (vigesimal) and base-18 math.
 
 **Time units:**
+
 - 1 **K’in** = 1 day
 - 1 **Winal** = 20 K’in = 20 days
 - 1 **Tun** = 18 Winal = 360 days
@@ -38,10 +39,10 @@ So a Long Count date like `13.0.0.0.0` is:
 - 0 Tuns
 - 0 Winals
 - 0 K’ins  
-= The mythical end date in 2012\
+= The mythical end date in 2012 (because 13 was sacred and mayan long count started in August 11, 3114 BCE)
 
 Advanced inscriptions often add:
 
-- **Lunar cycles** (moon age, lunation number)
-- **Lord of the Night** (9-day repeating cycle)
+- Lunar cycles (moon age, lunation number)
+- Lord of the Night (9-day repeating cycle)
 - Planet positions sometimes

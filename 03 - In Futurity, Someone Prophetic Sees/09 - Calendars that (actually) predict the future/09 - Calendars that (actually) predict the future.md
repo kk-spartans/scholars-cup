@@ -5,3 +5,9 @@ list
 from "03 - In Futurity, Someone Prophetic Sees/09 - Calendars that (actually) predict the future"
 where file.name != "09 - Calendars that (actually) predict the future"
 ```
+
+Google trends.
+
+It predicts flu outbreaks before health reports by just seeing how often people search for “flu symptoms” or something like that.
+
+Also, [SPICE Time](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/req/time.html).

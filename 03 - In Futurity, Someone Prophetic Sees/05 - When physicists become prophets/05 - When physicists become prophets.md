@@ -6,11 +6,11 @@
 
 ## Extraterrestrial Life
 
- I don’t agree with this, at all. We’ve been trying for thousands of years, and we still haven’t found any success. Look at how long voyager 1 and 2 were in the air.
+ I don’t agree with this (maybe kind of). We’ve been trying for thousands of years, and we still haven’t found any success. Look at how long voyager 1 and 2 were in the air.
 
 ## The Evolution Of AI
 
-This is already true, look at OpenAI’s o3-pro. You have **absolutely no** chance of getting 85% on GPQA Diamond. Even the open source, tiny, 600m param models are getting [**insane** scores on these benchmarks](https://artificialanalysis.ai/?models=o3%2Co3-pro%2Cdeepseek-r1%2Cdeepseek-r1-qwen3-8b%2Cqwen3-0.6b-instruct-reasoning%2Cqwen3-30b-a3b-instruct%2Cqwen3-0.6b-instruct%2Cqwen3-30b-a3b-instruct-reasoning#intelligence-evaluations). **You can run this stuff on your own hardware**.
+This is already true, look at OpenAI’s o3-pro. You have **absolutely no** chance of getting 85% on GPQA Diamond. Even the open source, tiny, 600m param models are getting [**insane** scores on these benchmarks](https://artificialanalysis.ai/?models=gpt-oss-120b%2Cgpt-oss-20b%2Cgpt-5%2Cdeepseek-v3-1-reasoning%2Cqwen3-30b-a3b-2507-reasoning%2Cqwen3-30b-a3b-2507%2Cqwen3-0.6b-instruct%2Cqwen3-0.6b-instruct-reasoning#intelligence-evaluations). **You can run this stuff on your own hardware**.
 
 ## Colonizing Alien Worlds
 
@@ -18,9 +18,8 @@ This will definitely happen, I’m not saying any time soon — but it will happ
 
 ## Bitcoin
 
-Tell that to the people who got a 7,780,000% return on their investment in 2009. Bitcoin is the sole reason regular people know about cryptography, encryption, TLS, and everything else.
-
-He's not spitting facts, he's choking on misinformation. Don’t even get me started on mining this stuff, and it’s decentralized.
+Tell that to the people who got a 7,780,000% return on their investment in 2009. Bitcoin is the sole reason regular people know about cryptography, encryption, TLS, and everything else. 
+He's not spitting facts, he's choking on misinformation.
 
 Also, don’t get me started on the “It’s not backed by anything”. **THE US DOLLAR WASN’T BACKED BY ANYTHING SINCE 1971.**
 

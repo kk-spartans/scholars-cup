@@ -4,7 +4,9 @@ Before the dream of a second major airport for Mumbai, the Chhatrapati Shivaji M
 
 ## What Happened During
 
-The idea for Navi Mumbai International Airport? Floated way back in 1997. Approved in 2007. Construction? Kept getting pushed like your homework due tomorrow. Land acquisition dragged thanks to protests and classic political drama. By the time they actually broke ground in 2018, it already felt like we were halfway to Mars. Even post-2020, delays kept piling up because *C***O*****V*****I***D*
+The idea for Navi Mumbai International Airport? Floated way back in 1997. Approved in 2007. Construction? Kept getting pushed like your homework due tomorrow. Land acquisition dragged thanks to protests (the main reason for delays in India) and classic political drama. 
+
+By the time they actually broke ground in 2018, it already felt like we were halfway to Mars. Even post-2020, delays kept piling up because *C***O*****V*****I***D*
 
 ## What Happened After
 

@@ -1,3 +1,8 @@
+---
+author: Emily Dickinson
+year: "1921"
+link: https://hellopoetry.com/poem/2692/the-futurenever-spoke/
+---
 ```
 The Future—never spoke—  
 Nor will He—like the Dumb—  

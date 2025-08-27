@@ -10,11 +10,11 @@ Also, we want to know the future so we can prepare for it. That’s *almost* the
 
 ## Would It Benefit Them It They Did?
 
-Maybe, maybe not. But it definitely gives peace of mind, even if it’s bad — What’s the benefit of peace of mind? Calmness, serenity (?), stress-free-ness, other-things.
+Maybe, maybe not. But it definitely gives peace of mind, even if it’s bad — What’s the benefit of peace of mind? Calmness, serenity (?), stress-free-ness, other things.
 
-Most of the time, it benefits them too — Imagine if we knew when every single asteroid that will hit earth, will hit earth. We could prevent mass extinctions years before they even happen.
+Most of the time, it benefits them too — Imagine if we knew every single asteroid that would hit earth. We could prevent mass extinctions years before they even happen.
 
-## Would You Read A Biography Of Your Life?
+## [[Would I Read A Biography Of My Life|Would You Read A Biography Of Your Life?]]
 
 Depends on how the person got the information — if it’s just a *very, very* accurate estimate that has an insanely large chance of being true; yes.
 

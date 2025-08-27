@@ -1,8 +1,13 @@
+---
+author: Horace
+year: 3 BCE
+link: https://www.poetryfoundation.org/poems/48703/ode-i-11
+---
 ```
 Leucon, no one’s allowed to know his fate,  
 ```
 
-`Leucon` is the person who this is being sent to, `Leuconoe` is the actual poem, but this is a modern translation.
+`Leucon` is the person who this is being sent to, `Leuconoe` was in the actual poem, but this is a modern translation.
 
 And `his` isn’t referring to anyone in particular, basically means “their” or “anyone’s”
 
@@ -34,4 +39,4 @@ And forget about hope. Time goes running, even
 As we talk. Take the present, the future’s no one’s affair.
 ```
 
-Cut your vines basically just means “stop dreaming, start doing” imo.
+Cut your vines basically just means “stop dreaming, start doing”.

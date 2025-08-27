@@ -5,15 +5,18 @@ Just read the article to know the myths.
 Things that need to be maintained:
 
  - Relationships
-   - Friends
-   - Family
-   - Therapists
- - Skills (like, idk, tying your shoelaces?)
-   - Teachers
-   - You
-   - Youtube
+	- Friends
+	- Family
+	- Therapists
+	
+- Skills (like, idk, tying your shoelaces?)
+	- Teachers
+	- You
+	- Youtube
+
  - Servers / long-running process (harder to restart)
-   - DevOps engineers
+	- DevOps engineers
+
  - DBs / Caches
-   - DB Admins
-   - Backend devs
+	- DB Admins
+	- Backend devs

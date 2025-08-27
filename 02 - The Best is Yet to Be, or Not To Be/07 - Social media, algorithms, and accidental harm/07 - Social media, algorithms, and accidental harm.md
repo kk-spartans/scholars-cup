@@ -6,7 +6,7 @@ In my opinion, morally, it’s the users of the platform that kept watching harm
 
 Legally, I think it should be partly the creator of the content and partly the team at the company which trained the training algorithm for the algorithm.
 
-Look at what happened to Twitter (Elon Musk slowly kills me)...
+Look at what happened to Twitter (Elon Musk: *clears throat*)...
 
 Sorry, X — it’s filled with **racial slurs by politicians, rage bait from startup CEOs, and parasocial delusions from Elon himself,** all disguised as *”just jokes, bro”*.
 
@@ -14,7 +14,7 @@ Sorry, X — it’s filled with **racial slurs by politicians, rage bait from st
 
 **Yes.**
 
-## Definitely, Yes.
+## **Definitely, Yes.**
 
 Look at [[bluesky]], it’s already halfway there.
 

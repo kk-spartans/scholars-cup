@@ -2,4 +2,4 @@
 
 Again, it would be better to look at [[The Routine In 2005]], [[The Routine Right Now]] and [[The Differences Between 2005 and Now]] to predict 2045.
 
- - It wouldn't be that different from now, and it would mostly contain incremental improvements to already existing technology. For example, we might have better battery life on our phones - but nothing would have *transcended* phones. You can apply this logic to anything you want and it would probably stay true.
+It wouldn't be that different from now, and it would mostly contain incremental improvements to already existing technology. For example, we might have better battery life on our phones - but nothing would have *transcended* phones. You can apply this logic to anything you want and it would probably stay true.

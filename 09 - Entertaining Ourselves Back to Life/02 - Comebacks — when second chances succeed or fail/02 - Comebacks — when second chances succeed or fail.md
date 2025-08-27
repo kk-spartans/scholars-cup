@@ -14,9 +14,9 @@ People who failed their second try:
  - [[Myspace]] — Tried to pivot after facebook killed it, failed. Tried again with music, failed harder.
  - [[Nokia]] — Dominated phones, failed with symbian, tried again with windows phones, died in mobile.
 
-All this happens because comeback has a built in drama. The first act is just someone doing their thing. The second is them clawing back from failure, which makes people root for them (or atleast lay attention).
+All this happens because comeback has a built in drama. The first act is just someone doing their thing. The second is them clawing back from failure, which makes people root for them (or atleast pay attention).
 
-Napoleon’s second wind wasn’t “better”, it was louder. He escaped exile, rallied France in weeks, and scared Europe enough that they all dogpiled him at Waterloo. Even losing made him legendary
+Napoleon’s second wind wasn’t “better”, it was louder. He escaped exile, rallied France in weeks, and scared Europe enough that they all dogpiled him at Waterloo. Even losing made him legendary.
 
-> “First acts make history, second acts make myths.”
->  - nobody
+> “The first act of a story makes history; the second act makes myth.”
+>  - John Barth
