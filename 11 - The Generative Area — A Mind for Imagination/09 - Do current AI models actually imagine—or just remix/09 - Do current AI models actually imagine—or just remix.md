@@ -14,7 +14,7 @@ But crank a model’s temperature and suddenly it starts doing “weird, unexpec
 
 Training models to be “more imaginative” is simple:
 
- - Diverse training data, instead of just shoving more params (*cough* Anthropic *cough*)
+ - Diverse training data, instead of just shoving more params at it. 
  - RLHF against repetitivity and towards originality (Basically [Deepcoder](https://huggingface.co/agentica-org/DeepCoder-14B-Preview), the old coding master, for creativity)
  - MoE everything like the entire market so you can shove more params in it (*cough* openai, qwen, kimi, and deepseek *cough*)
 
