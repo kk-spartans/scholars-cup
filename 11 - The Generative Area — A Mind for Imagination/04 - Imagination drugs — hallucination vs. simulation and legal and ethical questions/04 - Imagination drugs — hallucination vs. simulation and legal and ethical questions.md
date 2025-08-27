@@ -15,7 +15,7 @@ If you’re telling me coffee is supposed to be an illegal hallucinogen, I’ll 
    - “If I take that job, I’ll probably hate my boss. Let me run through that.”
 
  - Rehearsal — You practice actions or conversations in your head.
-   - “If I take that job, I’ll probably hate my boss. Let me run through that.”
+   - “If I take that job, I’ll probably hate my boss. Let me run through that.” (again, yes)
 
  - Dreams — Sleep’s chaotic remix of memories, emotions, and random neural firing. Lucid dreams are like having a director’s cut. Happens mainly in REM.
    - “I was in a mall, but it was also my childhood home, and the cashier was a horse.”
