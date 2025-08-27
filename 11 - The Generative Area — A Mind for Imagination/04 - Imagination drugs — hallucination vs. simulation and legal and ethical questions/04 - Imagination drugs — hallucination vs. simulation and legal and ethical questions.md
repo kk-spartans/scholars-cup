@@ -2,7 +2,7 @@
 
 The 4 main drugs that stimulate creativity are Caffeine, Alcohol, Marijuana and Psilocybin.
 
-A hallucinogen is a drug that produce *major* alterations in thought, mood, and perception. None of this (except maybe alcohol and marijuana) produce *major* alterations, maybe minor.
+A hallucinogen is a drug that produces *major* alterations in thought, mood, and perception. None of this (except maybe alcohol and marijuana) produce *major* alterations, maybe minor.
 
 If you’re telling me coffee is supposed to be an illegal hallucinogen, I’ll tell you water is a steroid that’s banned in the olympics.
 
