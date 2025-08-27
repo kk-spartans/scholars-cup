@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5743274b67cdad4d",
+            "id": "43427e2abca65a25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Reliving It Up/08 - Reliving It Up.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "08 - Reliving It Up"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +84,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03 - In Futurity, Someone Prophetic Sees/12 - Are life’s “cycles” just dressed-up guesses/12 - Are life’s “cycles” just dressed-up guesses.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,6 +130,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -142,15 +138,34 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5743274b67cdad4d",
+  "active": "43427e2abca65a25",
   "lastOpenFiles": [
-    "08 - Reliving It Up/07 - Preserving life for the future — seeds, samples, and survival.md",
-    "08 - Reliving It Up/08 - Reliving It Up.md",
-    "03 - In Futurity, Someone Prophetic Sees/03 - In Futurity, Someone Prophetic Sees.md",
-    "03 - In Futurity, Someone Prophetic Sees/12 - Are life’s “cycles” just dressed-up guesses/12 - Are life’s “cycles” just dressed-up guesses.md",
-    "03 - In Futurity, Someone Prophetic Sees/11 - Chaos theory, predicting the unpredictable/11 - Chaos theory, predicting the unpredictable.md",
-    "99 - Creative Writing/The truth is only as valuable as the person who speaks it.md",
-    "99 - Creative Writing/99 - Creative Writing.md",
+    "14 - Concluding Questions/03 - Imagining yourself in 20 years — future selves and reigniting dreams/03 - Imagining yourself in 20 years — future selves and reigniting dreams.md",
+    "14 - Concluding Questions/02 - Music and fresh beginnings — optimism in “Section 52”/02 - Music and fresh beginnings — optimism in “Section 52”.md",
+    "14 - Concluding Questions/01 - Making new art from old materials — past, present, and future/01 - Making new art from old materials — past, present, and future.md",
+    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/04 - Atompunk — imagining an Atomic Age that never ended.md",
+    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/Old Man Atom.md",
+    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/So Long, Mom (A Song for World War III).md",
+    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/Atom Bomb Baby.md",
+    "13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/Atom and Evil.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/03 - Solarpunk — optimistic tech-nature futures and real-world examples.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/We Cast Our Eyes to the Unknowable Now.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/SolarPunk Anthem.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Imagine.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Overwatch.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Terra Nil.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Global Warming.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/The Ones Who Stay and Fight.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Wind Farmer.md",
+    "13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/Nausicaä of the Valley of the Wind.md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/02 - Afrofuturism and imagining futures for different communities.md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Space is the Place.md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Galaxy In Janaki.md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Miyale Ya Blue.md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther (book cover).md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther.md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Nightclubbing.md",
+    "13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther (movie poster).md",
     "03 - In Futurity, Someone Prophetic Sees/12 - Are life’s “cycles” just dressed-up guesses"
   ]
 }

@@ -2,4 +2,4 @@
 
 The future won’t be built from stuff that’s there right now, that’s probably true. But the distant future can be built from materials in the near future if we want it to — just produce easy to repurpose stuff.
 
-And I would like to see a world where everything looks like it is new — I have no take on whether it should be new.
+And I would like to see a world where everything looks like it *is* new — I have no take on whether it should be new.

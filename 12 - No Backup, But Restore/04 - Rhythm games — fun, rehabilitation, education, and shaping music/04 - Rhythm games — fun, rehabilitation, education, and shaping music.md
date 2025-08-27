@@ -27,12 +27,12 @@ For this to be a silicon valley hit, we’ll:
  - The music library will be user-generated, which means players will spend more time arguing about copyright than actually playing.
  - Procedural beat-mapping will be “AI-driven” (read: ChatGPT guessing where the beat is).
  - Online play will include ranked leaderboards that break every update, and yes, there will be a $5/month subscription to unlock “Hard Mode.”
- - Visually, think Just Dance meets Beat Saber, but also Duolingo—because we’ll guilt you with notifications until your thumbs cramp.
+ - Visually, think Just Dance meets Beat Saber, but also Duolingo — because we’ll guilt you with notifications until your thumbs cramp.
 
 ## Influence On Music
 
 Rhythm games are already nudging music forward:
 
-- Producers are writing high-energy, rhythmically complex tracks for games like osu and beat saber.
-- Songs are being composed with visual patterns in mind—drops timed for striking gestures.
+- Producers are writing high energy, rhythmically complex tracks for games like osu and beat saber.
+- Songs are being composed with visual patterns in mind — drops timed for striking gestures.
 - Gamers develop sharper rhythmic intuition, so future music could be more syncopated and interactive. This feedback loop could push music to be more physical, designed to be played, not just heard.

@@ -8,7 +8,7 @@ idk probably the same. What was the world like 20 years ago? We still had most o
 
 So the world will probably be the same, other than incremental improvements in already existing tech — maybe there’s 10x more code being written because of AI, and maybe that code is actually good.
 
-Maybe most of the world is now using electric cars, instead of more than some.
+Maybe *most* of the world is now using electric cars, instead of *more than some*.
 
 ## Me
 
