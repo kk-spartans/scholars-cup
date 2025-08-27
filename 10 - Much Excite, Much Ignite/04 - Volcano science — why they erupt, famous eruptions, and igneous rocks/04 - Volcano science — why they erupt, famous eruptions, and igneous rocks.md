@@ -10,7 +10,7 @@ An igneous rock is literally just cooled down magma, part of the rock cycle — 
 
 Dormant volcanoes reawaken because new magma rises from the deeper mantle, filling the chamber and pushing gases out.
 
-Also because of tectonic shifts, mostly earthquakes and subduction. Even a little magma slowly accumulating can change pressure enough trigger an eruption.
+Also because of tectonic shifts, which are mostly earthquakes and subduction. Even a little magma slowly accumulating can change pressure enough trigger an eruption.
 
 Human activities do practically nothing here — geothermal drilling, and mining aren’t strong enough to trigger an entire dormant volcano on their own.
 
